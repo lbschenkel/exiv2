@@ -1,0 +1,3 @@
+files:
+  - source: /po/exiv2.pot
+    translation: /po/%locale%.po
