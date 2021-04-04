@@ -1,4 +1,3 @@
-base_path: po
 files:
-  - source: exiv2.pot
-    translation: %locale%.po
+  - source: /po/*.pot
+    translation: /po/%locale%.po
