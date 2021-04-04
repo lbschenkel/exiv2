@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-04-04 07:29\n"
+"PO-Revision-Date: 2021-04-04 07:36\n"
 "Last-Translator: \n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -23227,7 +23227,7 @@ msgstr ""
 
 #: src/tags.cpp:829
 msgid "Shutter speed."
-msgstr ""
+msgstr "rýchlosť uzávierky."
 
 #: src/tags.cpp:830
 msgid "The lens aperture."
