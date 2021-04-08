@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-04-08 19:23\n"
+"PO-Revision-Date: 2021-04-08 20:29\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1272,7 +1272,7 @@ msgstr "Diskret"
 
 #: src/canonmn.cpp:598
 msgid "Blur Reduction"
-msgstr "Unschärfe-Reduktion"
+msgstr "Unschärfenreduktion"
 
 #: src/canonmn.cpp:599 src/canonmn.cpp:1570 src/minoltamn.cpp:909
 #: src/minoltamn.cpp:959 src/nikonmn.cpp:454 src/panasonicmn.cpp:184
@@ -1282,15 +1282,15 @@ msgstr "Monochrom"
 
 #: src/canonmn.cpp:600
 msgid "Toy Camera Effect"
-msgstr "Spielzeug-Kamera Effekt"
+msgstr "Spielzeugkameraeffekt"
 
 #: src/canonmn.cpp:601
 msgid "Scene Intelligent Auto"
-msgstr "Szene Intelligente Auto"
+msgstr "Szenenintelligente Automatik"
 
 #: src/canonmn.cpp:602
 msgid "High-speed Burst HQ"
-msgstr "Hochgeschwindigkeits-Sprengkopf"
+msgstr "Hochgeschwindigkeitsauslösungshq"
 
 #: src/canonmn.cpp:603
 msgid "Smooth Skin"
@@ -1302,7 +1302,7 @@ msgstr "Weicher Fokus"
 
 #: src/canonmn.cpp:605
 msgid "Spotlight"
-msgstr "Scheinwerfer"
+msgstr "Spotlight"
 
 #: src/canonmn.cpp:606
 msgid "Night 2"
@@ -1335,7 +1335,7 @@ msgstr "Oberfläche"
 
 #: src/canonmn.cpp:612
 msgid "Low Light 2"
-msgstr "Niedriges Licht 2"
+msgstr "Geringes Licht 2"
 
 #: src/canonmn.cpp:620 src/canonmn.cpp:621 src/properties.cpp:1167
 #: src/properties.cpp:1189 src/tags.cpp:1474 src/tags.cpp:1475
@@ -1351,7 +1351,7 @@ msgstr "Andere"
 #: src/panasonicmn.cpp:355 src/pentaxmn.cpp:441 src/pentaxmn.cpp:456
 #: src/sonymn.cpp:274 src/tags.cpp:1580
 msgid "Low"
-msgstr "Niedrig"
+msgstr "Gering"
 
 #: src/canonmn.cpp:628 src/canonmn.cpp:1545 src/fujimn.cpp:85
 #: src/fujimn.cpp:94 src/minoltamn.cpp:1175 src/minoltamn.cpp:1181
@@ -1397,7 +1397,7 @@ msgstr "Durchschnitt"
 
 #: src/canonmn.cpp:671
 msgid "Evaluative"
-msgstr "Bewertend"
+msgstr "Mehrfeld"
 
 #: src/canonmn.cpp:672 src/tags.cpp:1473
 msgid "Partial"
@@ -1405,7 +1405,7 @@ msgstr "Partiell"
 
 #: src/canonmn.cpp:673 src/olympusmn.cpp:492
 msgid "Center-weighted average"
-msgstr "Mittelpunkt gewichteter Durchschnitt"
+msgstr "Mittenbetonter gewichteter Durchschnitt"
 
 #: src/canonmn.cpp:680
 msgid "Not known"
@@ -1475,7 +1475,7 @@ msgstr "Gesichtserkennung"
 
 #: src/canonmn.cpp:705
 msgid "Easy shooting (Auto)"
-msgstr "Einfach Aufnahme (Auto)"
+msgstr "Einfache Aufnahme (Auto)"
 
 #: src/canonmn.cpp:706
 msgid "Program (P)"
@@ -1503,7 +1503,7 @@ msgstr "M-DEP"
 
 #: src/canonmn.cpp:712 src/pentaxmn.cpp:620 src/pentaxmn.cpp:633
 msgid "Bulb"
-msgstr "Glühbirne"
+msgstr "Langzeitbelichtung"
 
 #: src/canonmn.cpp:1124 src/minoltamn.cpp:303 src/nikonmn.cpp:143
 msgid "Did not fire"
@@ -1553,7 +1553,7 @@ msgstr "Normale automatische Belichtung"
 #: src/canonmn.cpp:1151 src/minoltamn.cpp:533 src/minoltamn.cpp:775
 #: src/minoltamn.cpp:1055 src/pentaxmn.cpp:1477 src/pentaxmn.cpp:1478
 msgid "Exposure compensation"
-msgstr "Belichtungskompensation"
+msgstr "Belichtungskorrektur"
 
 #: src/canonmn.cpp:1152 src/minoltamn.cpp:1585 src/pentaxmn.cpp:1579
 #: src/pentaxmn.cpp:1580
@@ -1562,7 +1562,7 @@ msgstr "Automatische Belichtungssperre"
 
 #: src/canonmn.cpp:1153
 msgid "AE lock + exposure compensation"
-msgstr "Automatische Belichtungssperre + Belichtungskompensation"
+msgstr "Automatische Belichtungssperre + Belichtungskorrektur"
 
 #: src/canonmn.cpp:1154
 msgid "No AE"
@@ -1662,11 +1662,11 @@ msgstr "Blitzmodus-Einstellungen"
 #: src/olympusmn.cpp:716 src/sigmamn.cpp:59 src/sonymn.cpp:635
 #: src/sonymn.cpp:636
 msgid "Drive Mode"
-msgstr "Antriebsmodus"
+msgstr "Betriebsart"
 
 #: src/canonmn.cpp:1212
 msgid "Drive mode setting"
-msgstr "Antriebsmodus-Einstellungen"
+msgstr "Betriebsart-Einstellungen"
 
 #: src/canonmn.cpp:1214 src/fujimn.cpp:218 src/minoltamn.cpp:628
 #: src/minoltamn.cpp:759 src/minoltamn.cpp:1045 src/minoltamn.cpp:1389
@@ -1771,11 +1771,11 @@ msgstr "ISO Geschwindigkeitseinstellung"
 #: src/sonymn.cpp:652 src/sonymn.cpp:757 src/sonymn.cpp:758 src/tags.cpp:835
 #: src/tags.cpp:1699
 msgid "Metering Mode"
-msgstr "Belichtungsmessungsmodus"
+msgstr "Messmethode"
 
 #: src/canonmn.cpp:1224
 msgid "Metering mode setting"
-msgstr "Belichtungsmessungsmodus-Einstellungen"
+msgstr "Messmethodeneinstellungen"
 
 #: src/canonmn.cpp:1225
 msgid "Focus Type"
@@ -1787,7 +1787,7 @@ msgstr "Fokustypeinstellung"
 
 #: src/canonmn.cpp:1226
 msgid "AF point selected"
-msgstr "Ausgewählter Autofokus-Punkt"
+msgstr "Ausgewählter Autofokuspunkt"
 
 #: src/canonmn.cpp:1227 src/properties.cpp:827 src/properties.cpp:1429
 #: src/sonymn.cpp:708 src/sonymn.cpp:709 src/sonymn.cpp:784 src/sonymn.cpp:785
@@ -1802,36 +1802,36 @@ msgstr "Belichtungseinstellung"
 #: src/canonmn.cpp:1229 src/nikonmn.cpp:595 src/olympusmn.cpp:763
 #: src/panasonicmn.cpp:493 src/properties.cpp:1483
 msgid "Lens Type"
-msgstr "Linsentyp"
+msgstr "Objektivtyp"
 
 #: src/canonmn.cpp:1229 src/nikonmn.cpp:595 src/olympusmn.cpp:763
 #: src/panasonicmn.cpp:493 src/pentaxmn.cpp:1566 src/pentaxmn.cpp:1567
 msgid "Lens type"
-msgstr "Linsentyp"
+msgstr "Objektivtyp"
 
 #: src/canonmn.cpp:1230 src/nikonmn.cpp:596 src/properties.cpp:941
 msgid "Lens"
-msgstr "Linse"
+msgstr "Objektiv"
 
 #: src/canonmn.cpp:1230
 msgid "'long' and 'short' focal length of lens (in 'focal units') and 'focal units' per mm"
-msgstr "Brennweite der Linse, 'lang' und 'kurz', in Brennweiteneinheiten und Brennweiteeinheit in mm"
+msgstr "Brennweite des Objektivs, 'lang' und 'kurz', in Brennweiteneinheiten und Brennweiteeinheit in mm"
 
 #: src/canonmn.cpp:1231
 msgid "Short Focal"
-msgstr "Kurzer Fokus"
+msgstr "Kurze Brennweite"
 
 #: src/canonmn.cpp:1231
 msgid "Short focal"
-msgstr "Kurzer Fokus"
+msgstr "Kurze Brennweite"
 
 #: src/canonmn.cpp:1232
 msgid "Focal Units"
-msgstr "Fokuseinheiten"
+msgstr "Brennweiteneinheiten"
 
 #: src/canonmn.cpp:1232
 msgid "Focal units"
-msgstr "Fokuseinheiten"
+msgstr "Brennweiteneinheiten"
 
 #: src/canonmn.cpp:1233 src/minoltamn.cpp:559
 msgid "Max Aperture"
@@ -1875,11 +1875,11 @@ msgstr "Einstellung des kontinuierlichen Fokus"
 
 #: src/canonmn.cpp:1240
 msgid "AESetting"
-msgstr "Automatische Belichtung-Einstellungen"
+msgstr "Automatische Belichtungseinstellungen"
 
 #: src/canonmn.cpp:1240
 msgid "AE setting"
-msgstr "Automatische Belichtung-Einstellungen"
+msgstr "Automatische Belichtungseinstellungen"
 
 #: src/canonmn.cpp:1241 src/minoltamn.cpp:153 src/minoltamn.cpp:820
 #: src/minoltamn.cpp:1081 src/minoltamn.cpp:1572 src/nikonmn.cpp:632
@@ -1921,11 +1921,11 @@ msgstr "Zielweite zoomen"
 
 #: src/canonmn.cpp:1246
 msgid "Spot Metering Mode"
-msgstr "Spot Metering Modus"
+msgstr "Spotmessung"
 
 #: src/canonmn.cpp:1246
 msgid "Spot metering mode"
-msgstr "Spot Dosiermodus"
+msgstr "Spotmessung"
 
 #: src/canonmn.cpp:1247
 msgid "Photo Effect"
@@ -1953,7 +1953,7 @@ msgstr "Farbton"
 
 #: src/canonmn.cpp:1250
 msgid "SRAW Quality Tone"
-msgstr "SRAW Qualitätston"
+msgstr "SRAW Qualität"
 
 #: src/canonmn.cpp:1250
 msgid "SRAW quality"
@@ -1981,13 +1981,13 @@ msgstr "Wolkiges Wetter"
 #: src/minoltamn.cpp:878 src/minoltamn.cpp:1206 src/minoltamn.cpp:2449
 #: src/pentaxmn.cpp:412
 msgid "Tungsten"
-msgstr "Wolframlicht"
+msgstr "Kunstlicht"
 
 #: src/canonmn.cpp:1266 src/minoltamn.cpp:229 src/minoltamn.cpp:693
 #: src/minoltamn.cpp:879 src/minoltamn.cpp:1207 src/minoltamn.cpp:2451
 #: src/nikonmn.cpp:480 src/pentaxmn.cpp:411 src/tags.cpp:1482
 msgid "Fluorescent"
-msgstr "Leuchtstoffröhre"
+msgstr "Leuchtstoff"
 
 #: src/canonmn.cpp:1270 src/minoltamn.cpp:690 src/minoltamn.cpp:877
 #: src/minoltamn.cpp:1205 src/minoltamn.cpp:2448 src/olympusmn.cpp:1059
@@ -1997,7 +1997,7 @@ msgstr "Schatten"
 
 #: src/canonmn.cpp:1271
 msgid "Manual Temperature (Kelvin)"
-msgstr "Manuelle Temperatur (Kelvin)"
+msgstr "Manuelle Farbtemperatur (Kelvin)"
 
 #: src/canonmn.cpp:1272
 msgid "PC Set 1"
@@ -2109,12 +2109,12 @@ msgstr "Benutzter Autofokus-Punkt"
 
 #: src/canonmn.cpp:1330 src/olympusmn.cpp:373
 msgid "Flash Bias"
-msgstr "Blitzkontrolle"
+msgstr "Blitzkorrektur"
 
 #: src/canonmn.cpp:1334 src/properties.cpp:837 src/tags.cpp:834
 #: src/tags.cpp:1696
 msgid "Subject Distance"
-msgstr "Entfernung des Motivs"
+msgstr "Objektentfernung"
 
 #: src/canonmn.cpp:1336 src/olympusmn.cpp:274 src/properties.cpp:833
 #: src/tags.cpp:830
