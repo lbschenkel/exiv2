@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-04-08 18:13\n"
+"PO-Revision-Date: 2021-04-08 19:23\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -85,7 +85,7 @@ msgstr "Blende"
 
 #: src/actions.cpp:357
 msgid "Exposure bias"
-msgstr "Belichtungskontrolle"
+msgstr "Belichtungskorrektur"
 
 #: src/actions.cpp:360 src/canonmn.cpp:1267 src/minoltamn.cpp:880
 #: src/minoltamn.cpp:1208 src/minoltamn.cpp:2450 src/panasonicmn.cpp:72
@@ -96,7 +96,7 @@ msgstr "Blitz"
 
 #: src/actions.cpp:363 src/canonmn.cpp:1330 src/panasonicmn.cpp:454
 msgid "Flash bias"
-msgstr "Blitzkontrolle"
+msgstr "Blitzkorrektur"
 
 #: src/actions.cpp:368 src/canonmn.cpp:418 src/minoltamn.cpp:545
 #: src/nikonmn.cpp:1399 src/nikonmn.cpp:1424
@@ -109,11 +109,11 @@ msgstr "35 mm äquivalent"
 
 #: src/actions.cpp:385 src/canonmn.cpp:1334
 msgid "Subject distance"
-msgstr "Entfernung des Motivs"
+msgstr "Motiventfernung"
 
 #: src/actions.cpp:399
 msgid "ISO speed"
-msgstr "ISO Geschwindigkeit"
+msgstr "ISO Empfindlichkeit"
 
 #: src/actions.cpp:402 src/minoltamn.cpp:497 src/minoltamn.cpp:748
 #: src/minoltamn.cpp:995 src/minoltamn.cpp:1363 src/olympusmn.cpp:675
@@ -124,7 +124,7 @@ msgstr "Belichtungsmodus"
 #: src/actions.cpp:405 src/minoltamn.cpp:515 src/minoltamn.cpp:1016
 #: src/minoltamn.cpp:1405 src/olympusmn.cpp:677 src/sigmamn.cpp:78
 msgid "Metering mode"
-msgstr "Messmodus"
+msgstr "Messmethode"
 
 #: src/actions.cpp:408 src/canonmn.cpp:1208 src/minoltamn.cpp:527
 #: src/olympusmn.cpp:203 src/olympusmn.cpp:679 src/panasonicmn.cpp:448
@@ -169,7 +169,7 @@ msgstr "Keine"
 #: src/actions.cpp:467 src/datasets.cpp:376 src/properties.cpp:367
 #: src/properties.cpp:800 src/properties.cpp:1381 src/tags.cpp:772
 msgid "Copyright"
-msgstr "Copyright"
+msgstr "Urheberrecht"
 
 #: src/actions.cpp:470
 msgid "Exif comment"
@@ -205,11 +205,11 @@ msgstr "Bytes"
 
 #: src/actions.cpp:866
 msgid "Neither tag"
-msgstr "Keines der Felder"
+msgstr "Kein Identifizierungskennzeichen"
 
 #: src/actions.cpp:867
 msgid "nor"
-msgstr "noch"
+msgstr "und auch nicht"
 
 #: src/actions.cpp:868
 msgid "found in the file"
@@ -217,7 +217,7 @@ msgstr "wurde in der Datei gefunden"
 
 #: src/actions.cpp:873
 msgid "Image file creation timestamp not set in the file"
-msgstr "Der Erstellungszeitstempel der Bilddatei ist nicht in der Datei gesetzt."
+msgstr "Der Erstellungszeitstempel der Bilddatei ist in der Datei nicht gesetzt"
 
 #: src/actions.cpp:879 src/actions.cpp:1786
 msgid "Failed to parse timestamp"
@@ -229,7 +229,7 @@ msgstr "in der Datei"
 
 #: src/actions.cpp:891
 msgid "Updating timestamp to"
-msgstr "Aktualisiere den Zeitstempel auf"
+msgstr "Der Zeitstempel wird aktualisiert auf"
 
 #: src/actions.cpp:1002
 msgid "Erasing thumbnail data"
@@ -289,7 +289,7 @@ msgstr "Schreibe Vorschau"
 
 #: src/actions.cpp:1475
 msgid "Setting JPEG comment"
-msgstr "Setze JPEG-Kommentar"
+msgstr "JPEG-Kommentar wird gesetzt"
 
 #: src/actions.cpp:1516
 msgid "Add"
@@ -317,7 +317,7 @@ msgstr "Löschen"
 
 #: src/actions.cpp:1656
 msgid "Reg "
-msgstr "Reg "
+msgstr "Registrieren "
 
 #: src/actions.cpp:1739
 msgid "Timestamp of metadatum with key"
@@ -374,7 +374,7 @@ msgstr "nach"
 
 #: src/actions.cpp:1839
 msgid "Standard Exif ISO tag exists; not modified\n"
-msgstr "Es existiert ein Standard-Exif-ISO-Stichwort; dies wird nicht geändert\n"
+msgstr "Es existiert ein Standard-Exif-ISO-Identifizierungskennzeichen; dies wird nicht verändert\n"
 
 #: src/actions.cpp:1847
 msgid "Setting Exif ISO value to"
@@ -434,11 +434,11 @@ msgstr "existiert [O]überschreiben, [r]umbenennen oder [s]überspringen?"
 
 #: src/actions.cpp:2319
 msgid "Renaming file to"
-msgstr "Die Datei wird umbenannt nach"
+msgstr "Die Datei wird umbenannt zu"
 
 #: src/actions.cpp:2321
 msgid "updating timestamp"
-msgstr "aktualisiere Zeitstempel"
+msgstr "Zeitstempel wird aktualisiert"
 
 #: src/actions.cpp:2330
 msgid "Failed to rename"
@@ -605,7 +605,7 @@ msgstr "Dateiname"
 
 #: src/canonmn.cpp:425
 msgid "Owner Name"
-msgstr "Besitzername"
+msgstr "Eigentümer"
 
 #: src/canonmn.cpp:426 src/fujimn.cpp:190 src/nikonmn.cpp:583
 #: src/olympusmn.cpp:759 src/pentaxmn.cpp:1678 src/pentaxmn.cpp:1679
@@ -647,11 +647,11 @@ msgstr "Bild-Info"
 
 #: src/canonmn.cpp:431
 msgid "Thumbnail Image Valid Area"
-msgstr "Vorschaubild"
+msgstr "Gültiger Bereich des Vorschaubildes "
 
 #: src/canonmn.cpp:431
 msgid "Thumbnail image valid area"
-msgstr "Vorschaubild"
+msgstr "Gültiger Bereich des Vorschaubildes"
 
 #: src/canonmn.cpp:432
 msgid "Serial Number Format"
@@ -688,11 +688,11 @@ msgstr "Zeitzonen-Informationen"
 
 #: src/canonmn.cpp:436
 msgid "Original Decision Data Offset"
-msgstr "Originalentscheidungsdatenversatz"
+msgstr "Ursprünglicher Entscheidungsdatenversatz"
 
 #: src/canonmn.cpp:436
 msgid "Original decision data offset"
-msgstr "Ursprünglicher Entscheidungsdatensatz"
+msgstr "Ursprünglicher Entscheidungsdatenversatz"
 
 #: src/canonmn.cpp:437
 msgid "White Balance Table"
@@ -705,11 +705,11 @@ msgstr "Weißabgleichstabelle"
 #: src/canonmn.cpp:438 src/olympusmn.cpp:765 src/properties.cpp:444
 #: src/properties.cpp:929 src/properties.cpp:1482 src/tags.cpp:1903
 msgid "Lens Model"
-msgstr "Linsenmodell"
+msgstr "Objektivmodell"
 
 #: src/canonmn.cpp:438 src/olympusmn.cpp:765
 msgid "Lens model"
-msgstr "Linsenmodell"
+msgstr "Objektivmodell"
 
 #: src/canonmn.cpp:439 src/olympusmn.cpp:760 src/panasonicmn.cpp:455
 msgid "Internal Serial Number"
@@ -725,7 +725,7 @@ msgstr "Staubbeseitigungsdaten"
 
 #: src/canonmn.cpp:440
 msgid "Dust removal data"
-msgstr "Daten zur Staubentfernung"
+msgstr "Staubbeseitigungsdaten"
 
 #: src/canonmn.cpp:441
 msgid "Custom functions"
@@ -733,11 +733,11 @@ msgstr "Angepasste Funktionen"
 
 #: src/canonmn.cpp:442
 msgid "Processing Info"
-msgstr "Verarbeitungssoftware"
+msgstr "Verarbeitungsinformation"
 
 #: src/canonmn.cpp:442
 msgid "Processing info"
-msgstr "Verarbeitungssoftware"
+msgstr "Verarbeitungsinformation"
 
 #: src/canonmn.cpp:443
 msgid "Measured Color"
@@ -765,7 +765,7 @@ msgstr "Sensor Info"
 
 #: src/canonmn.cpp:449
 msgid "Sensor info"
-msgstr "Sensor info"
+msgstr "Sensor Info"
 
 #: src/canonmn.cpp:450
 msgid "Color Data"
@@ -842,7 +842,7 @@ msgstr "Automatisch"
 
 #: src/canonmn.cpp:482 src/olympusmn.cpp:533
 msgid "Red-eye"
-msgstr "Rote-Augen"
+msgstr "Rote Augen"
 
 #: src/canonmn.cpp:483
 msgid "Slow sync"
@@ -850,11 +850,11 @@ msgstr "Langsame Synchronisation"
 
 #: src/canonmn.cpp:484
 msgid "Auto + red-eye"
-msgstr "Auto + Rote-Augen"
+msgstr "Auto + Rote Augen"
 
 #: src/canonmn.cpp:485
 msgid "On + red-eye"
-msgstr "An + Rote-Augen"
+msgstr "An + Rote Augen"
 
 #: src/canonmn.cpp:486 src/canonmn.cpp:487 src/fujimn.cpp:104
 #: src/minoltamn.cpp:1349 src/nikonmn.cpp:954 src/olympusmn.cpp:145
@@ -863,7 +863,7 @@ msgstr "Extern"
 
 #: src/canonmn.cpp:492
 msgid "Single / timer"
-msgstr "Einzel / Timer"
+msgstr "Einzelbild / Timer"
 
 #: src/canonmn.cpp:493 src/canonmn.cpp:510 src/canonmn.cpp:1144
 #: src/fujimn.cpp:233 src/minoltamn.cpp:259 src/minoltamn.cpp:1107
@@ -878,7 +878,7 @@ msgstr "Film"
 
 #: src/canonmn.cpp:495
 msgid "Continuous, speed priority"
-msgstr "Kontinuierlich, Gerschwindigkeit prioritisiert"
+msgstr "Kontinuierlich, Geschwindigkeitspriorität"
 
 #: src/canonmn.cpp:496
 msgid "Continuous, low"
@@ -890,11 +890,11 @@ msgstr "Kontinuierlich, hoch"
 
 #: src/canonmn.cpp:498
 msgid "Silent Single"
-msgstr "Lautlos Einzeln"
+msgstr "Lautlos Einzelbild"
 
 #: src/canonmn.cpp:499
 msgid "Single, Silent"
-msgstr "Einzel, stumm"
+msgstr "Einzelbild, stumm"
 
 #: src/canonmn.cpp:500
 msgid "Continuous, Silent"
@@ -918,7 +918,7 @@ msgstr "Manueller Fokus (3)"
 
 #: src/canonmn.cpp:509 src/canonmn.cpp:1143 src/sonymn.cpp:291
 msgid "Single"
-msgstr "Einzel"
+msgstr "Einzelbild"
 
 #: src/canonmn.cpp:511
 msgid "Manual focus (6)"
@@ -1168,7 +1168,7 @@ msgstr "Super Makro 2"
 
 #: src/canonmn.cpp:572
 msgid "Color Accent"
-msgstr "Akzent Farbe"
+msgstr "Farbakzent"
 
 #: src/canonmn.cpp:573
 msgid "Color Swap"
@@ -1224,7 +1224,7 @@ msgstr "Poster-Effekt"
 
 #: src/canonmn.cpp:586
 msgid "Face Self-timer"
-msgstr "Gesicht Selbstauslöser"
+msgstr "Gesichtsselbstauslöser"
 
 #: src/canonmn.cpp:587
 msgid "Smile"
@@ -1232,7 +1232,7 @@ msgstr "Lächeln"
 
 #: src/canonmn.cpp:588
 msgid "Wink Self-timer"
-msgstr "Wink Self-Timer"
+msgstr "Blinzelselbstauslöser"
 
 #: src/canonmn.cpp:589
 msgid "Fisheye Effect"
@@ -1244,7 +1244,7 @@ msgstr "Miniatureffekt"
 
 #: src/canonmn.cpp:591
 msgid "High-speed Burst"
-msgstr "Hochgeschwindigkeitsexplosion"
+msgstr "Hochgeschwindigkeitsauslösung"
 
 #: src/canonmn.cpp:592
 msgid "Best Image Selection"
@@ -1252,11 +1252,11 @@ msgstr "Beste Bildauswahl"
 
 #: src/canonmn.cpp:593
 msgid "High Dynamic Range"
-msgstr "HDR"
+msgstr "Hoher Dynamikumfang"
 
 #: src/canonmn.cpp:594
 msgid "Handheld Night Scene"
-msgstr "Handgehalten bei Nacht"
+msgstr "Handgehaltene Nachtszene"
 
 #: src/canonmn.cpp:595
 msgid "Movie Digest"
