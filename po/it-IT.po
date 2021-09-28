@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-28 14:55\n"
+"PO-Revision-Date: 2021-09-28 16:21\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -53,7 +53,7 @@ msgstr "Dimensione dell'immagine"
 #: src/actions.cpp:1121 src/actions.cpp:1697 src/actions.cpp:1832
 #: src/actions.cpp:1895
 msgid "No Exif data found in the file\n"
-msgstr ""
+msgstr "Non sono stati trovati dati Exif nel file\n"
 
 #: src/actions.cpp:319
 msgid "Camera make"
@@ -61,85 +61,85 @@ msgstr ""
 
 #: src/actions.cpp:322
 msgid "Camera model"
-msgstr ""
+msgstr "Modello fotocamera"
 
 #: src/actions.cpp:325
 msgid "Image timestamp"
-msgstr ""
+msgstr "Marca temporale dell'immagine"
 
 #: src/actions.cpp:329 src/minoltamn.cpp:811 src/minoltamn.cpp:818
 #: src/minoltamn.cpp:1076
 msgid "Image number"
-msgstr ""
+msgstr "Numero dell'immagine"
 
 #: src/actions.cpp:334 src/minoltamn.cpp:521 src/minoltamn.cpp:804
 #: src/minoltamn.cpp:1034 src/minoltamn.cpp:1378 src/pentaxmn.cpp:1467
 #: src/pentaxmn.cpp:1468
 msgid "Exposure time"
-msgstr ""
+msgstr "Tempo di esposizione"
 
 #: src/actions.cpp:346 src/canonmn.cpp:1336 src/minoltamn.cpp:1272
 #: src/tags.cpp:1680
 msgid "Aperture"
-msgstr ""
+msgstr "Diaframma"
 
 #: src/actions.cpp:357
 msgid "Exposure bias"
-msgstr ""
+msgstr "Correzione dell'esposizione"
 
 #: src/actions.cpp:360 src/canonmn.cpp:1267 src/minoltamn.cpp:880
 #: src/minoltamn.cpp:1208 src/minoltamn.cpp:2450 src/panasonicmn.cpp:72
 #: src/pentaxmn.cpp:417 src/properties.cpp:840 src/sonymn.cpp:231
 #: src/tags.cpp:837 src/tags.cpp:1484 src/tags.cpp:1705
 msgid "Flash"
-msgstr ""
+msgstr "Flash"
 
 #: src/actions.cpp:363 src/canonmn.cpp:1330 src/panasonicmn.cpp:454
 msgid "Flash bias"
-msgstr ""
+msgstr "Correzione del flash"
 
 #: src/actions.cpp:368 src/canonmn.cpp:418 src/minoltamn.cpp:545
 #: src/nikonmn.cpp:1399 src/nikonmn.cpp:1424
 msgid "Focal length"
-msgstr ""
+msgstr "Lunghezza focale"
 
 #: src/actions.cpp:373
 msgid "35 mm equivalent"
-msgstr ""
+msgstr "35 mm equivalente"
 
 #: src/actions.cpp:385 src/canonmn.cpp:1334
 msgid "Subject distance"
-msgstr ""
+msgstr "Distanza del soggetto"
 
 #: src/actions.cpp:399
 msgid "ISO speed"
-msgstr ""
+msgstr "Velocità ISO"
 
 #: src/actions.cpp:402 src/minoltamn.cpp:497 src/minoltamn.cpp:748
 #: src/minoltamn.cpp:995 src/minoltamn.cpp:1363 src/olympusmn.cpp:675
 #: src/sigmamn.cpp:75
 msgid "Exposure mode"
-msgstr ""
+msgstr "Modalità di esposizione"
 
 #: src/actions.cpp:405 src/minoltamn.cpp:515 src/minoltamn.cpp:1016
 #: src/minoltamn.cpp:1405 src/olympusmn.cpp:677 src/sigmamn.cpp:78
 msgid "Metering mode"
-msgstr ""
+msgstr "Modalità di misurazione"
 
 #: src/actions.cpp:408 src/canonmn.cpp:1208 src/minoltamn.cpp:527
 #: src/olympusmn.cpp:203 src/olympusmn.cpp:679 src/panasonicmn.cpp:448
 msgid "Macro mode"
-msgstr ""
+msgstr "Modalità macro"
 
 #: src/actions.cpp:411 src/minoltamn.cpp:139 src/minoltamn.cpp:509
 #: src/minoltamn.cpp:754 src/minoltamn.cpp:1001 src/pentaxmn.cpp:1447
 #: src/sonymn.cpp:338
 msgid "Image quality"
-msgstr ""
+msgstr "Qualità dell'immagine"
 
 #: src/actions.cpp:415
 msgid "Exif Resolution"
-msgstr ""
+msgstr "Risoluzione Exif"
 
 #: src/actions.cpp:445 src/canonmn.cpp:1584 src/minoltamn.cpp:184
 #: src/minoltamn.cpp:503 src/minoltamn.cpp:757 src/minoltamn.cpp:1004
@@ -147,11 +147,11 @@ msgstr ""
 #: src/nikonmn.cpp:561 src/olympusmn.cpp:899 src/pentaxmn.cpp:1487
 #: src/pentaxmn.cpp:1488 src/sigmamn.cpp:72 src/sonymn.cpp:353
 msgid "White balance"
-msgstr ""
+msgstr "Bilanciamento del bianco"
 
 #: src/actions.cpp:448 src/minoltamn.cpp:120 src/olympusmn.cpp:427
 msgid "Thumbnail"
-msgstr ""
+msgstr "Miniatura"
 
 #: src/actions.cpp:452 src/actions.cpp:457 src/canonmn.cpp:617
 #: src/canonmn.cpp:1488 src/canonmn.cpp:1497 src/canonmn.cpp:1551
@@ -169,39 +169,39 @@ msgstr ""
 #: src/actions.cpp:467 src/datasets.cpp:376 src/properties.cpp:367
 #: src/properties.cpp:800 src/properties.cpp:1381 src/tags.cpp:772
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 #: src/actions.cpp:470
 msgid "Exif comment"
-msgstr ""
+msgstr "Commento Exif"
 
 #: src/actions.cpp:577
 msgid "No IPTC data found in the file\n"
-msgstr ""
+msgstr "Non sono stati trovati dati IPTC nel file\n"
 
 #: src/actions.cpp:578
 msgid "No XMP data found in the file\n"
-msgstr ""
+msgstr "Non sono stati trovati dati XMP nel file\n"
 
 #: src/actions.cpp:713 src/actions.cpp:746 src/actions.cpp:767
 msgid "(Binary value suppressed)"
-msgstr ""
+msgstr "(Valore binario soppresso)"
 
 #: src/actions.cpp:789
 msgid "JPEG comment"
-msgstr ""
+msgstr "Commento JPEG"
 
 #: src/actions.cpp:814
 msgid "Preview"
-msgstr ""
+msgstr "Anteprima"
 
 #: src/actions.cpp:818 src/actions.cpp:1230 src/properties.cpp:502
 msgid "pixels"
-msgstr ""
+msgstr "pixel"
 
 #: src/actions.cpp:820 src/actions.cpp:1232
 msgid "bytes"
-msgstr ""
+msgstr "byte"
 
 #: src/actions.cpp:866
 msgid "Neither tag"
@@ -209,23 +209,23 @@ msgstr ""
 
 #: src/actions.cpp:867
 msgid "nor"
-msgstr ""
+msgstr "né"
 
 #: src/actions.cpp:868
 msgid "found in the file"
-msgstr ""
+msgstr "trovato nel file"
 
 #: src/actions.cpp:873
 msgid "Image file creation timestamp not set in the file"
-msgstr ""
+msgstr "Ora di creazione del file immagine non impostata nel file"
 
 #: src/actions.cpp:879 src/actions.cpp:1786
 msgid "Failed to parse timestamp"
-msgstr ""
+msgstr "Errore di interpretazione della marca di tempo"
 
 #: src/actions.cpp:880
 msgid "in the file"
-msgstr ""
+msgstr "nel file"
 
 #: src/actions.cpp:891
 msgid "Updating timestamp to"
