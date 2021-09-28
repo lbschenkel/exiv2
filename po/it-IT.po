@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-28 16:21\n"
+"PO-Revision-Date: 2021-09-28 17:32\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -229,39 +229,39 @@ msgstr "nel file"
 
 #: src/actions.cpp:891
 msgid "Updating timestamp to"
-msgstr ""
+msgstr "Aggiornamento della marca di tempo a"
 
 #: src/actions.cpp:1002
 msgid "Erasing thumbnail data"
-msgstr ""
+msgstr "Cancellazione dei dati della miniatura"
 
 #: src/actions.cpp:1010
 msgid "Erasing Exif data from the file"
-msgstr ""
+msgstr "Cancellazione dei dati Exif dal file"
 
 #: src/actions.cpp:1019
 msgid "Erasing IPTC data from the file"
-msgstr ""
+msgstr "Cancellazione dei dati IPTC dal file"
 
 #: src/actions.cpp:1028
 msgid "Erasing JPEG comment from the file"
-msgstr ""
+msgstr "Cancellazione del commento JPEG dal file"
 
 #: src/actions.cpp:1037
 msgid "Erasing XMP data from the file"
-msgstr ""
+msgstr "Cancellazione dei dati XMP dal file"
 
 #: src/actions.cpp:1046
 msgid "Erasing ICC Profile data from the file"
-msgstr ""
+msgstr "Cancellazione dei dati del profilo ICC dal file"
 
 #: src/actions.cpp:1128
 msgid "Image does not contain an Exif thumbnail\n"
-msgstr ""
+msgstr "L'immagine non contiene una miniatura Exif\n"
 
 #: src/actions.cpp:1137
 msgid "Writing thumbnail"
-msgstr ""
+msgstr "Scrittura della miniatura"
 
 #: src/actions.cpp:1138 src/actions.cpp:1233
 msgid "to file"
@@ -269,15 +269,15 @@ msgstr ""
 
 #: src/actions.cpp:1144
 msgid "Exif data doesn't contain a thumbnail\n"
-msgstr ""
+msgstr "I dati Exif non contengono una miniatura\n"
 
 #: src/actions.cpp:1174 src/actions.cpp:1237
 msgid "Image does not have preview"
-msgstr ""
+msgstr "L'immagine non ha l'anteprima"
 
 #: src/actions.cpp:1199
 msgid "No embedded iccProfile: "
-msgstr ""
+msgstr "Nessun iccProfile incorporato: "
 
 #: src/actions.cpp:1207
 msgid "Writing iccProfile: "
@@ -289,7 +289,7 @@ msgstr ""
 
 #: src/actions.cpp:1475
 msgid "Setting JPEG comment"
-msgstr ""
+msgstr "Impostazione del commento JPEG"
 
 #: src/actions.cpp:1516
 msgid "Add"
@@ -297,15 +297,15 @@ msgstr ""
 
 #: src/actions.cpp:1538 src/actions.cpp:1612
 msgid "Warning"
-msgstr ""
+msgstr "Attenzione"
 
 #: src/actions.cpp:1539 src/actions.cpp:1613
 msgid "Failed to read"
-msgstr ""
+msgstr "Lettura non riuscita"
 
 #: src/actions.cpp:1541 src/actions.cpp:1615
 msgid "value"
-msgstr ""
+msgstr "valore"
 
 #: src/actions.cpp:1552
 msgid "Set"
@@ -321,15 +321,15 @@ msgstr ""
 
 #: src/actions.cpp:1739
 msgid "Timestamp of metadatum with key"
-msgstr ""
+msgstr "Marca oraria del metadato con chiave"
 
 #: src/actions.cpp:1740
 msgid "not set\n"
-msgstr ""
+msgstr "non impostato\n"
 
 #: src/actions.cpp:1745
 msgid "Adjusting"
-msgstr ""
+msgstr "Correzione"
 
 #: src/actions.cpp:1745
 msgid "by"
@@ -337,7 +337,7 @@ msgstr ""
 
 #: src/actions.cpp:1749 src/actions.cpp:1798
 msgid "years"
-msgstr ""
+msgstr "anni"
 
 #: src/actions.cpp:1752
 msgid "year"
@@ -345,19 +345,19 @@ msgstr ""
 
 #: src/actions.cpp:1760
 msgid "months"
-msgstr ""
+msgstr "mesi"
 
 #: src/actions.cpp:1763
 msgid "month"
-msgstr ""
+msgstr "mese"
 
 #: src/actions.cpp:1771
 msgid "days"
-msgstr ""
+msgstr "giorni"
 
 #: src/actions.cpp:1774
 msgid "day"
-msgstr ""
+msgstr "giorno"
 
 #: src/actions.cpp:1780
 msgid "s"
@@ -365,7 +365,7 @@ msgstr ""
 
 #: src/actions.cpp:1796
 msgid "Can't adjust timestamp by"
-msgstr ""
+msgstr "Impossibile regolare la marca di tempo di"
 
 #: src/actions.cpp:1805 src/actions.cpp:2141 src/actions.cpp:2156
 #: src/actions.cpp:2171 src/actions.cpp:2201 src/actions.cpp:2331
@@ -374,79 +374,79 @@ msgstr ""
 
 #: src/actions.cpp:1839
 msgid "Standard Exif ISO tag exists; not modified\n"
-msgstr ""
+msgstr "Etichetta standard Exif ISO esistente; non modificato\n"
 
 #: src/actions.cpp:1847
 msgid "Setting Exif ISO value to"
-msgstr ""
+msgstr "Impostazione del valore Exif ISO a"
 
 #: src/actions.cpp:1901
 msgid "No Exif user comment found"
-msgstr ""
+msgstr "Nessun si è trovato nessun commento Exif di utente"
 
 #: src/actions.cpp:1909
 msgid "Found Exif user comment with unexpected value type"
-msgstr ""
+msgstr "Si è trovato un commento Exif di utente con tipo di valore inatteso"
 
 #: src/actions.cpp:1916
 msgid "No Exif UNICODE user comment found"
-msgstr ""
+msgstr "Nessun si è trovato nessun commento Exif UNICODE di utente"
 
 #: src/actions.cpp:1922
 msgid "Setting Exif UNICODE user comment to"
-msgstr ""
+msgstr "Impostazione del commento di utente Exif UNICODE a"
 
 #: src/actions.cpp:2140
 msgid "Writing Exif data from"
-msgstr ""
+msgstr "Scrittura dei dati Exif da"
 
 #: src/actions.cpp:2155
 msgid "Writing IPTC data from"
-msgstr ""
+msgstr "Scrittura dei dati IPTC da"
 
 #: src/actions.cpp:2170
 msgid "Writing XMP data from"
-msgstr ""
+msgstr "Scrittura dei dati XMP da"
 
 #: src/actions.cpp:2200
 msgid "Writing JPEG comment from"
-msgstr ""
+msgstr "Scrittura del commento JPEG da"
 
 #: src/actions.cpp:2211
 msgid "Could not write metadata to file"
-msgstr ""
+msgstr "Non si sono potuti scrivere i metadati al file"
 
 #: src/actions.cpp:2257
 msgid "Filename format yields empty filename for the file"
-msgstr ""
+msgstr "Il formato del nome del file restituisce un nome vuoto per il file"
 
 #: src/actions.cpp:2266
 msgid "This file already has the correct name"
-msgstr ""
+msgstr "Questo file ha già il nome corretto"
 
 #: src/actions.cpp:2290 src/exiv2.cpp:167
 msgid "File"
-msgstr ""
+msgstr "File"
 
 #: src/actions.cpp:2291
 msgid "exists. [O]verwrite, [r]ename or [s]kip?"
-msgstr ""
+msgstr "esiste. S[o]vrascrivi, [r]rinomina o [s]alta?"
 
 #: src/actions.cpp:2319
 msgid "Renaming file to"
-msgstr ""
+msgstr "Cambiamento del nome del file a"
 
 #: src/actions.cpp:2321
 msgid "updating timestamp"
-msgstr ""
+msgstr "aggiornamento della marca di tempo"
 
 #: src/actions.cpp:2330
 msgid "Failed to rename"
-msgstr ""
+msgstr "Non si è potuto cambiare il nome"
 
 #: src/actions.cpp:2356
 msgid "Overwrite"
-msgstr ""
+msgstr "Sovrascrittura"
 
 #: src/canonmn.cpp:59 src/canonmn.cpp:403 src/canonmn.cpp:463
 #: src/canonmn.cpp:479 src/canonmn.cpp:1159 src/canonmn.cpp:1179
@@ -475,7 +475,7 @@ msgstr ""
 #: src/sonymn.cpp:214 src/sonymn.cpp:259 src/sonymn.cpp:266 src/sonymn.cpp:297
 #: src/sonymn.cpp:568
 msgid "Off"
-msgstr ""
+msgstr "Non attivo"
 
 #: src/canonmn.cpp:60 src/canonmn.cpp:462 src/canonmn.cpp:481
 #: src/canonmn.cpp:1160 src/canonmn.cpp:1475 src/fujimn.cpp:57
@@ -489,11 +489,11 @@ msgstr ""
 #: src/panasonicmn.cpp:430 src/pentaxmn.cpp:390 src/pentaxmn.cpp:996
 #: src/sonymn.cpp:215 src/sonymn.cpp:267 src/sonymn.cpp:298
 msgid "On"
-msgstr ""
+msgstr "Attivo"
 
 #: src/canonmn.cpp:397
 msgid "Format 1"
-msgstr ""
+msgstr "Formato 1"
 
 #: src/canonmn.cpp:398
 msgid "Format 2"
