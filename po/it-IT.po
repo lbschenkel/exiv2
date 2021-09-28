@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-28 17:32\n"
+"PO-Revision-Date: 2021-09-28 18:33\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -57,7 +57,7 @@ msgstr "Non sono stati trovati dati Exif nel file\n"
 
 #: src/actions.cpp:319
 msgid "Camera make"
-msgstr ""
+msgstr "Fabbricante della fotocamera"
 
 #: src/actions.cpp:322
 msgid "Camera model"
@@ -265,7 +265,7 @@ msgstr "Scrittura della miniatura"
 
 #: src/actions.cpp:1138 src/actions.cpp:1233
 msgid "to file"
-msgstr ""
+msgstr "al file"
 
 #: src/actions.cpp:1144
 msgid "Exif data doesn't contain a thumbnail\n"
@@ -281,11 +281,11 @@ msgstr "Nessun iccProfile incorporato: "
 
 #: src/actions.cpp:1207
 msgid "Writing iccProfile: "
-msgstr ""
+msgstr "Scrittura del Profilo ICC: "
 
 #: src/actions.cpp:1226
 msgid "Writing preview"
-msgstr ""
+msgstr "Scrittura dell'anteprima"
 
 #: src/actions.cpp:1475
 msgid "Setting JPEG comment"
@@ -341,7 +341,7 @@ msgstr "anni"
 
 #: src/actions.cpp:1752
 msgid "year"
-msgstr ""
+msgstr "anno"
 
 #: src/actions.cpp:1760
 msgid "months"
@@ -497,21 +497,21 @@ msgstr "Formato 1"
 
 #: src/canonmn.cpp:398
 msgid "Format 2"
-msgstr ""
+msgstr "Formato 2"
 
 #: src/canonmn.cpp:404 src/nikonmn.cpp:1263
 msgid "On (1)"
-msgstr ""
+msgstr "Attivo (1)"
 
 #: src/canonmn.cpp:405 src/canonmn.cpp:1165 src/nikonmn.cpp:1264
 msgid "On (2)"
-msgstr ""
+msgstr "Attivo (2)"
 
 #: src/canonmn.cpp:410 src/minoltamn.cpp:1152 src/nikonmn.cpp:137
 #: src/olympusmn.cpp:602 src/olympusmn.cpp:793 src/olympusmn.cpp:858
 #: src/pentaxmn.cpp:683 src/tags.cpp:1505
 msgid "sRGB"
-msgstr ""
+msgstr "sRGB"
 
 #: src/canonmn.cpp:411 src/canonmn.cpp:1555 src/minoltamn.cpp:365
 #: src/minoltamn.cpp:735 src/minoltamn.cpp:911 src/minoltamn.cpp:960
@@ -519,7 +519,7 @@ msgstr ""
 #: src/olympusmn.cpp:794 src/olympusmn.cpp:859 src/pentaxmn.cpp:684
 #: src/sonymn.cpp:550 src/sonymn.cpp:580 src/tags.cpp:1506
 msgid "Adobe RGB"
-msgstr ""
+msgstr "Adobe RGB"
 
 #: src/canonmn.cpp:416 src/canonmn.cpp:419 src/canonmn.cpp:445
 #: src/canonmn.cpp:446 src/canonmn.cpp:447 src/canonmn.cpp:1213
@@ -549,142 +549,142 @@ msgstr ""
 #: src/tags.cpp:1467 src/tags.cpp:1480 src/tags.cpp:1586 src/tags.cpp:2714
 #: src/tags.cpp:2832
 msgid "Unknown"
-msgstr ""
+msgstr "Sconosciuto"
 
 #: src/canonmn.cpp:417 src/olympusmn.cpp:451 src/sonymn.cpp:349
 #: src/sonymn.cpp:350
 msgid "Camera Settings"
-msgstr ""
+msgstr "Impostazioni della Fotocamera"
 
 #: src/canonmn.cpp:417
 msgid "Various camera settings"
-msgstr ""
+msgstr "Varie impostazioni della fotocamera"
 
 #: src/canonmn.cpp:418 src/minoltamn.cpp:544 src/nikonmn.cpp:1399
 #: src/nikonmn.cpp:1424 src/properties.cpp:841 src/properties.cpp:1441
 #: src/tags.cpp:838 src/tags.cpp:1708
 msgid "Focal Length"
-msgstr ""
+msgstr "Lunghezza Focale"
 
 #: src/canonmn.cpp:420 src/sonymn.cpp:408
 msgid "Shot Info"
-msgstr ""
+msgstr "Informazioni sullo Scatto"
 
 #: src/canonmn.cpp:420
 msgid "Shot information"
-msgstr ""
+msgstr "Informazioni sullo scatto"
 
 #: src/canonmn.cpp:421 src/olympusmn.cpp:102 src/olympusmn.cpp:1171
 #: src/panasonicmn.cpp:158 src/sonymn.cpp:371 src/sonymn.cpp:372
 msgid "Panorama"
-msgstr ""
+msgstr "Panorama"
 
 #: src/canonmn.cpp:422 src/datasets.cpp:396 src/properties.cpp:1069
 msgid "Image Type"
-msgstr ""
+msgstr "Tipo di Immagine"
 
 #: src/canonmn.cpp:422
 msgid "Image type"
-msgstr ""
+msgstr "Tipo di immagine"
 
 #: src/canonmn.cpp:423 src/panasonicmn.cpp:442 src/properties.cpp:1439
 msgid "Firmware Version"
-msgstr ""
+msgstr "Versione del Firmware"
 
 #: src/canonmn.cpp:423 src/panasonicmn.cpp:442
 msgid "Firmware version"
-msgstr ""
+msgstr "Versione del firmware"
 
 #: src/canonmn.cpp:424 src/canonmn.cpp:1506 src/nikonmn.cpp:919
 msgid "File Number"
-msgstr ""
+msgstr "Numero del File"
 
 #: src/canonmn.cpp:424 src/nikonmn.cpp:919
 msgid "File number"
-msgstr ""
+msgstr "Numero del file"
 
 #: src/canonmn.cpp:425
 msgid "Owner Name"
-msgstr ""
+msgstr "Nome del Proprietario"
 
 #: src/canonmn.cpp:426 src/fujimn.cpp:190 src/nikonmn.cpp:583
 #: src/olympusmn.cpp:759 src/pentaxmn.cpp:1678 src/pentaxmn.cpp:1679
 #: src/properties.cpp:942 src/sigmamn.cpp:56
 msgid "Serial Number"
-msgstr ""
+msgstr "Numero di Serie"
 
 #: src/canonmn.cpp:426 src/sigmamn.cpp:57
 msgid "Camera serial number"
-msgstr ""
+msgstr "Numero di serie della fotocamera"
 
 #: src/canonmn.cpp:427
 msgid "Camera Info"
-msgstr ""
+msgstr "Informazioni Sulla Fotocamera"
 
 #: src/canonmn.cpp:427
 msgid "Camera info"
-msgstr ""
+msgstr "Informazioni sulla fotocamera"
 
 #: src/canonmn.cpp:428 src/canonmn.cpp:441
 msgid "Custom Functions"
-msgstr ""
+msgstr "Funzioni personalizzate"
 
 #: src/canonmn.cpp:429
 msgid "ModelID"
-msgstr ""
+msgstr "ID del Modello"
 
 #: src/canonmn.cpp:429
 msgid "Model ID"
-msgstr ""
+msgstr "Id del modello"
 
 #: src/canonmn.cpp:430 src/olympusmn.cpp:220
 msgid "Picture Info"
-msgstr ""
+msgstr "Informazioni sull'Immagine"
 
 #: src/canonmn.cpp:430
 msgid "Picture info"
-msgstr ""
+msgstr "Informazioni sull'immagine"
 
 #: src/canonmn.cpp:431
 msgid "Thumbnail Image Valid Area"
-msgstr ""
+msgstr "Area Valida della Miniatura dell'Immagine"
 
 #: src/canonmn.cpp:431
 msgid "Thumbnail image valid area"
-msgstr ""
+msgstr "Area valida della miniatura dell'immagine"
 
 #: src/canonmn.cpp:432
 msgid "Serial Number Format"
-msgstr ""
+msgstr "Formato del Numero di Serie"
 
 #: src/canonmn.cpp:432
 msgid "Serial number format"
-msgstr ""
+msgstr "Formato del numero di serie"
 
 #: src/canonmn.cpp:433 src/canonmn.cpp:559 src/minoltamn.cpp:2390
 #: src/olympusmn.cpp:111 src/olympusmn.cpp:504 src/pentaxmn.cpp:270
 msgid "Super Macro"
-msgstr ""
+msgstr "Super Macro"
 
 #: src/canonmn.cpp:433 src/canonmn.cpp:687 src/olympusmn.cpp:82
 msgid "Super macro"
-msgstr ""
+msgstr "Super macro"
 
 #: src/canonmn.cpp:434 src/nikonmn.cpp:600
 msgid "AF Info"
-msgstr ""
+msgstr "Informazioni AF"
 
 #: src/canonmn.cpp:434 src/nikonmn.cpp:600
 msgid "AF info"
-msgstr ""
+msgstr "Informazioni AF"
 
 #: src/canonmn.cpp:435
 msgid "Time Info"
-msgstr ""
+msgstr "Informazioni di Tempo"
 
 #: src/canonmn.cpp:435
 msgid "Time zone information"
-msgstr ""
+msgstr "Informazioni sul fuso orario"
 
 #: src/canonmn.cpp:436
 msgid "Original Decision Data Offset"
@@ -696,94 +696,94 @@ msgstr ""
 
 #: src/canonmn.cpp:437
 msgid "White Balance Table"
-msgstr ""
+msgstr "Tabella di Bilanciamento Del Bianco"
 
 #: src/canonmn.cpp:437
 msgid "White balance table"
-msgstr ""
+msgstr "Tabella di bilanciamento Del Bianco"
 
 #: src/canonmn.cpp:438 src/olympusmn.cpp:765 src/properties.cpp:444
 #: src/properties.cpp:929 src/properties.cpp:1482 src/tags.cpp:1903
 msgid "Lens Model"
-msgstr ""
+msgstr "Modello di Lente"
 
 #: src/canonmn.cpp:438 src/olympusmn.cpp:765
 msgid "Lens model"
-msgstr ""
+msgstr "Modello di lente"
 
 #: src/canonmn.cpp:439 src/olympusmn.cpp:760 src/panasonicmn.cpp:455
 msgid "Internal Serial Number"
-msgstr ""
+msgstr "Numero di Serie Interno"
 
 #: src/canonmn.cpp:439 src/olympusmn.cpp:760
 msgid "Internal serial number"
-msgstr ""
+msgstr "Numero di serie Interno"
 
 #: src/canonmn.cpp:440
 msgid "Dust Removal Data"
-msgstr ""
+msgstr "Dati per la Rimozione della Polvere"
 
 #: src/canonmn.cpp:440
 msgid "Dust removal data"
-msgstr ""
+msgstr "Dati per la rimozione della polvere"
 
 #: src/canonmn.cpp:441
 msgid "Custom functions"
-msgstr ""
+msgstr "Funzioni personalizzate"
 
 #: src/canonmn.cpp:442
 msgid "Processing Info"
-msgstr ""
+msgstr "Informazioni di Elaborazione"
 
 #: src/canonmn.cpp:442
 msgid "Processing info"
-msgstr ""
+msgstr "Informazioni di elaborazione"
 
 #: src/canonmn.cpp:443
 msgid "Measured Color"
-msgstr ""
+msgstr "Colore Misurato"
 
 #: src/canonmn.cpp:443
 msgid "Measured color"
-msgstr ""
+msgstr "Colore misurato"
 
 #: src/canonmn.cpp:444
 msgid "ColorSpace"
-msgstr ""
+msgstr "Spazio dei Colori"
 
 #: src/canonmn.cpp:448
 msgid "VRD Offset"
-msgstr ""
+msgstr "Scostamento VRD"
 
 #: src/canonmn.cpp:448
 msgid "VRD offset"
-msgstr ""
+msgstr "Scostamento VRD"
 
 #: src/canonmn.cpp:449
 msgid "Sensor Info"
-msgstr ""
+msgstr "Informazione sul Sensore"
 
 #: src/canonmn.cpp:449
 msgid "Sensor info"
-msgstr ""
+msgstr "Informazione sul sensore"
 
 #: src/canonmn.cpp:450
 msgid "Color Data"
-msgstr ""
+msgstr "Dati sui Colori"
 
 #: src/canonmn.cpp:450
 msgid "Color data"
-msgstr ""
+msgstr "Dati sui colori"
 
 #: src/canonmn.cpp:452
 msgid "Unknown CanonMakerNote tag"
-msgstr ""
+msgstr "Etichetta CanonMakerNote sconosciuta"
 
 #: src/canonmn.cpp:468 src/minoltamn.cpp:84 src/minoltamn.cpp:252
 #: src/minoltamn.cpp:683 src/minoltamn.cpp:869 src/minoltamn.cpp:2408
 #: src/panasonicmn.cpp:126
 msgid "Economy"
-msgstr ""
+msgstr "Economia"
 
 #: src/canonmn.cpp:469 src/canonmn.cpp:627 src/fujimn.cpp:64 src/fujimn.cpp:84
 #: src/fujimn.cpp:93 src/minoltamn.cpp:310 src/minoltamn.cpp:681
@@ -796,30 +796,30 @@ msgstr ""
 #: src/pentaxmn.cpp:470 src/sonymn.cpp:191 src/sonymn.cpp:276
 #: src/sonymn.cpp:282 src/tags.cpp:1572 src/tags.cpp:1579
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 #: src/canonmn.cpp:470 src/minoltamn.cpp:82 src/minoltamn.cpp:250
 #: src/minoltamn.cpp:680 src/minoltamn.cpp:866 src/minoltamn.cpp:2352
 #: src/minoltamn.cpp:2406 src/sonymn.cpp:192
 msgid "Fine"
-msgstr ""
+msgstr "Buono"
 
 #: src/canonmn.cpp:471 src/minoltamn.cpp:2349 src/olympusmn.cpp:659
 #: src/pentaxmn.cpp:202
 msgid "RAW"
-msgstr ""
+msgstr "RAW"
 
 #: src/canonmn.cpp:472
 msgid "Superfine"
-msgstr ""
+msgstr "Superfine"
 
 #: src/canonmn.cpp:473
 msgid "Normal Movie"
-msgstr ""
+msgstr "Filmato Normale"
 
 #: src/canonmn.cpp:474
 msgid "Movie (2)"
-msgstr ""
+msgstr "Filmato (2)"
 
 #: src/canonmn.cpp:480 src/canonmn.cpp:635 src/canonmn.cpp:679
 #: src/canonmn.cpp:1262 src/canonmn.cpp:1476 src/canonmn.cpp:1571
@@ -842,79 +842,79 @@ msgstr ""
 
 #: src/canonmn.cpp:482 src/olympusmn.cpp:533
 msgid "Red-eye"
-msgstr ""
+msgstr "Occhi rossi"
 
 #: src/canonmn.cpp:483
 msgid "Slow sync"
-msgstr ""
+msgstr "Sincronizzazione lenta"
 
 #: src/canonmn.cpp:484
 msgid "Auto + red-eye"
-msgstr ""
+msgstr "Auto + occhi rossi"
 
 #: src/canonmn.cpp:485
 msgid "On + red-eye"
-msgstr ""
+msgstr "Attivo + occhi rossi"
 
 #: src/canonmn.cpp:486 src/canonmn.cpp:487 src/fujimn.cpp:104
 #: src/minoltamn.cpp:1349 src/nikonmn.cpp:954 src/olympusmn.cpp:145
 msgid "External"
-msgstr ""
+msgstr "Esteno"
 
 #: src/canonmn.cpp:492
 msgid "Single / timer"
-msgstr ""
+msgstr "Singolo / cronometro"
 
 #: src/canonmn.cpp:493 src/canonmn.cpp:510 src/canonmn.cpp:1144
 #: src/fujimn.cpp:233 src/minoltamn.cpp:259 src/minoltamn.cpp:1107
 #: src/minoltamn.cpp:1159 src/nikonmn.cpp:152 src/nikonmn.cpp:165
 #: src/pentaxmn.cpp:660
 msgid "Continuous"
-msgstr ""
+msgstr "Continuo"
 
 #: src/canonmn.cpp:494 src/olympusmn.cpp:104
 msgid "Movie"
-msgstr ""
+msgstr "Filmato"
 
 #: src/canonmn.cpp:495
 msgid "Continuous, speed priority"
-msgstr ""
+msgstr "Continua, priorità di velocità"
 
 #: src/canonmn.cpp:496
 msgid "Continuous, low"
-msgstr ""
+msgstr "Continuo, basso"
 
 #: src/canonmn.cpp:497
 msgid "Continuous, high"
-msgstr ""
+msgstr "Continuo, alto"
 
 #: src/canonmn.cpp:498
 msgid "Silent Single"
-msgstr ""
+msgstr "Silenzioso Singolo"
 
 #: src/canonmn.cpp:499
 msgid "Single, Silent"
-msgstr ""
+msgstr "Singolo, Silenzioso"
 
 #: src/canonmn.cpp:500
 msgid "Continuous, Silent"
-msgstr ""
+msgstr "Continuo, Silenzioso"
 
 #: src/canonmn.cpp:505
 msgid "One shot AF"
-msgstr ""
+msgstr "AF uno scatto"
 
 #: src/canonmn.cpp:506
 msgid "AI servo AF"
-msgstr ""
+msgstr "AF servo AI"
 
 #: src/canonmn.cpp:507
 msgid "AI focus AF"
-msgstr ""
+msgstr "AF fuoco AI"
 
 #: src/canonmn.cpp:508
 msgid "Manual focus (3)"
-msgstr ""
+msgstr "Fuoco manuale (3)"
 
 #: src/canonmn.cpp:509 src/canonmn.cpp:1143 src/sonymn.cpp:291
 msgid "Single"
