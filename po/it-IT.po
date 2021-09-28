@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-28 12:38\n"
+"PO-Revision-Date: 2021-09-28 14:55\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -26,28 +26,28 @@ msgstr ""
 #: src/actions.cpp:1444 src/actions.cpp:1685 src/actions.cpp:1820
 #: src/actions.cpp:1883 src/actions.cpp:2101
 msgid "Failed to open the file\n"
-msgstr ""
+msgstr "Impossibile aprire il file\n"
 
 #: src/actions.cpp:294
 msgid "File name"
-msgstr ""
+msgstr "Nome del file"
 
 #: src/actions.cpp:300
 msgid "File size"
-msgstr ""
+msgstr "Dimensione del file"
 
 #: src/actions.cpp:301 src/actions.cpp:461 src/actions.cpp:1138
 msgid "Bytes"
-msgstr ""
+msgstr "Bytes"
 
 #: src/actions.cpp:305
 msgid "MIME type"
-msgstr ""
+msgstr "Tipo MIME"
 
 #: src/actions.cpp:309 src/canonmn.cpp:1217 src/minoltamn.cpp:506
 #: src/minoltamn.cpp:751 src/minoltamn.cpp:998 src/pentaxmn.cpp:1450
 msgid "Image size"
-msgstr ""
+msgstr "Dimensione dell'immagine"
 
 #: src/actions.cpp:314 src/actions.cpp:576 src/actions.cpp:856
 #: src/actions.cpp:1121 src/actions.cpp:1697 src/actions.cpp:1832
