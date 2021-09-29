@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-28 18:33\n"
+"PO-Revision-Date: 2021-09-29 02:08\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -361,7 +361,7 @@ msgstr "giorno"
 
 #: src/actions.cpp:1780
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: src/actions.cpp:1796
 msgid "Can't adjust timestamp by"
@@ -4053,7 +4053,7 @@ msgstr ""
 
 #: src/exiv2.cpp:351
 msgid "             :basename:   - original filename without extension\n"
-msgstr ""
+msgstr "             :basename:   - nome del file originale senza estensione\n"
 
 #: src/exiv2.cpp:352
 msgid "             :dirname:    - name of the directory holding the original file\n"
