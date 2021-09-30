@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-29 02:08\n"
+"PO-Revision-Date: 2021-09-30 00:27\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -688,11 +688,11 @@ msgstr "Informazioni sul fuso orario"
 
 #: src/canonmn.cpp:436
 msgid "Original Decision Data Offset"
-msgstr ""
+msgstr "Scostamento dei Dati della Decisione Iniziale"
 
 #: src/canonmn.cpp:436
 msgid "Original decision data offset"
-msgstr ""
+msgstr "Scostamento dei dati della decisione iniziale"
 
 #: src/canonmn.cpp:437
 msgid "White Balance Table"
@@ -922,7 +922,7 @@ msgstr ""
 
 #: src/canonmn.cpp:511
 msgid "Manual focus (6)"
-msgstr ""
+msgstr "Fuoco manuale (6)"
 
 #: src/canonmn.cpp:512 src/canonmn.cpp:554 src/canonmn.cpp:686
 msgid "Pan focus"
@@ -930,7 +930,7 @@ msgstr ""
 
 #: src/canonmn.cpp:513
 msgid "AF + MF"
-msgstr ""
+msgstr "AF + MF"
 
 #: src/canonmn.cpp:514
 msgid "Movie Snap Focus"
@@ -943,74 +943,74 @@ msgstr ""
 #: src/canonmn.cpp:521 src/canonmn.cpp:1451 src/minoltamn.cpp:672
 #: src/minoltamn.cpp:858 src/sonymn.cpp:610
 msgid "Large"
-msgstr ""
+msgstr "Grande"
 
 #: src/canonmn.cpp:522 src/canonmn.cpp:1194 src/canonmn.cpp:1452
 #: src/minoltamn.cpp:673 src/minoltamn.cpp:859 src/minoltamn.cpp:1232
 #: src/properties.cpp:1503 src/sonymn.cpp:611
 msgid "Medium"
-msgstr ""
+msgstr "Medio"
 
 #: src/canonmn.cpp:523 src/canonmn.cpp:1453 src/minoltamn.cpp:674
 #: src/minoltamn.cpp:860 src/minoltamn.cpp:1233 src/sonymn.cpp:612
 msgid "Small"
-msgstr ""
+msgstr "Piccolo"
 
 #: src/canonmn.cpp:524 src/canonmn.cpp:1454
 msgid "Medium 1"
-msgstr ""
+msgstr "Medio 1"
 
 #: src/canonmn.cpp:525 src/canonmn.cpp:1455
 msgid "Medium 2"
-msgstr ""
+msgstr "Medio 2"
 
 #: src/canonmn.cpp:526 src/canonmn.cpp:1456
 msgid "Medium 3"
-msgstr ""
+msgstr "Medio 3"
 
 #: src/canonmn.cpp:527 src/canonmn.cpp:1457
 msgid "Postcard"
-msgstr ""
+msgstr "Cartolina"
 
 #: src/canonmn.cpp:528 src/canonmn.cpp:1458
 msgid "Widescreen"
-msgstr ""
+msgstr "Schermo largo"
 
 #: src/canonmn.cpp:529 src/canonmn.cpp:1459
 msgid "Medium Widescreen"
-msgstr ""
+msgstr "Schermo mezzo largo"
 
 #: src/canonmn.cpp:530 src/canonmn.cpp:1460
 msgid "Small 1"
-msgstr ""
+msgstr "Piccolo 1"
 
 #: src/canonmn.cpp:531 src/canonmn.cpp:1461
 msgid "Small 2"
-msgstr ""
+msgstr "Piccolo 2"
 
 #: src/canonmn.cpp:532 src/canonmn.cpp:1462
 msgid "Small 3"
-msgstr ""
+msgstr "Piccolo 3"
 
 #: src/canonmn.cpp:533 src/canonmn.cpp:1463
 msgid "640x480 Movie"
-msgstr ""
+msgstr "Filmato 640x480"
 
 #: src/canonmn.cpp:534 src/canonmn.cpp:1464
 msgid "Medium Movie"
-msgstr ""
+msgstr "Filmato Medio"
 
 #: src/canonmn.cpp:535 src/canonmn.cpp:1465
 msgid "Small Movie"
-msgstr ""
+msgstr "Filmato Piccolo"
 
 #: src/canonmn.cpp:536 src/canonmn.cpp:1466
 msgid "1280x720 Movie"
-msgstr ""
+msgstr "Filmato 1280x720"
 
 #: src/canonmn.cpp:537 src/canonmn.cpp:1467
 msgid "1920x1080 Movie"
-msgstr ""
+msgstr "Filmato 1920x1080"
 
 #: src/canonmn.cpp:542
 msgid "Full auto"
@@ -1029,7 +1029,7 @@ msgstr ""
 #: src/sonymn.cpp:222 src/sonymn.cpp:528 src/sonymn.cpp:593 src/tags.cpp:1455
 #: src/tags.cpp:1542 src/tags.cpp:1549
 msgid "Manual"
-msgstr ""
+msgstr "Manuale"
 
 #: src/canonmn.cpp:544 src/canonmn.cpp:1567 src/fujimn.cpp:119
 #: src/minoltamn.cpp:72 src/minoltamn.cpp:852 src/minoltamn.cpp:2235
@@ -1037,7 +1037,7 @@ msgstr ""
 #: src/pentaxmn.cpp:984 src/sonymn.cpp:161 src/sonymn.cpp:546
 #: src/sonymn.cpp:576 src/sonymn.cpp:603 src/tags.cpp:1555
 msgid "Landscape"
-msgstr ""
+msgstr "Paesaggio"
 
 #: src/canonmn.cpp:545
 msgid "Fast shutter"
