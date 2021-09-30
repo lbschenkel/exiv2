@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-30 00:27\n"
+"PO-Revision-Date: 2021-09-30 01:28\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -205,7 +205,7 @@ msgstr "byte"
 
 #: src/actions.cpp:866
 msgid "Neither tag"
-msgstr ""
+msgstr "Nessun tag"
 
 #: src/actions.cpp:867
 msgid "nor"
@@ -293,7 +293,7 @@ msgstr "Impostazione del commento JPEG"
 
 #: src/actions.cpp:1516
 msgid "Add"
-msgstr ""
+msgstr "Aggiungi"
 
 #: src/actions.cpp:1538 src/actions.cpp:1612
 msgid "Warning"
@@ -309,11 +309,11 @@ msgstr "valore"
 
 #: src/actions.cpp:1552
 msgid "Set"
-msgstr ""
+msgstr "Imposta"
 
 #: src/actions.cpp:1624
 msgid "Del"
-msgstr ""
+msgstr "Canc"
 
 #: src/actions.cpp:1656
 msgid "Reg "
@@ -838,7 +838,7 @@ msgstr "Filmato (2)"
 #: src/sonymn.cpp:567 src/sonymn.cpp:592 src/tags.cpp:1456 src/tags.cpp:1541
 #: src/tags.cpp:1548
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: src/canonmn.cpp:482 src/olympusmn.cpp:533
 msgid "Red-eye"
@@ -1041,26 +1041,26 @@ msgstr "Paesaggio"
 
 #: src/canonmn.cpp:545
 msgid "Fast shutter"
-msgstr ""
+msgstr "Scatto rapido"
 
 #: src/canonmn.cpp:546
 msgid "Slow shutter"
-msgstr ""
+msgstr "Scatto lento"
 
 #: src/canonmn.cpp:547
 msgid "Night"
-msgstr ""
+msgstr "Notte"
 
 #: src/canonmn.cpp:548
 msgid "Gray Scale"
-msgstr ""
+msgstr "Scala di Grigi"
 
 #: src/canonmn.cpp:549 src/canonmn.cpp:1183 src/canonmn.cpp:1498
 #: src/minoltamn.cpp:67 src/nikonmn.cpp:193 src/nikonmn.cpp:711
 #: src/olympusmn.cpp:631 src/olympusmn.cpp:648 src/olympusmn.cpp:875
 #: src/olympusmn.cpp:890 src/panasonicmn.cpp:201 src/sonymn.cpp:556
 msgid "Sepia"
-msgstr ""
+msgstr "Seppia"
 
 #: src/canonmn.cpp:550 src/canonmn.cpp:1553 src/canonmn.cpp:1566
 #: src/fujimn.cpp:118 src/minoltamn.cpp:69 src/minoltamn.cpp:317
@@ -1070,13 +1070,13 @@ msgstr ""
 #: src/pentaxmn.cpp:983 src/sonymn.cpp:157 src/sonymn.cpp:545
 #: src/sonymn.cpp:575 src/sonymn.cpp:599 src/tags.cpp:1556
 msgid "Portrait"
-msgstr ""
+msgstr "Ritratto"
 
 #: src/canonmn.cpp:551 src/fujimn.cpp:120 src/minoltamn.cpp:849
 #: src/minoltamn.cpp:2386 src/panasonicmn.cpp:113 src/sonymn.cpp:159
 #: src/sonymn.cpp:600
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 #: src/canonmn.cpp:552 src/canonmn.cpp:681 src/canonmn.cpp:1208
 #: src/fujimn.cpp:215 src/minoltamn.cpp:853 src/minoltamn.cpp:2389
@@ -1086,33 +1086,33 @@ msgstr ""
 #: src/sonymn.cpp:173 src/sonymn.cpp:453 src/sonymn.cpp:454 src/sonymn.cpp:604
 #: src/tags.cpp:1587
 msgid "Macro"
-msgstr ""
+msgstr "Macro"
 
 #: src/canonmn.cpp:553 src/canonmn.cpp:1269 src/minoltamn.cpp:63
 #: src/minoltamn.cpp:2238 src/sonymn.cpp:549
 msgid "Black & White"
-msgstr ""
+msgstr "Bianco & nero"
 
 #: src/canonmn.cpp:555 src/canonmn.cpp:1180 src/olympusmn.cpp:135
 #: src/olympusmn.cpp:617 src/olympusmn.cpp:871 src/panasonicmn.cpp:262
 #: src/panasonicmn.cpp:370 src/sonymn.cpp:544 src/sonymn.cpp:574
 msgid "Vivid"
-msgstr ""
+msgstr "Vivido"
 
 #: src/canonmn.cpp:556 src/canonmn.cpp:1181 src/canonmn.cpp:1568
 #: src/minoltamn.cpp:2240 src/minoltamn.cpp:2241 src/olympusmn.cpp:637
 #: src/olympusmn.cpp:647 src/olympusmn.cpp:880 src/olympusmn.cpp:889
 #: src/sonymn.cpp:551 src/sonymn.cpp:581
 msgid "Neutral"
-msgstr ""
+msgstr "Neutrale"
 
 #: src/canonmn.cpp:557
 msgid "Flash Off"
-msgstr ""
+msgstr "Flash spento"
 
 #: src/canonmn.cpp:558
 msgid "Long Shutter"
-msgstr ""
+msgstr "Scatto Lungo"
 
 #: src/canonmn.cpp:560
 msgid "Foliage"
