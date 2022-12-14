@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-04-04 07:30\n"
+"PO-Revision-Date: 2022-12-14 22:01\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -38,7 +38,7 @@ msgstr "Mida del fitxer"
 
 #: src/actions.cpp:301 src/actions.cpp:461 src/actions.cpp:1138
 msgid "Bytes"
-msgstr ""
+msgstr "Bytes"
 
 #: src/actions.cpp:305
 msgid "MIME type"
@@ -201,7 +201,7 @@ msgstr "píxels"
 
 #: src/actions.cpp:820 src/actions.cpp:1232
 msgid "bytes"
-msgstr ""
+msgstr "bytes"
 
 #: src/actions.cpp:866
 msgid "Neither tag"
@@ -361,7 +361,7 @@ msgstr "dia"
 
 #: src/actions.cpp:1780
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: src/actions.cpp:1796
 msgid "Can't adjust timestamp by"
@@ -493,11 +493,11 @@ msgstr "Actiu"
 
 #: src/canonmn.cpp:397
 msgid "Format 1"
-msgstr ""
+msgstr "Format 1"
 
 #: src/canonmn.cpp:398
 msgid "Format 2"
-msgstr ""
+msgstr "Format 2"
 
 #: src/canonmn.cpp:404 src/nikonmn.cpp:1263
 msgid "On (1)"
@@ -511,7 +511,7 @@ msgstr "Actiu (2)"
 #: src/olympusmn.cpp:602 src/olympusmn.cpp:793 src/olympusmn.cpp:858
 #: src/pentaxmn.cpp:683 src/tags.cpp:1505
 msgid "sRGB"
-msgstr ""
+msgstr "sRGB"
 
 #: src/canonmn.cpp:411 src/canonmn.cpp:1555 src/minoltamn.cpp:365
 #: src/minoltamn.cpp:735 src/minoltamn.cpp:911 src/minoltamn.cpp:960
@@ -519,7 +519,7 @@ msgstr ""
 #: src/olympusmn.cpp:794 src/olympusmn.cpp:859 src/pentaxmn.cpp:684
 #: src/sonymn.cpp:550 src/sonymn.cpp:580 src/tags.cpp:1506
 msgid "Adobe RGB"
-msgstr ""
+msgstr "Adobe RGB"
 
 #: src/canonmn.cpp:416 src/canonmn.cpp:419 src/canonmn.cpp:445
 #: src/canonmn.cpp:446 src/canonmn.cpp:447 src/canonmn.cpp:1213
@@ -577,7 +577,7 @@ msgstr "Informació de la captura"
 #: src/canonmn.cpp:421 src/olympusmn.cpp:102 src/olympusmn.cpp:1171
 #: src/panasonicmn.cpp:158 src/sonymn.cpp:371 src/sonymn.cpp:372
 msgid "Panorama"
-msgstr ""
+msgstr "Panorama"
 
 #: src/canonmn.cpp:422 src/datasets.cpp:396 src/properties.cpp:1069
 msgid "Image Type"
@@ -796,7 +796,7 @@ msgstr "Econòmica"
 #: src/pentaxmn.cpp:470 src/sonymn.cpp:191 src/sonymn.cpp:276
 #: src/sonymn.cpp:282 src/tags.cpp:1572 src/tags.cpp:1579
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: src/canonmn.cpp:470 src/minoltamn.cpp:82 src/minoltamn.cpp:250
 #: src/minoltamn.cpp:680 src/minoltamn.cpp:866 src/minoltamn.cpp:2352
@@ -807,7 +807,7 @@ msgstr "Fina"
 #: src/canonmn.cpp:471 src/minoltamn.cpp:2349 src/olympusmn.cpp:659
 #: src/pentaxmn.cpp:202
 msgid "RAW"
-msgstr ""
+msgstr "RAW"
 
 #: src/canonmn.cpp:472
 msgid "Superfine"
@@ -930,7 +930,7 @@ msgstr "Enfocament panoràmic"
 
 #: src/canonmn.cpp:513
 msgid "AF + MF"
-msgstr ""
+msgstr "AF + MF"
 
 #: src/canonmn.cpp:514
 msgid "Movie Snap Focus"
@@ -1029,7 +1029,7 @@ msgstr "Totalment automàtic"
 #: src/sonymn.cpp:222 src/sonymn.cpp:528 src/sonymn.cpp:593 src/tags.cpp:1455
 #: src/tags.cpp:1542 src/tags.cpp:1549
 msgid "Manual"
-msgstr ""
+msgstr "Manual"
 
 #: src/canonmn.cpp:544 src/canonmn.cpp:1567 src/fujimn.cpp:119
 #: src/minoltamn.cpp:72 src/minoltamn.cpp:852 src/minoltamn.cpp:2235
@@ -1086,7 +1086,7 @@ msgstr "Esports"
 #: src/sonymn.cpp:173 src/sonymn.cpp:453 src/sonymn.cpp:454 src/sonymn.cpp:604
 #: src/tags.cpp:1587
 msgid "Macro"
-msgstr ""
+msgstr "Macro"
 
 #: src/canonmn.cpp:553 src/canonmn.cpp:1269 src/minoltamn.cpp:63
 #: src/minoltamn.cpp:2238 src/sonymn.cpp:549
@@ -1104,7 +1104,7 @@ msgstr "Llampant"
 #: src/olympusmn.cpp:647 src/olympusmn.cpp:880 src/olympusmn.cpp:889
 #: src/sonymn.cpp:551 src/sonymn.cpp:581
 msgid "Neutral"
-msgstr ""
+msgstr "Neutral"
 
 #: src/canonmn.cpp:557
 msgid "Flash Off"
@@ -1180,11 +1180,11 @@ msgstr "Aquari"
 
 #: src/canonmn.cpp:575
 msgid "ISO 3200"
-msgstr ""
+msgstr "ISO 3200"
 
 #: src/canonmn.cpp:576
 msgid "ISO 6400"
-msgstr ""
+msgstr "ISO 6400"
 
 #: src/canonmn.cpp:577
 msgid "Creative Light Effect"
@@ -1491,7 +1491,7 @@ msgstr "Prioritat de l'obertura (Av)"
 
 #: src/canonmn.cpp:709
 msgid "Manual (M)"
-msgstr ""
+msgstr "Manual (M)"
 
 #: src/canonmn.cpp:710
 msgid "A-DEP"
@@ -1626,11 +1626,11 @@ msgstr "Complet"
 
 #: src/canonmn.cpp:1202
 msgid "sRAW1 (mRAW)"
-msgstr ""
+msgstr "sRAW1 (mRAW)"
 
 #: src/canonmn.cpp:1203
 msgid "sRAW2 (sRAW)"
-msgstr ""
+msgstr "sRAW2 (sRAW)"
 
 #: src/canonmn.cpp:1209
 msgid "Selftimer"
@@ -1714,7 +1714,7 @@ msgstr "Zoom digital"
 #: src/sigmamn.cpp:89 src/sigmamn.cpp:90 src/sonymn.cpp:387 src/sonymn.cpp:669
 #: src/sonymn.cpp:670 src/sonymn.cpp:775 src/sonymn.cpp:776 src/tags.cpp:1860
 msgid "Contrast"
-msgstr ""
+msgstr "Contrast"
 
 #: src/canonmn.cpp:1220 src/fujimn.cpp:207 src/olympusmn.cpp:392
 #: src/olympusmn.cpp:697 src/olympusmn.cpp:1099 src/panasonicmn.cpp:462
@@ -1987,7 +1987,7 @@ msgstr "Tungstè"
 #: src/minoltamn.cpp:879 src/minoltamn.cpp:1207 src/minoltamn.cpp:2451
 #: src/nikonmn.cpp:480 src/pentaxmn.cpp:411 src/tags.cpp:1482
 msgid "Fluorescent"
-msgstr ""
+msgstr "Fluorescent"
 
 #: src/canonmn.cpp:1270 src/minoltamn.cpp:690 src/minoltamn.cpp:877
 #: src/minoltamn.cpp:1205 src/minoltamn.cpp:2448 src/olympusmn.cpp:1059
@@ -2391,16 +2391,16 @@ msgstr "Etiqueta desconeguda per a la informació de la imatge de Cannon"
 
 #: src/canonmn.cpp:1443
 msgid "AEB"
-msgstr ""
+msgstr "AEB"
 
 #: src/canonmn.cpp:1444
 msgid "FEB"
-msgstr ""
+msgstr "FEB"
 
 #: src/canonmn.cpp:1445 src/minoltamn.cpp:517 src/nikonmn.cpp:813
 #: src/nikonmn.cpp:1188 src/nikonmn.cpp:1248 src/nikonmn.cpp:1284
 msgid "ISO"
-msgstr ""
+msgstr "ISO"
 
 #: src/canonmn.cpp:1446
 msgid "WB"
@@ -2559,11 +2559,11 @@ msgstr "Saturació baixa"
 
 #: src/canonmn.cpp:1557
 msgid "CM Set 1"
-msgstr ""
+msgstr "Ajust 1 de CM"
 
 #: src/canonmn.cpp:1558
 msgid "CM Set 2"
-msgstr ""
+msgstr "Ajust 2 de CM"
 
 #: src/canonmn.cpp:1559
 msgid "User Def. 1"
@@ -2579,7 +2579,7 @@ msgstr "Def. usuari 3"
 
 #: src/canonmn.cpp:1562
 msgid "PC 1"
-msgstr ""
+msgstr "PC 1"
 
 #: src/canonmn.cpp:1563
 msgid "PC 2"
@@ -2702,7 +2702,7 @@ msgstr "Illes Chatham"
 
 #: src/canonmn.cpp:1602 src/pentaxmn.cpp:548
 msgid "Wellington"
-msgstr ""
+msgstr "Wellington"
 
 #: src/canonmn.cpp:1603
 msgid "Solomon Islands"
@@ -2714,7 +2714,7 @@ msgstr "Sidney"
 
 #: src/canonmn.cpp:1605 src/pentaxmn.cpp:543
 msgid "Adelaide"
-msgstr ""
+msgstr "Adelaida"
 
 #: src/canonmn.cpp:1606 src/pentaxmn.cpp:544
 msgid "Tokyo"
@@ -2722,19 +2722,19 @@ msgstr "Tòquio"
 
 #: src/canonmn.cpp:1607 src/pentaxmn.cpp:536
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 #: src/canonmn.cpp:1608 src/pentaxmn.cpp:529
 msgid "Bangkok"
-msgstr ""
+msgstr "Bangkok"
 
 #: src/canonmn.cpp:1609 src/pentaxmn.cpp:528
 msgid "Yangon"
-msgstr ""
+msgstr "Rangun"
 
 #: src/canonmn.cpp:1610
 msgid "Dhaka"
-msgstr ""
+msgstr "Dacca"
 
 #: src/canonmn.cpp:1611 src/pentaxmn.cpp:526
 msgid "Kathmandu"
@@ -2742,19 +2742,19 @@ msgstr "Katmandú"
 
 #: src/canonmn.cpp:1612 src/pentaxmn.cpp:524
 msgid "Delhi"
-msgstr ""
+msgstr "Delhi"
 
 #: src/canonmn.cpp:1613 src/pentaxmn.cpp:521
 msgid "Karachi"
-msgstr ""
+msgstr "Karachi"
 
 #: src/canonmn.cpp:1614 src/pentaxmn.cpp:522
 msgid "Kabul"
-msgstr ""
+msgstr "Kabul"
 
 #: src/canonmn.cpp:1615 src/pentaxmn.cpp:520
 msgid "Dubai"
-msgstr ""
+msgstr "Dubai"
 
 #: src/canonmn.cpp:1616 src/pentaxmn.cpp:519
 msgid "Tehran"
@@ -2778,27 +2778,27 @@ msgstr "Londres"
 
 #: src/canonmn.cpp:1621
 msgid "Azores"
-msgstr ""
+msgstr "Açores"
 
 #: src/canonmn.cpp:1622
 msgid "Fernando de Noronha"
-msgstr ""
+msgstr "Fernando de Noronha"
 
 #: src/canonmn.cpp:1623 src/pentaxmn.cpp:505
 msgid "Sao Paulo"
-msgstr ""
+msgstr "São Paulo"
 
 #: src/canonmn.cpp:1624
 msgid "Newfoundland"
-msgstr ""
+msgstr "Terranova"
 
 #: src/canonmn.cpp:1625 src/pentaxmn.cpp:501
 msgid "Santiago"
-msgstr ""
+msgstr "Santiago"
 
 #: src/canonmn.cpp:1626
 msgid "Caracas"
-msgstr ""
+msgstr "Caracas"
 
 #: src/canonmn.cpp:1627 src/pentaxmn.cpp:500
 msgid "New York"
@@ -2806,15 +2806,15 @@ msgstr "Nova York"
 
 #: src/canonmn.cpp:1628 src/pentaxmn.cpp:497
 msgid "Chicago"
-msgstr ""
+msgstr "Chicago"
 
 #: src/canonmn.cpp:1629 src/pentaxmn.cpp:495
 msgid "Denver"
-msgstr ""
+msgstr "Denver"
 
 #: src/canonmn.cpp:1630 src/pentaxmn.cpp:493
 msgid "Los Angeles"
-msgstr ""
+msgstr "Los Angeles"
 
 #: src/canonmn.cpp:1631 src/pentaxmn.cpp:490
 msgid "Anchorage"
@@ -2822,11 +2822,11 @@ msgstr "Ancoratge"
 
 #: src/canonmn.cpp:1632 src/pentaxmn.cpp:489
 msgid "Honolulu"
-msgstr ""
+msgstr "Honolulu"
 
 #: src/canonmn.cpp:1633
 msgid "Samoa"
-msgstr ""
+msgstr "Samoa"
 
 #: src/canonmn.cpp:1634
 msgid "(not set)"
@@ -2866,7 +2866,7 @@ msgstr "etiqueta"
 
 #: src/crwimage.cpp:687
 msgid "dir"
-msgstr ""
+msgstr "dir"
 
 #: src/crwimage.cpp:689
 msgid "type"
@@ -3503,7 +3503,7 @@ msgstr "Conjunt de dades desconegut"
 
 #: src/error.cpp:53
 msgid "Error %0: arg2=%2, arg3=%3, arg1=%1."
-msgstr ""
+msgstr "Error %0: arg2=%2, arg3=%3, arg1=%1."
 
 #: src/error.cpp:54
 msgid "Success"
@@ -3719,7 +3719,7 @@ msgstr "XMP no vàlid"
 
 #: src/exiv2.cpp:212
 msgid "Copyright (C) 2004-2017 Andreas Huggel.\n"
-msgstr ""
+msgstr "Copyright (C) 2004-2017 Andreas Huggel.\n"
 
 #: src/exiv2.cpp:214
 msgid "This program is free software; you can redistribute it and/or\n"
@@ -4370,7 +4370,7 @@ msgstr "Fluorescent (blanc fred)"
 
 #: src/fujimn.cpp:77 src/nikonmn.cpp:479 src/sonymn.cpp:230
 msgid "Incandescent"
-msgstr ""
+msgstr "Incandescent"
 
 #: src/fujimn.cpp:87 src/fujimn.cpp:88
 msgid "None (black & white)"
@@ -4416,7 +4416,7 @@ msgstr "Flor"
 #: src/fujimn.cpp:129 src/minoltamn.cpp:318 src/minoltamn.cpp:408
 #: src/minoltamn.cpp:2383 src/pentaxmn.cpp:592
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: src/fujimn.cpp:130
 msgid "Natural light & flash"
@@ -4436,7 +4436,7 @@ msgstr "Sense flaix i amb flaix"
 
 #: src/fujimn.cpp:150
 msgid "Chrome"
-msgstr ""
+msgstr "Chrome"
 
 #: src/fujimn.cpp:151
 msgid "Black & white"
@@ -4545,7 +4545,7 @@ msgstr "Ajustament de la qualitat de la imatge"
 
 #: src/fujimn.cpp:203 src/nikonmn.cpp:453
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #: src/fujimn.cpp:204
 msgid "Chroma saturation setting"
@@ -4741,13 +4741,13 @@ msgstr "Solarització"
 
 #: src/minoltamn.cpp:66 src/minoltamn.cpp:2239
 msgid "AdobeRGB"
-msgstr ""
+msgstr "AdobeRGB"
 
 #: src/minoltamn.cpp:68 src/minoltamn.cpp:952 src/olympusmn.cpp:618
 #: src/olympusmn.cpp:872 src/panasonicmn.cpp:261 src/panasonicmn.cpp:371
 #: src/pentaxmn.cpp:981
 msgid "Natural"
-msgstr ""
+msgstr "Natural"
 
 #: src/minoltamn.cpp:70
 msgid "Natural sRGB"
@@ -4876,7 +4876,7 @@ msgstr "Qualitat de la imatge"
 
 #: src/minoltamn.cpp:143 src/minoltamn.cpp:144
 msgid "0x0103"
-msgstr ""
+msgstr "0x0103"
 
 #: src/minoltamn.cpp:147 src/minoltamn.cpp:589 src/olympusmn.cpp:687
 #: src/sonymn.cpp:340
@@ -5003,7 +5003,7 @@ msgstr "Sense fil"
 
 #: src/minoltamn.cpp:230
 msgid "Fluorescent 2"
-msgstr ""
+msgstr "Fluorescent 2"
 
 #: src/minoltamn.cpp:237
 msgid "Full size"
@@ -5032,7 +5032,7 @@ msgstr "Bràqueting"
 
 #: src/minoltamn.cpp:262
 msgid "Interval"
-msgstr ""
+msgstr "Interval"
 
 #: src/minoltamn.cpp:263
 msgid "UHS continuous"
@@ -5496,7 +5496,7 @@ msgstr "RAW+JPEG"
 #: src/minoltamn.cpp:694 src/minoltamn.cpp:881 src/panasonicmn.cpp:76
 #: src/pentaxmn.cpp:420
 msgid "Kelvin"
-msgstr ""
+msgstr "Kelvin"
 
 #: src/minoltamn.cpp:701
 msgid "Single-shot AF"
@@ -5627,11 +5627,11 @@ msgstr "80 (zona de coincidència baixa)"
 
 #: src/minoltamn.cpp:910 src/minoltamn.cpp:961
 msgid "Adobe RGB (ICC)"
-msgstr ""
+msgstr "Adobe RGB (ICC)"
 
 #: src/minoltamn.cpp:924
 msgid "Central"
-msgstr ""
+msgstr "Central"
 
 #: src/minoltamn.cpp:925
 msgid "Up"
@@ -5663,7 +5663,7 @@ msgstr "Selecció"
 
 #: src/minoltamn.cpp:953
 msgid "Natural+"
-msgstr ""
+msgstr "Natural+"
 
 #: src/minoltamn.cpp:955
 msgid "Wind Scene"
@@ -5796,7 +5796,7 @@ msgstr "D'acord"
 
 #: src/minoltamn.cpp:1226
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: src/minoltamn.cpp:1238
 msgid "Image and Information"
