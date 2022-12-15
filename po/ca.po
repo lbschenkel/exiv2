@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2022-12-14 22:01\n"
+"PO-Revision-Date: 2022-12-15 00:20\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -2583,11 +2583,11 @@ msgstr "PC 1"
 
 #: src/canonmn.cpp:1563
 msgid "PC 2"
-msgstr ""
+msgstr "PC 2"
 
 #: src/canonmn.cpp:1564
 msgid "PC 3"
-msgstr ""
+msgstr "PC 3"
 
 #: src/canonmn.cpp:1569
 msgid "Faithful"
@@ -5254,11 +5254,11 @@ msgstr "Pas del bràqueting"
 
 #: src/minoltamn.cpp:538
 msgid "Interval Length"
-msgstr ""
+msgstr "Longitud de l'interval"
 
 #: src/minoltamn.cpp:539
 msgid "Interval length"
-msgstr ""
+msgstr "Longitud de l'interval"
 
 #: src/minoltamn.cpp:541
 msgid "Interval Number"
@@ -6222,11 +6222,11 @@ msgstr "Il·luminació de l'àrea de l'AF"
 
 #: src/minoltamn.cpp:1542
 msgid "Monitor Display Off"
-msgstr ""
+msgstr "Mostra apagada la pantalla"
 
 #: src/minoltamn.cpp:1543
 msgid "Monitor display off"
-msgstr ""
+msgstr "Mostra apagada la pantalla"
 
 #: src/minoltamn.cpp:1545
 msgid "Record Display"
@@ -6358,7 +6358,7 @@ msgstr "Fulles de tardor"
 
 #: src/minoltamn.cpp:2285
 msgid "Local"
-msgstr ""
+msgstr "Local"
 
 #: src/minoltamn.cpp:2300
 msgid "Top-Right"
@@ -6378,11 +6378,11 @@ msgstr "Superior-esquerra"
 
 #: src/minoltamn.cpp:2307
 msgid "Far-Right"
-msgstr ""
+msgstr "Extrem dret"
 
 #: src/minoltamn.cpp:2308
 msgid "Far-Left"
-msgstr ""
+msgstr "Extrem esquerre"
 
 #: src/minoltamn.cpp:2322 src/sonymn.cpp:140
 msgid "Advanced Auto"
@@ -6402,15 +6402,15 @@ msgstr "Publicació"
 
 #: src/minoltamn.cpp:2350
 msgid "CRAW"
-msgstr ""
+msgstr "CRAW"
 
 #: src/minoltamn.cpp:2353
 msgid "RAW+JPEG"
-msgstr ""
+msgstr "RAW+JPEG"
 
 #: src/minoltamn.cpp:2354
 msgid "CRAW+JPEG"
-msgstr ""
+msgstr "CRAW+JPEG"
 
 #: src/minoltamn.cpp:2410
 msgid "Raw + JPEG"
@@ -6426,35 +6426,35 @@ msgstr "RAW comprimit + JPEG"
 
 #: src/minoltamn.cpp:2425
 msgid "Minolta/Sony AF 1.4x APO (D) (0x04)"
-msgstr ""
+msgstr "Minolta/Sony AF 1.4x APO (D) (0x04)"
 
 #: src/minoltamn.cpp:2426
 msgid "Minolta/Sony AF 2x APO (D) (0x05)"
-msgstr ""
+msgstr "Minolta/Sony AF 2x APO (D) (0x05)"
 
 #: src/minoltamn.cpp:2427
 msgid "Minolta/Sony AF 2x APO (D)"
-msgstr ""
+msgstr "Minolta/Sony AF 2x APO (D)"
 
 #: src/minoltamn.cpp:2428
 msgid "Minolta AF 2x APO II"
-msgstr ""
+msgstr "Minolta AF 2x APO II"
 
 #: src/minoltamn.cpp:2429
 msgid "Minolta AF 2x APO"
-msgstr ""
+msgstr "Minolta AF 2x APO"
 
 #: src/minoltamn.cpp:2430
 msgid "Minolta/Sony AF 1.4x APO (D)"
-msgstr ""
+msgstr "Minolta/Sony AF 1.4x APO (D)"
 
 #: src/minoltamn.cpp:2431
 msgid "Minolta AF 1.4x APO II"
-msgstr ""
+msgstr "Minolta AF 1.4x APO II"
 
 #: src/minoltamn.cpp:2432
 msgid "Minolta AF 1.4x APO"
-msgstr ""
+msgstr "Minolta AF 1.4x APO"
 
 #: src/minoltamn.cpp:2462
 msgid "ISO Setting Used"
@@ -6908,11 +6908,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:585
 msgid "VR Info"
-msgstr ""
+msgstr "Informació VR"
 
 #: src/nikonmn.cpp:585
 msgid "VR info"
-msgstr ""
+msgstr "Informació VR"
 
 #: src/nikonmn.cpp:586
 msgid "Image Authentication"
@@ -7240,7 +7240,7 @@ msgstr "Etiqueta desconeguda 3 de nota del fabricant de Nikon"
 #: src/nikonmn.cpp:661 src/olympusmn.cpp:66 src/panasonicmn.cpp:191
 #: src/panasonicmn.cpp:339 src/panasonicmn.cpp:435 src/pentaxmn.cpp:395
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: src/nikonmn.cpp:662 src/olympusmn.cpp:67 src/panasonicmn.cpp:190
 #: src/panasonicmn.cpp:436 src/pentaxmn.cpp:396
@@ -7302,7 +7302,7 @@ msgstr "Nom"
 
 #: src/nikonmn.cpp:727
 msgid "Base"
-msgstr ""
+msgstr "Base"
 
 #: src/nikonmn.cpp:728
 msgid "Adjust"
@@ -7458,19 +7458,19 @@ msgstr "Hola 5.0"
 
 #: src/nikonmn.cpp:805
 msgid "Lo 0.3"
-msgstr ""
+msgstr "Ba 0.3"
 
 #: src/nikonmn.cpp:806
 msgid "Lo 0.5"
-msgstr ""
+msgstr "Ba 0.5"
 
 #: src/nikonmn.cpp:807
 msgid "Lo 0.7"
-msgstr ""
+msgstr "Ba 0.7"
 
 #: src/nikonmn.cpp:808
 msgid "Lo 1.0"
-msgstr ""
+msgstr "Ba 1.0"
 
 #: src/nikonmn.cpp:814
 msgid "ISO Expansion"
@@ -7482,7 +7482,7 @@ msgstr "Expansió de l'ISO"
 
 #: src/nikonmn.cpp:815
 msgid "ISO 2"
-msgstr ""
+msgstr "ISO 2"
 
 #: src/nikonmn.cpp:816
 msgid "ISO Expansion 2"
@@ -7779,7 +7779,7 @@ msgstr "Origen del flaix"
 
 #: src/nikonmn.cpp:1055 src/nikonmn.cpp:1077
 msgid "0x0005"
-msgstr ""
+msgstr "0x0005"
 
 #: src/nikonmn.cpp:1056 src/nikonmn.cpp:1078 src/nikonmn.cpp:1097
 msgid "External Flash Firmware"
@@ -8161,11 +8161,11 @@ msgstr "Menjar"
 
 #: src/olympusmn.cpp:113
 msgid "Documents"
-msgstr ""
+msgstr "Documents"
 
 #: src/olympusmn.cpp:115
 msgid "Shoot & Select"
-msgstr ""
+msgstr "Dispara i selecciona"
 
 #: src/olympusmn.cpp:116
 msgid "Beach & Snow"
@@ -8206,11 +8206,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:125
 msgid "Shoot & Select1"
-msgstr ""
+msgstr "Dispara i selecciona 1"
 
 #: src/olympusmn.cpp:126
 msgid "Shoot & Select2"
-msgstr ""
+msgstr "Dispara i selecciona 2"
 
 #: src/olympusmn.cpp:128
 msgid "Digital Image Stabilization"
