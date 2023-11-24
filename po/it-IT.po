@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-09-30 01:28\n"
+"PO-Revision-Date: 2023-11-24 18:02\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -1180,11 +1180,11 @@ msgstr ""
 
 #: src/canonmn.cpp:575
 msgid "ISO 3200"
-msgstr ""
+msgstr "ISO 3200"
 
 #: src/canonmn.cpp:576
 msgid "ISO 6400"
-msgstr ""
+msgstr "ISO 6400"
 
 #: src/canonmn.cpp:577
 msgid "Creative Light Effect"
@@ -1212,7 +1212,7 @@ msgstr ""
 
 #: src/canonmn.cpp:583 src/panasonicmn.cpp:301
 msgid "Nostalgic"
-msgstr ""
+msgstr "Nostalgico"
 
 #: src/canonmn.cpp:584
 msgid "Super Vivid"
@@ -1228,7 +1228,7 @@ msgstr ""
 
 #: src/canonmn.cpp:587
 msgid "Smile"
-msgstr ""
+msgstr "Sorriso"
 
 #: src/canonmn.cpp:588
 msgid "Wink Self-timer"
@@ -1272,7 +1272,7 @@ msgstr ""
 
 #: src/canonmn.cpp:598
 msgid "Blur Reduction"
-msgstr ""
+msgstr "Riduzione sfocatura"
 
 #: src/canonmn.cpp:599 src/canonmn.cpp:1570 src/minoltamn.cpp:909
 #: src/minoltamn.cpp:959 src/nikonmn.cpp:454 src/panasonicmn.cpp:184
@@ -1306,11 +1306,11 @@ msgstr ""
 
 #: src/canonmn.cpp:606
 msgid "Night 2"
-msgstr ""
+msgstr "Notte 2"
 
 #: src/canonmn.cpp:607
 msgid "Night+"
-msgstr ""
+msgstr "Notte+"
 
 #: src/canonmn.cpp:608
 msgid "Super Night"
@@ -1382,7 +1382,7 @@ msgstr ""
 
 #: src/canonmn.cpp:668 src/sonymn.cpp:246
 msgid "Default"
-msgstr ""
+msgstr "Predefinito"
 
 #: src/canonmn.cpp:669 src/minoltamn.cpp:271 src/minoltamn.cpp:889
 #: src/minoltamn.cpp:939 src/minoltamn.cpp:1139 src/minoltamn.cpp:2286
