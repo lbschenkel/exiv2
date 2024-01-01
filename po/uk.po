@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-04-04 07:29\n"
+"PO-Revision-Date: 2024-01-01 12:50\n"
 "Last-Translator: \n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
@@ -22730,7 +22730,7 @@ msgstr "Роздільна здатність за Y"
 
 #: src/tags.cpp:514
 msgid "The number of pixels per <ResolutionUnit> in the <ImageLength> direction. The same value as <XResolution> is designated."
-msgstr ""
+msgstr "Кількість пікселів на <ResolutionUnit> в напрямку <ImageLength> . Аналогічне значення, яке <XResolution> визначено."
 
 #: src/tags.cpp:518
 msgid "Indicates whether pixel components are recorded in a chunky or planar format. In JPEG compressed files a JPEG marker is used instead of this tag. If this field does not exist, the TIFF default of 1 (chunky) is assumed."
