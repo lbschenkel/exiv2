@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2022-12-15 00:20\n"
+"PO-Revision-Date: 2024-01-01 11:49\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -6784,11 +6784,11 @@ msgstr "Brillant-"
 
 #: src/nikonmn.cpp:462
 msgid "Contrast+"
-msgstr ""
+msgstr "Contrast+"
 
 #: src/nikonmn.cpp:463
 msgid "Contrast-"
-msgstr ""
+msgstr "Contrast-"
 
 #: src/nikonmn.cpp:482
 msgid "Speedlight"
@@ -12841,7 +12841,7 @@ msgstr "Una descripci√≥ textual del contingut del recurs. Pot ser que hi hagi m√
 
 #: src/properties.cpp:175 src/properties.cpp:1443
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: src/properties.cpp:175
 msgid "The file format used when saving the resource. Tools and applications should set this property to the save format of the data. It may include appropriate qualifiers."
