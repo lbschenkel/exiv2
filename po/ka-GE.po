@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2024-01-07 06:03\n"
+"PO-Revision-Date: 2024-01-07 07:06\n"
 "Last-Translator: \n"
 "Language-Team: Georgian\n"
 "Language: ka_GE\n"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: src/actions.cpp:1624
 msgid "Del"
-msgstr ""
+msgstr "წაშლა"
 
 #: src/actions.cpp:1656
 msgid "Reg "
@@ -357,7 +357,7 @@ msgstr ""
 
 #: src/actions.cpp:1774
 msgid "day"
-msgstr ""
+msgstr "დღე"
 
 #: src/actions.cpp:1780
 msgid "s"
@@ -475,7 +475,7 @@ msgstr ""
 #: src/sonymn.cpp:214 src/sonymn.cpp:259 src/sonymn.cpp:266 src/sonymn.cpp:297
 #: src/sonymn.cpp:568
 msgid "Off"
-msgstr ""
+msgstr "გამორთ"
 
 #: src/canonmn.cpp:60 src/canonmn.cpp:462 src/canonmn.cpp:481
 #: src/canonmn.cpp:1160 src/canonmn.cpp:1475 src/fujimn.cpp:57
@@ -5521,7 +5521,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:795
 msgid "Hue"
-msgstr ""
+msgstr "ტონი"
 
 #: src/minoltamn.cpp:797 src/minoltamn.cpp:798 src/minoltamn.cpp:1051
 #: src/minoltamn.cpp:1052 src/minoltamn.cpp:1581 src/minoltamn.cpp:1582
@@ -7199,7 +7199,7 @@ msgstr ""
 #: src/nikonmn.cpp:662 src/olympusmn.cpp:67 src/panasonicmn.cpp:190
 #: src/panasonicmn.cpp:436 src/pentaxmn.cpp:396
 msgid "Yes"
-msgstr ""
+msgstr "დიახ"
 
 #: src/nikonmn.cpp:667
 msgid "Y/M/D"
@@ -8148,7 +8148,7 @@ msgstr ""
 #: src/olympusmn.cpp:122 src/panasonicmn.cpp:142 src/pentaxmn.cpp:595
 #: src/sonymn.cpp:180
 msgid "Pet"
-msgstr ""
+msgstr "შინაური ცხოველი"
 
 #: src/olympusmn.cpp:123
 msgid "Underwater Wide1"
@@ -8640,7 +8640,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:494
 msgid "ESP"
-msgstr ""
+msgstr "ESP"
 
 #: src/olympusmn.cpp:495
 msgid "Pattern+AF"
