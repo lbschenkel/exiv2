@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2024-01-07 05:04\n"
+"PO-Revision-Date: 2024-01-07 06:03\n"
 "Last-Translator: \n"
 "Language-Team: Georgian\n"
 "Language: ka_GE\n"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: src/actions.cpp:1516
 msgid "Add"
-msgstr ""
+msgstr "დამატება"
 
 #: src/actions.cpp:1538 src/actions.cpp:1612
 msgid "Warning"
@@ -11790,11 +11790,11 @@ msgstr ""
 
 #: src/pentaxmn.cpp:448 src/pentaxmn.cpp:463 src/pentaxmn.cpp:476
 msgid "-4"
-msgstr ""
+msgstr "-4"
 
 #: src/pentaxmn.cpp:449 src/pentaxmn.cpp:464 src/pentaxmn.cpp:477
 msgid "+4"
-msgstr ""
+msgstr "+4"
 
 #: src/pentaxmn.cpp:472
 msgid "Med Soft"
@@ -14125,7 +14125,7 @@ msgstr ""
 
 #: src/properties.cpp:504 src/tags.cpp:249
 msgid "cm"
-msgstr ""
+msgstr "სმ"
 
 #: src/properties.cpp:508
 msgid "Saved Settings"
