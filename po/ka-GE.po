@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2024-01-01 11:49\n"
+"PO-Revision-Date: 2024-01-07 05:04\n"
 "Last-Translator: \n"
 "Language-Team: Georgian\n"
 "Language: ka_GE\n"
@@ -361,7 +361,7 @@ msgstr ""
 
 #: src/actions.cpp:1780
 msgid "s"
-msgstr ""
+msgstr "ს"
 
 #: src/actions.cpp:1796
 msgid "Can't adjust timestamp by"
@@ -15180,11 +15180,11 @@ msgstr ""
 
 #: src/properties.cpp:736
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: src/properties.cpp:737
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: src/properties.cpp:738
 msgid "Alpha"
