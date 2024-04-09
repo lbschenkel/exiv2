@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2021-04-04 07:29\n"
+"PO-Revision-Date: 2024-04-09 07:27\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -26,15 +26,15 @@ msgstr ""
 #: src/actions.cpp:1444 src/actions.cpp:1685 src/actions.cpp:1820
 #: src/actions.cpp:1883 src/actions.cpp:2101
 msgid "Failed to open the file\n"
-msgstr "Thất bại khi mở tập tin\n"
+msgstr ""
 
 #: src/actions.cpp:294
 msgid "File name"
-msgstr "Tên tập tin"
+msgstr ""
 
 #: src/actions.cpp:300
 msgid "File size"
-msgstr "Kích cỡ tập tin"
+msgstr ""
 
 #: src/actions.cpp:301 src/actions.cpp:461 src/actions.cpp:1138
 msgid "Bytes"
@@ -47,7 +47,7 @@ msgstr ""
 #: src/actions.cpp:309 src/canonmn.cpp:1217 src/minoltamn.cpp:506
 #: src/minoltamn.cpp:751 src/minoltamn.cpp:998 src/pentaxmn.cpp:1450
 msgid "Image size"
-msgstr "Kích cỡ hình ảnh"
+msgstr ""
 
 #: src/actions.cpp:314 src/actions.cpp:576 src/actions.cpp:856
 #: src/actions.cpp:1121 src/actions.cpp:1697 src/actions.cpp:1832
@@ -61,7 +61,7 @@ msgstr ""
 
 #: src/actions.cpp:322
 msgid "Camera model"
-msgstr "Kiểu Ca-me-ra"
+msgstr ""
 
 #: src/actions.cpp:325
 msgid "Image timestamp"
@@ -70,72 +70,72 @@ msgstr ""
 #: src/actions.cpp:329 src/minoltamn.cpp:811 src/minoltamn.cpp:818
 #: src/minoltamn.cpp:1076
 msgid "Image number"
-msgstr "Số hiệu ảnh"
+msgstr ""
 
 #: src/actions.cpp:334 src/minoltamn.cpp:521 src/minoltamn.cpp:804
 #: src/minoltamn.cpp:1034 src/minoltamn.cpp:1378 src/pentaxmn.cpp:1467
 #: src/pentaxmn.cpp:1468
 msgid "Exposure time"
-msgstr "Thời gian phơi sáng"
+msgstr ""
 
 #: src/actions.cpp:346 src/canonmn.cpp:1336 src/minoltamn.cpp:1272
 #: src/tags.cpp:1680
 msgid "Aperture"
-msgstr "Khẩu độ"
+msgstr ""
 
 #: src/actions.cpp:357
 msgid "Exposure bias"
-msgstr "Bù trừ ánh sáng"
+msgstr ""
 
 #: src/actions.cpp:360 src/canonmn.cpp:1267 src/minoltamn.cpp:880
 #: src/minoltamn.cpp:1208 src/minoltamn.cpp:2450 src/panasonicmn.cpp:72
 #: src/pentaxmn.cpp:417 src/properties.cpp:840 src/sonymn.cpp:231
 #: src/tags.cpp:837 src/tags.cpp:1484 src/tags.cpp:1705
 msgid "Flash"
-msgstr "Đèn chớp"
+msgstr ""
 
 #: src/actions.cpp:363 src/canonmn.cpp:1330 src/panasonicmn.cpp:454
 msgid "Flash bias"
-msgstr "Bù trừ ánh sáng đèn chớp"
+msgstr ""
 
 #: src/actions.cpp:368 src/canonmn.cpp:418 src/minoltamn.cpp:545
 #: src/nikonmn.cpp:1399 src/nikonmn.cpp:1424
 msgid "Focal length"
-msgstr "Tiêu cự"
+msgstr ""
 
 #: src/actions.cpp:373
 msgid "35 mm equivalent"
-msgstr "Tương tự 35mm"
+msgstr ""
 
 #: src/actions.cpp:385 src/canonmn.cpp:1334
 msgid "Subject distance"
-msgstr "Khoảng cách đến vật thể"
+msgstr ""
 
 #: src/actions.cpp:399
 msgid "ISO speed"
-msgstr "Độ nhạy sáng"
+msgstr ""
 
 #: src/actions.cpp:402 src/minoltamn.cpp:497 src/minoltamn.cpp:748
 #: src/minoltamn.cpp:995 src/minoltamn.cpp:1363 src/olympusmn.cpp:675
 #: src/sigmamn.cpp:75
 msgid "Exposure mode"
-msgstr "Chế độ phơi sáng"
+msgstr ""
 
 #: src/actions.cpp:405 src/minoltamn.cpp:515 src/minoltamn.cpp:1016
 #: src/minoltamn.cpp:1405 src/olympusmn.cpp:677 src/sigmamn.cpp:78
 msgid "Metering mode"
-msgstr "Chế độ đo đạc"
+msgstr ""
 
 #: src/actions.cpp:408 src/canonmn.cpp:1208 src/minoltamn.cpp:527
 #: src/olympusmn.cpp:203 src/olympusmn.cpp:679 src/panasonicmn.cpp:448
 msgid "Macro mode"
-msgstr "Chế độ chụp cận cảnh"
+msgstr ""
 
 #: src/actions.cpp:411 src/minoltamn.cpp:139 src/minoltamn.cpp:509
 #: src/minoltamn.cpp:754 src/minoltamn.cpp:1001 src/pentaxmn.cpp:1447
 #: src/sonymn.cpp:338
 msgid "Image quality"
-msgstr "Chất lượng hình ảnh"
+msgstr ""
 
 #: src/actions.cpp:415
 msgid "Exif Resolution"
@@ -147,11 +147,11 @@ msgstr ""
 #: src/nikonmn.cpp:561 src/olympusmn.cpp:899 src/pentaxmn.cpp:1487
 #: src/pentaxmn.cpp:1488 src/sigmamn.cpp:72 src/sonymn.cpp:353
 msgid "White balance"
-msgstr "Cân bằng trắng"
+msgstr ""
 
 #: src/actions.cpp:448 src/minoltamn.cpp:120 src/olympusmn.cpp:427
 msgid "Thumbnail"
-msgstr "Ảnh thu nhỏ"
+msgstr ""
 
 #: src/actions.cpp:452 src/actions.cpp:457 src/canonmn.cpp:617
 #: src/canonmn.cpp:1488 src/canonmn.cpp:1497 src/canonmn.cpp:1551
@@ -164,12 +164,12 @@ msgstr "Ảnh thu nhỏ"
 #: src/pentaxmn.cpp:450 src/pentaxmn.cpp:451 src/properties.cpp:1222
 #: src/properties.cpp:1230 src/tags.cpp:1563
 msgid "None"
-msgstr "Không"
+msgstr ""
 
 #: src/actions.cpp:467 src/datasets.cpp:376 src/properties.cpp:367
 #: src/properties.cpp:800 src/properties.cpp:1381 src/tags.cpp:772
 msgid "Copyright"
-msgstr "Bản quyền"
+msgstr ""
 
 #: src/actions.cpp:470
 msgid "Exif comment"
@@ -193,11 +193,11 @@ msgstr ""
 
 #: src/actions.cpp:814
 msgid "Preview"
-msgstr "Xem lại"
+msgstr ""
 
 #: src/actions.cpp:818 src/actions.cpp:1230 src/properties.cpp:502
 msgid "pixels"
-msgstr "Các điểm ảnh"
+msgstr ""
 
 #: src/actions.cpp:820 src/actions.cpp:1232
 msgid "bytes"
@@ -213,7 +213,7 @@ msgstr ""
 
 #: src/actions.cpp:868
 msgid "found in the file"
-msgstr "tìm thấy trong tập tin"
+msgstr ""
 
 #: src/actions.cpp:873
 msgid "Image file creation timestamp not set in the file"
@@ -225,7 +225,7 @@ msgstr ""
 
 #: src/actions.cpp:880
 msgid "in the file"
-msgstr "trong tập tin"
+msgstr ""
 
 #: src/actions.cpp:891
 msgid "Updating timestamp to"
@@ -261,11 +261,11 @@ msgstr ""
 
 #: src/actions.cpp:1137
 msgid "Writing thumbnail"
-msgstr "Viết ảnh phác thảo"
+msgstr ""
 
 #: src/actions.cpp:1138 src/actions.cpp:1233
 msgid "to file"
-msgstr "tới tập tin"
+msgstr ""
 
 #: src/actions.cpp:1144
 msgid "Exif data doesn't contain a thumbnail\n"
@@ -273,7 +273,7 @@ msgstr ""
 
 #: src/actions.cpp:1174 src/actions.cpp:1237
 msgid "Image does not have preview"
-msgstr "Hình ảnh không có chế độ xem trước"
+msgstr ""
 
 #: src/actions.cpp:1199
 msgid "No embedded iccProfile: "
@@ -285,27 +285,27 @@ msgstr ""
 
 #: src/actions.cpp:1226
 msgid "Writing preview"
-msgstr "Viết bài duyệt trước"
+msgstr ""
 
 #: src/actions.cpp:1475
 msgid "Setting JPEG comment"
-msgstr "Tùy chỉnh bình luạn JPEG"
+msgstr ""
 
 #: src/actions.cpp:1516
 msgid "Add"
-msgstr "Thêm"
+msgstr ""
 
 #: src/actions.cpp:1538 src/actions.cpp:1612
 msgid "Warning"
-msgstr "Cảnh báo"
+msgstr ""
 
 #: src/actions.cpp:1539 src/actions.cpp:1613
 msgid "Failed to read"
-msgstr "Đọc thất bại"
+msgstr ""
 
 #: src/actions.cpp:1541 src/actions.cpp:1615
 msgid "value"
-msgstr "Giá trị"
+msgstr ""
 
 #: src/actions.cpp:1552
 msgid "Set"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: src/actions.cpp:1624
 msgid "Del"
-msgstr "Xóa"
+msgstr ""
 
 #: src/actions.cpp:1656
 msgid "Reg "
@@ -329,35 +329,35 @@ msgstr ""
 
 #: src/actions.cpp:1745
 msgid "Adjusting"
-msgstr "Thay đổi"
+msgstr ""
 
 #: src/actions.cpp:1745
 msgid "by"
-msgstr "bởi"
+msgstr ""
 
 #: src/actions.cpp:1749 src/actions.cpp:1798
 msgid "years"
-msgstr "Các năm"
+msgstr ""
 
 #: src/actions.cpp:1752
 msgid "year"
-msgstr "Năm"
+msgstr ""
 
 #: src/actions.cpp:1760
 msgid "months"
-msgstr "Các tháng"
+msgstr ""
 
 #: src/actions.cpp:1763
 msgid "month"
-msgstr "Tháng"
+msgstr ""
 
 #: src/actions.cpp:1771
 msgid "days"
-msgstr "Các ngày"
+msgstr ""
 
 #: src/actions.cpp:1774
 msgid "day"
-msgstr "Ngày"
+msgstr ""
 
 #: src/actions.cpp:1780
 msgid "s"
@@ -370,7 +370,7 @@ msgstr ""
 #: src/actions.cpp:1805 src/actions.cpp:2141 src/actions.cpp:2156
 #: src/actions.cpp:2171 src/actions.cpp:2201 src/actions.cpp:2331
 msgid "to"
-msgstr "tới"
+msgstr ""
 
 #: src/actions.cpp:1839
 msgid "Standard Exif ISO tag exists; not modified\n"
@@ -378,15 +378,15 @@ msgstr ""
 
 #: src/actions.cpp:1847
 msgid "Setting Exif ISO value to"
-msgstr "Cài đặt giá trị độ nhạy sáng Exif tới"
+msgstr ""
 
 #: src/actions.cpp:1901
 msgid "No Exif user comment found"
-msgstr "Không tìm thấy chú thích của người dùng Exif nào"
+msgstr ""
 
 #: src/actions.cpp:1909
 msgid "Found Exif user comment with unexpected value type"
-msgstr "Tìm thấy chú thích của người dùng Exif với kiểu giá trị không mong đợi"
+msgstr ""
 
 #: src/actions.cpp:1916
 msgid "No Exif UNICODE user comment found"
@@ -398,19 +398,19 @@ msgstr ""
 
 #: src/actions.cpp:2140
 msgid "Writing Exif data from"
-msgstr "Viết dữ liệu Exif từ"
+msgstr ""
 
 #: src/actions.cpp:2155
 msgid "Writing IPTC data from"
-msgstr "Viết dữ liệu IPTC từ"
+msgstr ""
 
 #: src/actions.cpp:2170
 msgid "Writing XMP data from"
-msgstr "Viết dữ liệu XMP từ"
+msgstr ""
 
 #: src/actions.cpp:2200
 msgid "Writing JPEG comment from"
-msgstr "Viết chú thích JPEG từ"
+msgstr ""
 
 #: src/actions.cpp:2211
 msgid "Could not write metadata to file"
@@ -418,15 +418,15 @@ msgstr ""
 
 #: src/actions.cpp:2257
 msgid "Filename format yields empty filename for the file"
-msgstr "Định dạng tên tập tin"
+msgstr ""
 
 #: src/actions.cpp:2266
 msgid "This file already has the correct name"
-msgstr "Tập tin đã có sẵn tên chính xác"
+msgstr ""
 
 #: src/actions.cpp:2290 src/exiv2.cpp:167
 msgid "File"
-msgstr "Tập tin"
+msgstr ""
 
 #: src/actions.cpp:2291
 msgid "exists. [O]verwrite, [r]ename or [s]kip?"
@@ -434,19 +434,19 @@ msgstr ""
 
 #: src/actions.cpp:2319
 msgid "Renaming file to"
-msgstr "Đổi tên tập tin thành"
+msgstr ""
 
 #: src/actions.cpp:2321
 msgid "updating timestamp"
-msgstr "Cập nhật nhãn thời g"
+msgstr ""
 
 #: src/actions.cpp:2330
 msgid "Failed to rename"
-msgstr "Đổi tên thất bại"
+msgstr ""
 
 #: src/actions.cpp:2356
 msgid "Overwrite"
-msgstr "Lưu đè"
+msgstr ""
 
 #: src/canonmn.cpp:59 src/canonmn.cpp:403 src/canonmn.cpp:463
 #: src/canonmn.cpp:479 src/canonmn.cpp:1159 src/canonmn.cpp:1179
@@ -475,7 +475,7 @@ msgstr "Lưu đè"
 #: src/sonymn.cpp:214 src/sonymn.cpp:259 src/sonymn.cpp:266 src/sonymn.cpp:297
 #: src/sonymn.cpp:568
 msgid "Off"
-msgstr "Tắt"
+msgstr ""
 
 #: src/canonmn.cpp:60 src/canonmn.cpp:462 src/canonmn.cpp:481
 #: src/canonmn.cpp:1160 src/canonmn.cpp:1475 src/fujimn.cpp:57
@@ -489,23 +489,23 @@ msgstr "Tắt"
 #: src/panasonicmn.cpp:430 src/pentaxmn.cpp:390 src/pentaxmn.cpp:996
 #: src/sonymn.cpp:215 src/sonymn.cpp:267 src/sonymn.cpp:298
 msgid "On"
-msgstr "Bật"
+msgstr ""
 
 #: src/canonmn.cpp:397
 msgid "Format 1"
-msgstr "Định dạng 1"
+msgstr ""
 
 #: src/canonmn.cpp:398
 msgid "Format 2"
-msgstr "Định dạng 2"
+msgstr ""
 
 #: src/canonmn.cpp:404 src/nikonmn.cpp:1263
 msgid "On (1)"
-msgstr "Mở (1)"
+msgstr ""
 
 #: src/canonmn.cpp:405 src/canonmn.cpp:1165 src/nikonmn.cpp:1264
 msgid "On (2)"
-msgstr "Mở (2)"
+msgstr ""
 
 #: src/canonmn.cpp:410 src/minoltamn.cpp:1152 src/nikonmn.cpp:137
 #: src/olympusmn.cpp:602 src/olympusmn.cpp:793 src/olympusmn.cpp:858
@@ -549,81 +549,81 @@ msgstr ""
 #: src/tags.cpp:1467 src/tags.cpp:1480 src/tags.cpp:1586 src/tags.cpp:2714
 #: src/tags.cpp:2832
 msgid "Unknown"
-msgstr "Không biết"
+msgstr ""
 
 #: src/canonmn.cpp:417 src/olympusmn.cpp:451 src/sonymn.cpp:349
 #: src/sonymn.cpp:350
 msgid "Camera Settings"
-msgstr "Tùy chỉnh máy ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:417
 msgid "Various camera settings"
-msgstr "Các tùy chỉnh máy ảnh khác nhau"
+msgstr ""
 
 #: src/canonmn.cpp:418 src/minoltamn.cpp:544 src/nikonmn.cpp:1399
 #: src/nikonmn.cpp:1424 src/properties.cpp:841 src/properties.cpp:1441
 #: src/tags.cpp:838 src/tags.cpp:1708
 msgid "Focal Length"
-msgstr "Tiêu cự"
+msgstr ""
 
 #: src/canonmn.cpp:420 src/sonymn.cpp:408
 msgid "Shot Info"
-msgstr "Thông tin Chụp"
+msgstr ""
 
 #: src/canonmn.cpp:420
 msgid "Shot information"
-msgstr "Thông tin ảnh ch"
+msgstr ""
 
 #: src/canonmn.cpp:421 src/olympusmn.cpp:102 src/olympusmn.cpp:1171
 #: src/panasonicmn.cpp:158 src/sonymn.cpp:371 src/sonymn.cpp:372
 msgid "Panorama"
-msgstr "Toàn cảnh"
+msgstr ""
 
 #: src/canonmn.cpp:422 src/datasets.cpp:396 src/properties.cpp:1069
 msgid "Image Type"
-msgstr "Kiểu hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:422
 msgid "Image type"
-msgstr "Kiểu hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:423 src/panasonicmn.cpp:442 src/properties.cpp:1439
 msgid "Firmware Version"
-msgstr "Phiên bản phần vững"
+msgstr ""
 
 #: src/canonmn.cpp:423 src/panasonicmn.cpp:442
 msgid "Firmware version"
-msgstr "Firmware Version"
+msgstr ""
 
 #: src/canonmn.cpp:424 src/canonmn.cpp:1506 src/nikonmn.cpp:919
 msgid "File Number"
-msgstr "Tập tin số"
+msgstr ""
 
 #: src/canonmn.cpp:424 src/nikonmn.cpp:919
 msgid "File number"
-msgstr "Tập tin số"
+msgstr ""
 
 #: src/canonmn.cpp:425
 msgid "Owner Name"
-msgstr "Tên chủ sở hữu"
+msgstr ""
 
 #: src/canonmn.cpp:426 src/fujimn.cpp:190 src/nikonmn.cpp:583
 #: src/olympusmn.cpp:759 src/pentaxmn.cpp:1678 src/pentaxmn.cpp:1679
 #: src/properties.cpp:942 src/sigmamn.cpp:56
 msgid "Serial Number"
-msgstr "Chuỗi số"
+msgstr ""
 
 #: src/canonmn.cpp:426 src/sigmamn.cpp:57
 msgid "Camera serial number"
-msgstr "Số thứ tự máy ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:427
 msgid "Camera Info"
-msgstr "Thông tin Máy ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:427
 msgid "Camera info"
-msgstr "Thông tin máy ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:428 src/canonmn.cpp:441
 msgid "Custom Functions"
@@ -639,11 +639,11 @@ msgstr ""
 
 #: src/canonmn.cpp:430 src/olympusmn.cpp:220
 msgid "Picture Info"
-msgstr "Thông tin hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:430
 msgid "Picture info"
-msgstr "Thông tin hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:431
 msgid "Thumbnail Image Valid Area"
@@ -664,19 +664,19 @@ msgstr ""
 #: src/canonmn.cpp:433 src/canonmn.cpp:559 src/minoltamn.cpp:2390
 #: src/olympusmn.cpp:111 src/olympusmn.cpp:504 src/pentaxmn.cpp:270
 msgid "Super Macro"
-msgstr "Siêu cận cảnh phóng to"
+msgstr ""
 
 #: src/canonmn.cpp:433 src/canonmn.cpp:687 src/olympusmn.cpp:82
 msgid "Super macro"
-msgstr "Siêu cận cảnh phóng to"
+msgstr ""
 
 #: src/canonmn.cpp:434 src/nikonmn.cpp:600
 msgid "AF Info"
-msgstr "Thông tin Lấy nét tự động"
+msgstr ""
 
 #: src/canonmn.cpp:434 src/nikonmn.cpp:600
 msgid "AF info"
-msgstr "Thông tin lấy nét tự động"
+msgstr ""
 
 #: src/canonmn.cpp:435
 msgid "Time Info"
@@ -696,16 +696,16 @@ msgstr ""
 
 #: src/canonmn.cpp:437
 msgid "White Balance Table"
-msgstr "Bảng cân bằng trắng"
+msgstr ""
 
 #: src/canonmn.cpp:437
 msgid "White balance table"
-msgstr "Bảng cân bằng trắng"
+msgstr ""
 
 #: src/canonmn.cpp:438 src/olympusmn.cpp:765 src/properties.cpp:444
 #: src/properties.cpp:929 src/properties.cpp:1482 src/tags.cpp:1903
 msgid "Lens Model"
-msgstr "Kiểu ống kính"
+msgstr ""
 
 #: src/canonmn.cpp:438 src/olympusmn.cpp:765
 msgid "Lens model"
@@ -717,15 +717,15 @@ msgstr ""
 
 #: src/canonmn.cpp:439 src/olympusmn.cpp:760
 msgid "Internal serial number"
-msgstr "Dãy số bên trong"
+msgstr ""
 
 #: src/canonmn.cpp:440
 msgid "Dust Removal Data"
-msgstr "Dữ liệu loại bỏ bụi"
+msgstr ""
 
 #: src/canonmn.cpp:440
 msgid "Dust removal data"
-msgstr "Dữ liệu loại bỏ bụi"
+msgstr ""
 
 #: src/canonmn.cpp:441
 msgid "Custom functions"
@@ -733,23 +733,23 @@ msgstr ""
 
 #: src/canonmn.cpp:442
 msgid "Processing Info"
-msgstr "Xử lý Thông tin"
+msgstr ""
 
 #: src/canonmn.cpp:442
 msgid "Processing info"
-msgstr "Xử lý thông tin"
+msgstr ""
 
 #: src/canonmn.cpp:443
 msgid "Measured Color"
-msgstr "Đo lường Màu sắc"
+msgstr ""
 
 #: src/canonmn.cpp:443
 msgid "Measured color"
-msgstr "Đo lường màu sắc"
+msgstr ""
 
 #: src/canonmn.cpp:444
 msgid "ColorSpace"
-msgstr "Khoảng không gian màu"
+msgstr ""
 
 #: src/canonmn.cpp:448
 msgid "VRD Offset"
@@ -761,19 +761,19 @@ msgstr ""
 
 #: src/canonmn.cpp:449
 msgid "Sensor Info"
-msgstr "Thông tin cảm biến"
+msgstr ""
 
 #: src/canonmn.cpp:449
 msgid "Sensor info"
-msgstr "Thông tin cảm biến"
+msgstr ""
 
 #: src/canonmn.cpp:450
 msgid "Color Data"
-msgstr "Dữ liệu màu"
+msgstr ""
 
 #: src/canonmn.cpp:450
 msgid "Color data"
-msgstr "Dữ liệu màu"
+msgstr ""
 
 #: src/canonmn.cpp:452
 msgid "Unknown CanonMakerNote tag"
@@ -783,7 +783,7 @@ msgstr ""
 #: src/minoltamn.cpp:683 src/minoltamn.cpp:869 src/minoltamn.cpp:2408
 #: src/panasonicmn.cpp:126
 msgid "Economy"
-msgstr "Kinh tế"
+msgstr ""
 
 #: src/canonmn.cpp:469 src/canonmn.cpp:627 src/fujimn.cpp:64 src/fujimn.cpp:84
 #: src/fujimn.cpp:93 src/minoltamn.cpp:310 src/minoltamn.cpp:681
@@ -796,26 +796,26 @@ msgstr "Kinh tế"
 #: src/pentaxmn.cpp:470 src/sonymn.cpp:191 src/sonymn.cpp:276
 #: src/sonymn.cpp:282 src/tags.cpp:1572 src/tags.cpp:1579
 msgid "Normal"
-msgstr "Bình thường"
+msgstr ""
 
 #: src/canonmn.cpp:470 src/minoltamn.cpp:82 src/minoltamn.cpp:250
 #: src/minoltamn.cpp:680 src/minoltamn.cpp:866 src/minoltamn.cpp:2352
 #: src/minoltamn.cpp:2406 src/sonymn.cpp:192
 msgid "Fine"
-msgstr "Tốt"
+msgstr ""
 
 #: src/canonmn.cpp:471 src/minoltamn.cpp:2349 src/olympusmn.cpp:659
 #: src/pentaxmn.cpp:202
 msgid "RAW"
-msgstr "Nguyên gốc"
+msgstr ""
 
 #: src/canonmn.cpp:472
 msgid "Superfine"
-msgstr "Siêutốt"
+msgstr ""
 
 #: src/canonmn.cpp:473
 msgid "Normal Movie"
-msgstr "Phim bình thường"
+msgstr ""
 
 #: src/canonmn.cpp:474
 msgid "Movie (2)"
@@ -838,28 +838,28 @@ msgstr ""
 #: src/sonymn.cpp:567 src/sonymn.cpp:592 src/tags.cpp:1456 src/tags.cpp:1541
 #: src/tags.cpp:1548
 msgid "Auto"
-msgstr "Tự động"
+msgstr ""
 
 #: src/canonmn.cpp:482 src/olympusmn.cpp:533
 msgid "Red-eye"
-msgstr "Mắt đỏ"
+msgstr ""
 
 #: src/canonmn.cpp:483
 msgid "Slow sync"
-msgstr "Đồng bộ chậm"
+msgstr ""
 
 #: src/canonmn.cpp:484
 msgid "Auto + red-eye"
-msgstr "Tự động + mắt đỏ"
+msgstr ""
 
 #: src/canonmn.cpp:485
 msgid "On + red-eye"
-msgstr "Mở + mắt-đỏ"
+msgstr ""
 
 #: src/canonmn.cpp:486 src/canonmn.cpp:487 src/fujimn.cpp:104
 #: src/minoltamn.cpp:1349 src/nikonmn.cpp:954 src/olympusmn.cpp:145
 msgid "External"
-msgstr "Ngoài"
+msgstr ""
 
 #: src/canonmn.cpp:492
 msgid "Single / timer"
@@ -870,23 +870,23 @@ msgstr ""
 #: src/minoltamn.cpp:1159 src/nikonmn.cpp:152 src/nikonmn.cpp:165
 #: src/pentaxmn.cpp:660
 msgid "Continuous"
-msgstr "Liên tục"
+msgstr ""
 
 #: src/canonmn.cpp:494 src/olympusmn.cpp:104
 msgid "Movie"
-msgstr "Phim"
+msgstr ""
 
 #: src/canonmn.cpp:495
 msgid "Continuous, speed priority"
-msgstr "Liên tục, ưu tiên tốc độ"
+msgstr ""
 
 #: src/canonmn.cpp:496
 msgid "Continuous, low"
-msgstr "Liên tục, thấp"
+msgstr ""
 
 #: src/canonmn.cpp:497
 msgid "Continuous, high"
-msgstr "Liên tục, cao"
+msgstr ""
 
 #: src/canonmn.cpp:498
 msgid "Silent Single"
@@ -918,7 +918,7 @@ msgstr ""
 
 #: src/canonmn.cpp:509 src/canonmn.cpp:1143 src/sonymn.cpp:291
 msgid "Single"
-msgstr "Đơn"
+msgstr ""
 
 #: src/canonmn.cpp:511
 msgid "Manual focus (6)"
@@ -943,30 +943,30 @@ msgstr ""
 #: src/canonmn.cpp:521 src/canonmn.cpp:1451 src/minoltamn.cpp:672
 #: src/minoltamn.cpp:858 src/sonymn.cpp:610
 msgid "Large"
-msgstr "Lớn"
+msgstr ""
 
 #: src/canonmn.cpp:522 src/canonmn.cpp:1194 src/canonmn.cpp:1452
 #: src/minoltamn.cpp:673 src/minoltamn.cpp:859 src/minoltamn.cpp:1232
 #: src/properties.cpp:1503 src/sonymn.cpp:611
 msgid "Medium"
-msgstr "Trung bình"
+msgstr ""
 
 #: src/canonmn.cpp:523 src/canonmn.cpp:1453 src/minoltamn.cpp:674
 #: src/minoltamn.cpp:860 src/minoltamn.cpp:1233 src/sonymn.cpp:612
 msgid "Small"
-msgstr "Nhỏ"
+msgstr ""
 
 #: src/canonmn.cpp:524 src/canonmn.cpp:1454
 msgid "Medium 1"
-msgstr "Trung bình 1"
+msgstr ""
 
 #: src/canonmn.cpp:525 src/canonmn.cpp:1455
 msgid "Medium 2"
-msgstr "Trung bình 2"
+msgstr ""
 
 #: src/canonmn.cpp:526 src/canonmn.cpp:1456
 msgid "Medium 3"
-msgstr "Trung bình 3"
+msgstr ""
 
 #: src/canonmn.cpp:527 src/canonmn.cpp:1457
 msgid "Postcard"
@@ -974,7 +974,7 @@ msgstr ""
 
 #: src/canonmn.cpp:528 src/canonmn.cpp:1458
 msgid "Widescreen"
-msgstr "Màn hình rộng"
+msgstr ""
 
 #: src/canonmn.cpp:529 src/canonmn.cpp:1459
 msgid "Medium Widescreen"
@@ -1014,7 +1014,7 @@ msgstr ""
 
 #: src/canonmn.cpp:542
 msgid "Full auto"
-msgstr "Tự động hoàn toàn"
+msgstr ""
 
 #: src/canonmn.cpp:543 src/canonmn.cpp:678 src/canonmn.cpp:1132
 #: src/canonmn.cpp:1145 src/canonmn.cpp:1535 src/fujimn.cpp:112
@@ -1029,7 +1029,7 @@ msgstr "Tự động hoàn toàn"
 #: src/sonymn.cpp:222 src/sonymn.cpp:528 src/sonymn.cpp:593 src/tags.cpp:1455
 #: src/tags.cpp:1542 src/tags.cpp:1549
 msgid "Manual"
-msgstr "Thủ công"
+msgstr ""
 
 #: src/canonmn.cpp:544 src/canonmn.cpp:1567 src/fujimn.cpp:119
 #: src/minoltamn.cpp:72 src/minoltamn.cpp:852 src/minoltamn.cpp:2235
@@ -1037,15 +1037,15 @@ msgstr "Thủ công"
 #: src/pentaxmn.cpp:984 src/sonymn.cpp:161 src/sonymn.cpp:546
 #: src/sonymn.cpp:576 src/sonymn.cpp:603 src/tags.cpp:1555
 msgid "Landscape"
-msgstr "Phong cảnh"
+msgstr ""
 
 #: src/canonmn.cpp:545
 msgid "Fast shutter"
-msgstr "Thời gian chập nhanh"
+msgstr ""
 
 #: src/canonmn.cpp:546
 msgid "Slow shutter"
-msgstr "Thời gian chập chậm"
+msgstr ""
 
 #: src/canonmn.cpp:547
 msgid "Night"
@@ -1070,13 +1070,13 @@ msgstr ""
 #: src/pentaxmn.cpp:983 src/sonymn.cpp:157 src/sonymn.cpp:545
 #: src/sonymn.cpp:575 src/sonymn.cpp:599 src/tags.cpp:1556
 msgid "Portrait"
-msgstr "Chân dung"
+msgstr ""
 
 #: src/canonmn.cpp:551 src/fujimn.cpp:120 src/minoltamn.cpp:849
 #: src/minoltamn.cpp:2386 src/panasonicmn.cpp:113 src/sonymn.cpp:159
 #: src/sonymn.cpp:600
 msgid "Sports"
-msgstr "Thể thao"
+msgstr ""
 
 #: src/canonmn.cpp:552 src/canonmn.cpp:681 src/canonmn.cpp:1208
 #: src/fujimn.cpp:215 src/minoltamn.cpp:853 src/minoltamn.cpp:2389
@@ -1086,12 +1086,12 @@ msgstr "Thể thao"
 #: src/sonymn.cpp:173 src/sonymn.cpp:453 src/sonymn.cpp:454 src/sonymn.cpp:604
 #: src/tags.cpp:1587
 msgid "Macro"
-msgstr "Cận cảnh phóng to"
+msgstr ""
 
 #: src/canonmn.cpp:553 src/canonmn.cpp:1269 src/minoltamn.cpp:63
 #: src/minoltamn.cpp:2238 src/sonymn.cpp:549
 msgid "Black & White"
-msgstr "Đen và trắng"
+msgstr ""
 
 #: src/canonmn.cpp:555 src/canonmn.cpp:1180 src/olympusmn.cpp:135
 #: src/olympusmn.cpp:617 src/olympusmn.cpp:871 src/panasonicmn.cpp:262
@@ -1104,7 +1104,7 @@ msgstr ""
 #: src/olympusmn.cpp:647 src/olympusmn.cpp:880 src/olympusmn.cpp:889
 #: src/sonymn.cpp:551 src/sonymn.cpp:581
 msgid "Neutral"
-msgstr "Trung tính"
+msgstr ""
 
 #: src/canonmn.cpp:557
 msgid "Flash Off"
@@ -1120,27 +1120,27 @@ msgstr ""
 
 #: src/canonmn.cpp:561 src/olympusmn.cpp:107
 msgid "Indoor"
-msgstr "Trong nhà"
+msgstr ""
 
 #: src/canonmn.cpp:562 src/fujimn.cpp:133 src/olympusmn.cpp:108
 #: src/panasonicmn.cpp:127 src/sonymn.cpp:169
 msgid "Fireworks"
-msgstr "Pháo hoa"
+msgstr ""
 
 #: src/canonmn.cpp:563 src/fujimn.cpp:131 src/olympusmn.cpp:130
 #: src/panasonicmn.cpp:139 src/sonymn.cpp:158
 msgid "Beach"
-msgstr "Bãi biển"
+msgstr ""
 
 #: src/canonmn.cpp:564 src/canonmn.cpp:1278 src/fujimn.cpp:134
 #: src/olympusmn.cpp:580 src/panasonicmn.cpp:138 src/sonymn.cpp:175
 msgid "Underwater"
-msgstr "Dưới nước"
+msgstr ""
 
 #: src/canonmn.cpp:565 src/fujimn.cpp:132 src/olympusmn.cpp:131
 #: src/panasonicmn.cpp:129 src/sonymn.cpp:160
 msgid "Snow"
-msgstr "Tuyết"
+msgstr ""
 
 #: src/canonmn.cpp:566
 msgid "Kids & Pets"
@@ -1156,7 +1156,7 @@ msgstr ""
 
 #: src/canonmn.cpp:569
 msgid "My Colors"
-msgstr "Màu sắc của tôi"
+msgstr ""
 
 #: src/canonmn.cpp:570
 msgid "Movie Snap"
@@ -1327,7 +1327,7 @@ msgstr ""
 #: src/canonmn.cpp:610 src/minoltamn.cpp:74 src/minoltamn.cpp:957
 #: src/minoltamn.cpp:2384 src/olympusmn.cpp:100 src/pentaxmn.cpp:590
 msgid "Night Scene"
-msgstr "Cảnh đêm"
+msgstr ""
 
 #: src/canonmn.cpp:611
 msgid "Surface"
@@ -1340,7 +1340,7 @@ msgstr ""
 #: src/canonmn.cpp:620 src/canonmn.cpp:621 src/properties.cpp:1167
 #: src/properties.cpp:1189 src/tags.cpp:1474 src/tags.cpp:1475
 msgid "Other"
-msgstr "Khác"
+msgstr ""
 
 #: src/canonmn.cpp:626 src/canonmn.cpp:1195 src/canonmn.cpp:1543
 #: src/fujimn.cpp:86 src/fujimn.cpp:95 src/minoltamn.cpp:1174
@@ -1351,7 +1351,7 @@ msgstr "Khác"
 #: src/panasonicmn.cpp:355 src/pentaxmn.cpp:441 src/pentaxmn.cpp:456
 #: src/sonymn.cpp:274 src/tags.cpp:1580
 msgid "Low"
-msgstr "Thấp"
+msgstr ""
 
 #: src/canonmn.cpp:628 src/canonmn.cpp:1545 src/fujimn.cpp:85
 #: src/fujimn.cpp:94 src/minoltamn.cpp:1175 src/minoltamn.cpp:1181
@@ -1362,7 +1362,7 @@ msgstr "Thấp"
 #: src/panasonicmn.cpp:357 src/pentaxmn.cpp:443 src/pentaxmn.cpp:458
 #: src/sonymn.cpp:277 src/tags.cpp:1581
 msgid "High"
-msgstr "Cao"
+msgstr ""
 
 #: src/canonmn.cpp:633 src/canonmn.cpp:1192 src/canonmn.cpp:1196
 #: src/canonmn.cpp:1201 src/canonmn.cpp:1541 src/canonmn.cpp:1600
@@ -1382,26 +1382,26 @@ msgstr ""
 
 #: src/canonmn.cpp:668 src/sonymn.cpp:246
 msgid "Default"
-msgstr "Mặc định"
+msgstr ""
 
 #: src/canonmn.cpp:669 src/minoltamn.cpp:271 src/minoltamn.cpp:889
 #: src/minoltamn.cpp:939 src/minoltamn.cpp:1139 src/minoltamn.cpp:2286
 #: src/olympusmn.cpp:493 src/panasonicmn.cpp:119 src/pentaxmn.cpp:403
 #: src/sonymn.cpp:538 src/tags.cpp:1470
 msgid "Spot"
-msgstr "Xác định"
+msgstr ""
 
 #: src/canonmn.cpp:670 src/sigmamn.cpp:168 src/tags.cpp:1468
 msgid "Average"
-msgstr "Trung bình"
+msgstr ""
 
 #: src/canonmn.cpp:671
 msgid "Evaluative"
-msgstr "Đánh giá"
+msgstr ""
 
 #: src/canonmn.cpp:672 src/tags.cpp:1473
 msgid "Partial"
-msgstr "Bộ phận"
+msgstr ""
 
 #: src/canonmn.cpp:673 src/olympusmn.cpp:492
 msgid "Center-weighted average"
@@ -1409,15 +1409,15 @@ msgstr ""
 
 #: src/canonmn.cpp:680
 msgid "Not known"
-msgstr "Không biết"
+msgstr ""
 
 #: src/canonmn.cpp:682
 msgid "Very close"
-msgstr "rất gần"
+msgstr ""
 
 #: src/canonmn.cpp:683
 msgid "Close"
-msgstr "gần"
+msgstr ""
 
 #: src/canonmn.cpp:684
 msgid "Middle range"
@@ -1425,48 +1425,48 @@ msgstr ""
 
 #: src/canonmn.cpp:685
 msgid "Far range"
-msgstr "Khoảng cách xa"
+msgstr ""
 
 #: src/canonmn.cpp:688 src/olympusmn.cpp:1615 src/pentaxmn.cpp:268
 #: src/tags.cpp:2717
 msgid "Infinity"
-msgstr "Vô cực"
+msgstr ""
 
 #: src/canonmn.cpp:693
 msgid "Manual AF point selection"
-msgstr "Lựa chọn điểm lấy nét tự động thủ công"
+msgstr ""
 
 #: src/canonmn.cpp:694
 msgid "None (MF)"
-msgstr "Không (MF)"
+msgstr ""
 
 #: src/canonmn.cpp:695
 msgid "Auto-selected"
-msgstr "Tự động-chọn"
+msgstr ""
 
 #: src/canonmn.cpp:696 src/minoltamn.cpp:293 src/minoltamn.cpp:712
 #: src/minoltamn.cpp:927 src/minoltamn.cpp:2301 src/nikonmn.cpp:104
 #: src/olympusmn.cpp:1638 src/pentaxmn.cpp:295 src/pentaxmn.cpp:310
 #: src/properties.cpp:727
 msgid "Right"
-msgstr "Phải"
+msgstr ""
 
 #: src/canonmn.cpp:697 src/canonmn.cpp:1173 src/minoltamn.cpp:290
 #: src/minoltamn.cpp:709 src/minoltamn.cpp:2298 src/nikonmn.cpp:100
 #: src/nikonmn.cpp:838 src/nikonmn.cpp:853 src/pentaxmn.cpp:293
 #: src/pentaxmn.cpp:309 src/sigmamn.cpp:169
 msgid "Center"
-msgstr "Trung tâm"
+msgstr ""
 
 #: src/canonmn.cpp:698 src/minoltamn.cpp:297 src/minoltamn.cpp:716
 #: src/minoltamn.cpp:931 src/minoltamn.cpp:2305 src/nikonmn.cpp:103
 #: src/pentaxmn.cpp:291 src/pentaxmn.cpp:308 src/properties.cpp:725
 msgid "Left"
-msgstr "Trái"
+msgstr ""
 
 #: src/canonmn.cpp:699
 msgid "Auto AF point selection"
-msgstr "Tự động chọn điểm lấy nét tự động"
+msgstr ""
 
 #: src/canonmn.cpp:700 src/olympusmn.cpp:999 src/panasonicmn.cpp:573
 #: src/pentaxmn.cpp:277
@@ -1475,23 +1475,23 @@ msgstr ""
 
 #: src/canonmn.cpp:705
 msgid "Easy shooting (Auto)"
-msgstr "Chụp đơn giản (Tự động)"
+msgstr ""
 
 #: src/canonmn.cpp:706
 msgid "Program (P)"
-msgstr "Chương trình (2)"
+msgstr ""
 
 #: src/canonmn.cpp:707
 msgid "Shutter priority (Tv)"
-msgstr "Ưu tiên tốc độ chập (Tv)"
+msgstr ""
 
 #: src/canonmn.cpp:708
 msgid "Aperture priority (Av)"
-msgstr "Ưu tiên khẩu độ (Av)"
+msgstr ""
 
 #: src/canonmn.cpp:709
 msgid "Manual (M)"
-msgstr "Thủ công (M)"
+msgstr ""
 
 #: src/canonmn.cpp:710
 msgid "A-DEP"
@@ -1516,11 +1516,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1130 src/olympusmn.cpp:1028
 msgid "External flash"
-msgstr "Đèn chớp gắn ngoài"
+msgstr ""
 
 #: src/canonmn.cpp:1131 src/olympusmn.cpp:1032
 msgid "Internal flash"
-msgstr "Đèn chớp trong máy"
+msgstr ""
 
 #: src/canonmn.cpp:1133 src/olympusmn.cpp:559 src/sonymn.cpp:562
 msgid "TTL"
@@ -1553,7 +1553,7 @@ msgstr ""
 #: src/canonmn.cpp:1151 src/minoltamn.cpp:533 src/minoltamn.cpp:775
 #: src/minoltamn.cpp:1055 src/pentaxmn.cpp:1477 src/pentaxmn.cpp:1478
 msgid "Exposure compensation"
-msgstr "Độ bù trừ phơi sáng"
+msgstr ""
 
 #: src/canonmn.cpp:1152 src/minoltamn.cpp:1585 src/pentaxmn.cpp:1579
 #: src/pentaxmn.cpp:1580
@@ -1599,11 +1599,11 @@ msgstr ""
 #: src/canonmn.cpp:1174 src/canonmn.cpp:1226 src/nikonmn.cpp:869
 #: src/olympusmn.cpp:1027
 msgid "AF Point"
-msgstr "Điểm lấy nét tự động"
+msgstr ""
 
 #: src/canonmn.cpp:1182
 msgid "Smooth"
-msgstr "Độ mịn"
+msgstr ""
 
 #: src/canonmn.cpp:1184 src/nikonmn.cpp:710 src/sonymn.cpp:579
 msgid "B&W"
@@ -1614,15 +1614,15 @@ msgstr ""
 #: src/minoltamn.cpp:1194 src/minoltamn.cpp:1197 src/minoltamn.cpp:2452
 #: src/pentaxmn.cpp:1005
 msgid "Custom"
-msgstr "Tùy chỉnh"
+msgstr ""
 
 #: src/canonmn.cpp:1186 src/canonmn.cpp:1187
 msgid "My color data"
-msgstr "Dữ liệu màu sắc của tôi"
+msgstr ""
 
 #: src/canonmn.cpp:1193 src/pentaxmn.cpp:210
 msgid "Full"
-msgstr "Đầy"
+msgstr ""
 
 #: src/canonmn.cpp:1202
 msgid "sRAW1 (mRAW)"
@@ -1646,17 +1646,17 @@ msgstr ""
 #: src/sigmamn.cpp:113 src/sigmamn.cpp:114 src/sonymn.cpp:723
 #: src/sonymn.cpp:724
 msgid "Quality"
-msgstr "Chất lượng"
+msgstr ""
 
 #: src/canonmn.cpp:1211 src/fujimn.cpp:209 src/minoltamn.cpp:499
 #: src/minoltamn.cpp:768 src/nikonmn.cpp:599 src/olympusmn.cpp:280
 #: src/olympusmn.cpp:686
 msgid "Flash Mode"
-msgstr "Chế độ đèn chớp"
+msgstr ""
 
 #: src/canonmn.cpp:1211
 msgid "Flash mode setting"
-msgstr "Tùy chỉnh chế độ đèn chớp"
+msgstr ""
 
 #: src/canonmn.cpp:1212 src/minoltamn.cpp:511 src/minoltamn.cpp:1437
 #: src/olympusmn.cpp:716 src/sigmamn.cpp:59 src/sonymn.cpp:635
@@ -1675,34 +1675,34 @@ msgstr ""
 #: src/sonymn.cpp:460 src/sonymn.cpp:642 src/sonymn.cpp:643 src/sonymn.cpp:748
 #: src/sonymn.cpp:749
 msgid "Focus Mode"
-msgstr "Chế độ lấy nét"
+msgstr ""
 
 #: src/canonmn.cpp:1214
 msgid "Focus mode setting"
-msgstr "Tùy chỉnh chế độ lấy nét"
+msgstr ""
 
 #: src/canonmn.cpp:1217 src/minoltamn.cpp:505 src/minoltamn.cpp:750
 #: src/minoltamn.cpp:997
 msgid "Image Size"
-msgstr "Kích cỡ hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1218
 msgid "Easy Mode"
-msgstr "Chế độ dễ dàng"
+msgstr ""
 
 #: src/canonmn.cpp:1218
 msgid "Easy shooting mode"
-msgstr "Chế độ chụp đơn giản"
+msgstr ""
 
 #: src/canonmn.cpp:1219 src/minoltamn.cpp:529 src/nikonmn.cpp:258
 #: src/nikonmn.cpp:511 src/nikonmn.cpp:598 src/olympusmn.cpp:208
 msgid "Digital Zoom"
-msgstr "Thu/phóng điện tử"
+msgstr ""
 
 #: src/canonmn.cpp:1219 src/minoltamn.cpp:530 src/pentaxmn.cpp:1502
 #: src/pentaxmn.cpp:1503
 msgid "Digital zoom"
-msgstr "Thu/phóng điện tử"
+msgstr ""
 
 #: src/canonmn.cpp:1220 src/minoltamn.cpp:392 src/minoltamn.cpp:580
 #: src/minoltamn.cpp:581 src/minoltamn.cpp:783 src/minoltamn.cpp:784
@@ -1714,12 +1714,12 @@ msgstr "Thu/phóng điện tử"
 #: src/sigmamn.cpp:89 src/sigmamn.cpp:90 src/sonymn.cpp:387 src/sonymn.cpp:669
 #: src/sonymn.cpp:670 src/sonymn.cpp:775 src/sonymn.cpp:776 src/tags.cpp:1860
 msgid "Contrast"
-msgstr "Tương phản"
+msgstr ""
 
 #: src/canonmn.cpp:1220 src/fujimn.cpp:207 src/olympusmn.cpp:392
 #: src/olympusmn.cpp:697 src/olympusmn.cpp:1099 src/panasonicmn.cpp:462
 msgid "Contrast setting"
-msgstr "Tùy chỉnh độ tương phản"
+msgstr ""
 
 #: src/canonmn.cpp:1221 src/minoltamn.cpp:393 src/minoltamn.cpp:577
 #: src/minoltamn.cpp:578 src/minoltamn.cpp:786 src/minoltamn.cpp:787
@@ -1748,22 +1748,22 @@ msgstr ""
 #: src/sigmamn.cpp:102 src/sonymn.cpp:666 src/sonymn.cpp:667
 #: src/sonymn.cpp:772 src/sonymn.cpp:773 src/tags.cpp:1868
 msgid "Sharpness"
-msgstr "Độ mịn"
+msgstr ""
 
 #: src/canonmn.cpp:1222 src/fujimn.cpp:198 src/olympusmn.cpp:698
 #: src/olympusmn.cpp:1100
 msgid "Sharpness setting"
-msgstr "Tùy chinh độ mịn"
+msgstr ""
 
 #: src/canonmn.cpp:1223 src/minoltamn.cpp:771 src/minoltamn.cpp:1018
 msgid "ISO Speed Mode"
-msgstr "Chế độ nhạy sáng"
+msgstr ""
 
 #: src/canonmn.cpp:1223 src/minoltamn.cpp:772 src/minoltamn.cpp:1019
 #: src/nikonmn.cpp:220 src/nikonmn.cpp:500 src/nikonmn.cpp:558
 #: src/panasonicmn.cpp:749
 msgid "ISO speed setting"
-msgstr "Tuỳ chỉnh chế độ nhạy sáng"
+msgstr ""
 
 #: src/canonmn.cpp:1224 src/minoltamn.cpp:514 src/minoltamn.cpp:1015
 #: src/minoltamn.cpp:1404 src/olympusmn.cpp:677 src/properties.cpp:838
@@ -1771,83 +1771,83 @@ msgstr "Tuỳ chỉnh chế độ nhạy sáng"
 #: src/sonymn.cpp:652 src/sonymn.cpp:757 src/sonymn.cpp:758 src/tags.cpp:835
 #: src/tags.cpp:1699
 msgid "Metering Mode"
-msgstr "Chế độ đo đạc"
+msgstr ""
 
 #: src/canonmn.cpp:1224
 msgid "Metering mode setting"
-msgstr "Tùy chỉnh chế độ đo đạc"
+msgstr ""
 
 #: src/canonmn.cpp:1225
 msgid "Focus Type"
-msgstr "Kiểu lấy nét"
+msgstr ""
 
 #: src/canonmn.cpp:1225
 msgid "Focus type setting"
-msgstr "Tùy chỉnh kiểu lấy nét"
+msgstr ""
 
 #: src/canonmn.cpp:1226
 msgid "AF point selected"
-msgstr "Lựa chọn điểm lấy nét tự động"
+msgstr ""
 
 #: src/canonmn.cpp:1227 src/properties.cpp:827 src/properties.cpp:1429
 #: src/sonymn.cpp:708 src/sonymn.cpp:709 src/sonymn.cpp:784 src/sonymn.cpp:785
 #: src/tags.cpp:809 src/tags.cpp:1601
 msgid "Exposure Program"
-msgstr "Tự động phơi sáng hoàn toàn"
+msgstr ""
 
 #: src/canonmn.cpp:1227
 msgid "Exposure mode setting"
-msgstr "Tùy chỉnh chế độ phơi sáng"
+msgstr ""
 
 #: src/canonmn.cpp:1229 src/nikonmn.cpp:595 src/olympusmn.cpp:763
 #: src/panasonicmn.cpp:493 src/properties.cpp:1483
 msgid "Lens Type"
-msgstr "Kiểu Ống kính"
+msgstr ""
 
 #: src/canonmn.cpp:1229 src/nikonmn.cpp:595 src/olympusmn.cpp:763
 #: src/panasonicmn.cpp:493 src/pentaxmn.cpp:1566 src/pentaxmn.cpp:1567
 msgid "Lens type"
-msgstr "Kiểu ống kính"
+msgstr ""
 
 #: src/canonmn.cpp:1230 src/nikonmn.cpp:596 src/properties.cpp:941
 msgid "Lens"
-msgstr "Ống kính"
+msgstr ""
 
 #: src/canonmn.cpp:1230
 msgid "'long' and 'short' focal length of lens (in 'focal units') and 'focal units' per mm"
-msgstr "Khoảng tiêu cự 'dài' và 'ngắn' của ống kính (trong 'đơn vị tiêu cự') và 'đơn vị tiêu cự' mỗi mm"
+msgstr ""
 
 #: src/canonmn.cpp:1231
 msgid "Short Focal"
-msgstr "Tiêu cự Ngắn"
+msgstr ""
 
 #: src/canonmn.cpp:1231
 msgid "Short focal"
-msgstr "Tiêu cự ngắn"
+msgstr ""
 
 #: src/canonmn.cpp:1232
 msgid "Focal Units"
-msgstr "Đơn vị tiêu cự"
+msgstr ""
 
 #: src/canonmn.cpp:1232
 msgid "Focal units"
-msgstr "Đơn vị tiêu cự"
+msgstr ""
 
 #: src/canonmn.cpp:1233 src/minoltamn.cpp:559
 msgid "Max Aperture"
-msgstr "Khẩu độ tối đa"
+msgstr ""
 
 #: src/canonmn.cpp:1233 src/minoltamn.cpp:560
 msgid "Max aperture"
-msgstr "Khẩu độ tối đa"
+msgstr ""
 
 #: src/canonmn.cpp:1234
 msgid "Min Aperture"
-msgstr "Khẩu đ6ọ tối thiểu"
+msgstr ""
 
 #: src/canonmn.cpp:1234
 msgid "Min aperture"
-msgstr "Khẩu độ tối thiểu"
+msgstr ""
 
 #: src/canonmn.cpp:1235
 msgid "Flash Activity"
@@ -1859,19 +1859,19 @@ msgstr ""
 
 #: src/canonmn.cpp:1236
 msgid "Flash Details"
-msgstr "Chi tiết đèn chớp"
+msgstr ""
 
 #: src/canonmn.cpp:1236
 msgid "Flash details"
-msgstr "Chi tiết đèn chớp"
+msgstr ""
 
 #: src/canonmn.cpp:1239
 msgid "Focus Continuous"
-msgstr "Lấy nét Liên tục"
+msgstr ""
 
 #: src/canonmn.cpp:1239
 msgid "Focus continuous setting"
-msgstr "Cài đặt lấy nét liên tục"
+msgstr ""
 
 #: src/canonmn.cpp:1240
 msgid "AESetting"
@@ -1886,22 +1886,22 @@ msgstr ""
 #: src/olympusmn.cpp:719 src/olympusmn.cpp:1035 src/panasonicmn.cpp:447
 #: src/sonymn.cpp:435 src/sonymn.cpp:711 src/sonymn.cpp:712
 msgid "Image Stabilization"
-msgstr "Ổn định hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1241 src/minoltamn.cpp:154 src/minoltamn.cpp:821
 #: src/minoltamn.cpp:1082 src/minoltamn.cpp:1573 src/nikonmn.cpp:632
 #: src/olympusmn.cpp:719 src/olympusmn.cpp:1035 src/panasonicmn.cpp:447
 #: src/sonymn.cpp:436
 msgid "Image stabilization"
-msgstr "Ổn định hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1242
 msgid "Display Aperture"
-msgstr "Hiển thị khẩu độ"
+msgstr ""
 
 #: src/canonmn.cpp:1242
 msgid "Display aperture"
-msgstr "HIển thị khẩu độ"
+msgstr ""
 
 #: src/canonmn.cpp:1243
 msgid "Zoom Source Width"
@@ -1929,11 +1929,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1247
 msgid "Photo Effect"
-msgstr "Hiệu ứng hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1247
 msgid "Photo effect"
-msgstr "Hiệu ứng hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1248
 msgid "Manual Flash Output"
@@ -1945,11 +1945,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1249
 msgid "Color Tone"
-msgstr "Tông màu"
+msgstr ""
 
 #: src/canonmn.cpp:1249
 msgid "Color tone"
-msgstr "Tông màu"
+msgstr ""
 
 #: src/canonmn.cpp:1250
 msgid "SRAW Quality Tone"
@@ -1968,14 +1968,14 @@ msgstr ""
 #: src/minoltamn.cpp:2446 src/nikonmn.cpp:478 src/panasonicmn.cpp:68
 #: src/pentaxmn.cpp:409 src/sonymn.cpp:223 src/tags.cpp:1481
 msgid "Daylight"
-msgstr "Ánh sáng ban ngày"
+msgstr ""
 
 #: src/canonmn.cpp:1264 src/fujimn.cpp:73 src/minoltamn.cpp:226
 #: src/minoltamn.cpp:691 src/minoltamn.cpp:876 src/minoltamn.cpp:1204
 #: src/minoltamn.cpp:2447 src/nikonmn.cpp:481 src/olympusmn.cpp:1060
 #: src/panasonicmn.cpp:69 src/pentaxmn.cpp:418 src/sonymn.cpp:224
 msgid "Cloudy"
-msgstr "Trời mây"
+msgstr ""
 
 #: src/canonmn.cpp:1265 src/minoltamn.cpp:227 src/minoltamn.cpp:692
 #: src/minoltamn.cpp:878 src/minoltamn.cpp:1206 src/minoltamn.cpp:2449
@@ -1993,7 +1993,7 @@ msgstr ""
 #: src/minoltamn.cpp:1205 src/minoltamn.cpp:2448 src/olympusmn.cpp:1059
 #: src/panasonicmn.cpp:75 src/pentaxmn.cpp:410 src/tags.cpp:1487
 msgid "Shade"
-msgstr "Bóng râm"
+msgstr ""
 
 #: src/canonmn.cpp:1271
 msgid "Manual Temperature (Kelvin)"
@@ -2017,16 +2017,16 @@ msgstr ""
 
 #: src/canonmn.cpp:1276 src/properties.cpp:1099
 msgid "Custom 1"
-msgstr "Tùy chỉnh 1"
+msgstr ""
 
 #: src/canonmn.cpp:1277 src/minoltamn.cpp:231 src/properties.cpp:1100
 msgid "Custom 2"
-msgstr "Tùy chỉnh 2"
+msgstr ""
 
 #: src/canonmn.cpp:1279 src/canonmn.cpp:1280 src/minoltamn.cpp:232
 #: src/properties.cpp:1101
 msgid "Custom 3"
-msgstr "Tùy chỉnh 3"
+msgstr ""
 
 #: src/canonmn.cpp:1281
 msgid "PC Set 4"
@@ -2042,23 +2042,23 @@ msgstr ""
 
 #: src/canonmn.cpp:1288 src/canonmn.cpp:1407 src/canonmn.cpp:1415
 msgid "left"
-msgstr "Trái"
+msgstr ""
 
 #: src/canonmn.cpp:1289 src/canonmn.cpp:1404 src/canonmn.cpp:1416
 msgid "center"
-msgstr "Trung tâm"
+msgstr ""
 
 #: src/canonmn.cpp:1290 src/canonmn.cpp:1401 src/canonmn.cpp:1417
 msgid "right"
-msgstr "Phải"
+msgstr ""
 
 #: src/canonmn.cpp:1317
 msgid "ISO Speed Used"
-msgstr "Độ nhạy sáng Đã sử dụng"
+msgstr ""
 
 #: src/canonmn.cpp:1317
 msgid "ISO speed used"
-msgstr "Độ nhạy sáng đã sử dụng"
+msgstr ""
 
 #: src/canonmn.cpp:1318
 msgid "Measured EV"
@@ -2070,11 +2070,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1320
 msgid "Target Shutter Speed"
-msgstr "Tốc độ Chụp mục tiêu"
+msgstr ""
 
 #: src/canonmn.cpp:1320
 msgid "Target shutter speed"
-msgstr "Tốc độ chụp mục tiêu"
+msgstr ""
 
 #: src/canonmn.cpp:1322 src/fujimn.cpp:200 src/minoltamn.cpp:183
 #: src/minoltamn.cpp:502 src/minoltamn.cpp:756 src/minoltamn.cpp:1003
@@ -2084,12 +2084,12 @@ msgstr "Tốc độ chụp mục tiêu"
 #: src/properties.cpp:1665 src/sigmamn.cpp:71 src/sonymn.cpp:352
 #: src/tags.cpp:1838
 msgid "White Balance"
-msgstr "Cân bằng trắng"
+msgstr ""
 
 #: src/canonmn.cpp:1322 src/fujimn.cpp:201 src/minoltamn.cpp:1453
 #: src/panasonicmn.cpp:443
 msgid "White balance setting"
-msgstr "Tùy chỉnh cân bằng trắng"
+msgstr ""
 
 #: src/canonmn.cpp:1324
 msgid "Sequence"
@@ -2105,29 +2105,29 @@ msgstr ""
 
 #: src/canonmn.cpp:1329
 msgid "AF point used"
-msgstr "Điểm lấy nét tự động đã sử dụng"
+msgstr ""
 
 #: src/canonmn.cpp:1330 src/olympusmn.cpp:373
 msgid "Flash Bias"
-msgstr "Bù trừ sáng đèn chớp"
+msgstr ""
 
 #: src/canonmn.cpp:1334 src/properties.cpp:837 src/tags.cpp:834
 #: src/tags.cpp:1696
 msgid "Subject Distance"
-msgstr "Khoảng cách Vật thể"
+msgstr ""
 
 #: src/canonmn.cpp:1336 src/olympusmn.cpp:274 src/properties.cpp:833
 #: src/tags.cpp:830
 msgid "Aperture Value"
-msgstr "Giá trị khẩu độ"
+msgstr ""
 
 #: src/canonmn.cpp:1337 src/properties.cpp:832 src/tags.cpp:829
 msgid "Shutter Speed Value"
-msgstr "Giá trị tốc độ màn chập"
+msgstr ""
 
 #: src/canonmn.cpp:1337 src/tags.cpp:1676
 msgid "Shutter speed"
-msgstr "Tốc độ màn chập"
+msgstr ""
 
 #: src/canonmn.cpp:1338
 msgid "Measured EV 2"
@@ -2135,19 +2135,19 @@ msgstr ""
 
 #: src/canonmn.cpp:1353 src/olympusmn.cpp:1183
 msgid "Left to right"
-msgstr "Trái sang phải"
+msgstr ""
 
 #: src/canonmn.cpp:1354 src/olympusmn.cpp:1184
 msgid "Right to left"
-msgstr "Phải sang trái"
+msgstr ""
 
 #: src/canonmn.cpp:1355 src/olympusmn.cpp:1185
 msgid "Bottom to top"
-msgstr "Dưới lên trên"
+msgstr ""
 
 #: src/canonmn.cpp:1356 src/olympusmn.cpp:1186
 msgid "Top to bottom"
-msgstr "Trên xuống dưới"
+msgstr ""
 
 #: src/canonmn.cpp:1357
 msgid "2x2 matrix (Clockwise)"
@@ -2155,19 +2155,19 @@ msgstr ""
 
 #: src/canonmn.cpp:1362
 msgid "Panorama Frame"
-msgstr "Khung hình toàn cảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1362
 msgid "Panorama frame number"
-msgstr "Số khung hình toàn cảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1363
 msgid "Panorama Direction"
-msgstr "Chiều chụp toàn cảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1363
 msgid "Panorama direction"
-msgstr "Chiều chụp toàn cảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1365
 msgid "Unknown Canon Panorama tag"
@@ -2179,11 +2179,11 @@ msgstr ""
 #: src/olympusmn.cpp:823 src/olympusmn.cpp:838 src/olympusmn.cpp:908
 #: src/olympusmn.cpp:993
 msgid "Noise Reduction"
-msgstr "Giảm nhiễu"
+msgstr ""
 
 #: src/canonmn.cpp:1375
 msgid "Long exposure noise reduction"
-msgstr "Giảm nhiễu của sự phơi sáng lâu"
+msgstr ""
 
 #: src/canonmn.cpp:1376
 msgid "Shutter Ae Lock"
@@ -2211,11 +2211,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1379 src/minoltamn.cpp:1530
 msgid "AF Assist"
-msgstr "Hỗ trợ lấy nét tự động"
+msgstr ""
 
 #: src/canonmn.cpp:1379
 msgid "AF assist light"
-msgstr "Ánh sáng hỗ trợ lấy nét tự động"
+msgstr ""
 
 #: src/canonmn.cpp:1380
 msgid "Flash Sync Speed Av"
@@ -2259,7 +2259,7 @@ msgstr ""
 
 #: src/canonmn.cpp:1385
 msgid "Menu Button Return"
-msgstr "Nút trở về trình đơn"
+msgstr ""
 
 #: src/canonmn.cpp:1385
 msgid "Menu button return position"
@@ -2307,11 +2307,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1403 src/canonmn.cpp:1420
 msgid "bottom"
-msgstr "Dưới"
+msgstr ""
 
 #: src/canonmn.cpp:1405 src/canonmn.cpp:1412
 msgid "top"
-msgstr "Trên"
+msgstr ""
 
 #: src/canonmn.cpp:1406
 msgid "mid-left"
@@ -2336,22 +2336,22 @@ msgstr ""
 #: src/canonmn.cpp:1425 src/olympusmn.cpp:226 src/olympusmn.cpp:406
 #: src/panasonicmn.cpp:746 src/properties.cpp:757 src/tags.cpp:422
 msgid "Image Width"
-msgstr "Chiều rộng hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1425 src/olympusmn.cpp:227 src/olympusmn.cpp:407
 #: src/panasonicmn.cpp:489 src/panasonicmn.cpp:746 src/tags.cpp:2156
 msgid "Image width"
-msgstr "Chiều rộng hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1426 src/olympusmn.cpp:229 src/olympusmn.cpp:409
 #: src/panasonicmn.cpp:745
 msgid "Image Height"
-msgstr "Chiều cao hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1426 src/olympusmn.cpp:230 src/olympusmn.cpp:410
 #: src/panasonicmn.cpp:490 src/panasonicmn.cpp:745 src/tags.cpp:2159
 msgid "Image height"
-msgstr "Chiều cao hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1427
 msgid "Image Width As Shot"
@@ -2371,19 +2371,19 @@ msgstr ""
 
 #: src/canonmn.cpp:1429 src/nikonmn.cpp:898
 msgid "AF Points Used"
-msgstr "Điểm Lấy nét tự động Đã dùng"
+msgstr ""
 
 #: src/canonmn.cpp:1429 src/nikonmn.cpp:898
 msgid "AF points used"
-msgstr "Điểm lấy nét tự động đã dùng"
+msgstr ""
 
 #: src/canonmn.cpp:1430
 msgid "AF Points Used 20D"
-msgstr "Điểm Lấy nét tự động Đã dùng trên máy 20D"
+msgstr ""
 
 #: src/canonmn.cpp:1430
 msgid "AF points used (20D)"
-msgstr "Điểm Lấy nét tự động Đã dùng (20D)"
+msgstr ""
 
 #: src/canonmn.cpp:1432
 msgid "Unknown Canon Picture Info tag"
@@ -2408,11 +2408,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1473
 msgid "On 1"
-msgstr "Mở 1"
+msgstr ""
 
 #: src/canonmn.cpp:1474
 msgid "On 2"
-msgstr "Mở 2"
+msgstr ""
 
 #: src/canonmn.cpp:1482
 msgid "On (shift AB)"
@@ -2425,32 +2425,32 @@ msgstr ""
 #: src/canonmn.cpp:1489 src/nikonmn.cpp:701 src/nikonmn.cpp:714
 #: src/nikonmn.cpp:1047 src/olympusmn.cpp:638 src/olympusmn.cpp:881
 msgid "Yellow"
-msgstr "Vàng"
+msgstr ""
 
 #: src/canonmn.cpp:1490 src/nikonmn.cpp:702 src/olympusmn.cpp:639
 #: src/olympusmn.cpp:882
 msgid "Orange"
-msgstr "Cam"
+msgstr ""
 
 #: src/canonmn.cpp:1491 src/nikonmn.cpp:703 src/nikonmn.cpp:713
 #: src/nikonmn.cpp:1045 src/olympusmn.cpp:640 src/olympusmn.cpp:883
 msgid "Red"
-msgstr "Đỏ"
+msgstr ""
 
 #: src/canonmn.cpp:1492 src/canonmn.cpp:1501 src/nikonmn.cpp:704
 #: src/nikonmn.cpp:715 src/olympusmn.cpp:641 src/olympusmn.cpp:651
 #: src/olympusmn.cpp:884 src/olympusmn.cpp:893
 msgid "Green"
-msgstr "Xanh lá"
+msgstr ""
 
 #: src/canonmn.cpp:1499 src/nikonmn.cpp:717 src/nikonmn.cpp:1046
 #: src/olympusmn.cpp:649 src/olympusmn.cpp:891
 msgid "Blue"
-msgstr "Xanh dương"
+msgstr ""
 
 #: src/canonmn.cpp:1500 src/olympusmn.cpp:650 src/olympusmn.cpp:892
 msgid "Purple"
-msgstr "Tím"
+msgstr ""
 
 #: src/canonmn.cpp:1507
 msgid "Bracket Mode"
@@ -2486,7 +2486,7 @@ msgstr ""
 
 #: src/canonmn.cpp:1516 src/nikonmn.cpp:735 src/properties.cpp:1438
 msgid "Filter Effect"
-msgstr "Kính lọc hiệu ứng"
+msgstr ""
 
 #: src/canonmn.cpp:1517 src/nikonmn.cpp:736 src/properties.cpp:1633
 msgid "Toning Effect"
@@ -2539,15 +2539,15 @@ msgstr ""
 #: src/sonymn.cpp:139 src/sonymn.cpp:208 src/sonymn.cpp:543 src/sonymn.cpp:573
 #: src/tags.cpp:1554
 msgid "Standard"
-msgstr "Tiêu chuẩn"
+msgstr ""
 
 #: src/canonmn.cpp:1542
 msgid "Lowest"
-msgstr "Thấp nhất"
+msgstr ""
 
 #: src/canonmn.cpp:1546
 msgid "Highest"
-msgstr "Cao nhất"
+msgstr ""
 
 #: src/canonmn.cpp:1554
 msgid "High Saturation"
@@ -2607,11 +2607,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1579
 msgid "SharpnessFrequency"
-msgstr "CườngđộMịn"
+msgstr ""
 
 #: src/canonmn.cpp:1579
 msgid "Sharpness frequency"
-msgstr "Cường độ mịn"
+msgstr ""
 
 #: src/canonmn.cpp:1580
 msgid "SensorRedLevel"
@@ -2647,7 +2647,7 @@ msgstr ""
 
 #: src/canonmn.cpp:1584
 msgid "WhiteBalance"
-msgstr "Cân bằng trắng"
+msgstr ""
 
 #: src/canonmn.cpp:1585
 msgid "ColorTemperature"
@@ -2662,11 +2662,11 @@ msgstr ""
 
 #: src/canonmn.cpp:1586
 msgid "PictureStyle"
-msgstr "KiểuHìnhảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1586
 msgid "Picture style"
-msgstr "Kiểu hình ảnh"
+msgstr ""
 
 #: src/canonmn.cpp:1587
 msgid "DigitalGain"
@@ -2870,11 +2870,11 @@ msgstr ""
 
 #: src/crwimage.cpp:689
 msgid "type"
-msgstr "Kiểu"
+msgstr ""
 
 #: src/crwimage.cpp:690
 msgid "size"
-msgstr "Kích cỡ"
+msgstr ""
 
 #: src/crwimage.cpp:691
 msgid "offset"
@@ -2882,7 +2882,7 @@ msgstr ""
 
 #: src/datasets.cpp:79
 msgid "(invalid)"
-msgstr "(không hợp lệ)"
+msgstr ""
 
 #: src/datasets.cpp:80
 msgid "IIM envelope record"
@@ -2894,7 +2894,7 @@ msgstr ""
 
 #: src/datasets.cpp:85
 msgid "Model Version"
-msgstr "Mẫu phiên bản"
+msgstr ""
 
 #: src/datasets.cpp:86
 msgid "A binary number identifying the version of the Information Interchange Model, Part I, utilised by the provider. Version numbers are assigned by IPTC and NAA organizations."
@@ -2903,7 +2903,7 @@ msgstr ""
 #: src/datasets.cpp:90 src/panasonicmn.cpp:283 src/pentaxmn.cpp:483
 #: src/pentaxmn.cpp:1520 src/pentaxmn.cpp:1521
 msgid "Destination"
-msgstr "Đích đến"
+msgstr ""
 
 #: src/datasets.cpp:91
 msgid "This DataSet is to accommodate some providers who require routing information above the appropriate OSI layers."
@@ -2911,7 +2911,7 @@ msgstr ""
 
 #: src/datasets.cpp:94 src/sonymn.cpp:411 src/sonymn.cpp:412
 msgid "File Format"
-msgstr "Định dạng tập tin"
+msgstr ""
 
 #: src/datasets.cpp:95
 msgid "A binary number representing the file format. The file format must be registered with IPTC or NAA with a unique number assigned to it. The information is used to route the data to the appropriate system and to allow the receiving system to perform the appropriate actions there to."
@@ -2919,7 +2919,7 @@ msgstr ""
 
 #: src/datasets.cpp:101
 msgid "File Version"
-msgstr "Phiên bản tập tin"
+msgstr ""
 
 #: src/datasets.cpp:102
 msgid "A binary number representing the particular version of the File Format specified by <FileFormat> tag."
@@ -2959,7 +2959,7 @@ msgstr ""
 
 #: src/datasets.cpp:129
 msgid "Date Sent"
-msgstr "Ngày gửi"
+msgstr ""
 
 #: src/datasets.cpp:130
 msgid "Uses the format CCYYMMDD (century, year, month, day) as de-fined in ISO 8601 to indicate year, month and day the service sent the material."
@@ -2967,7 +2967,7 @@ msgstr ""
 
 #: src/datasets.cpp:133
 msgid "Time Sent"
-msgstr "Thời gian gửi"
+msgstr ""
 
 #: src/datasets.cpp:134
 msgid "Uses the format HHMMSS:HHMM where HHMMSS refers to local hour, minute and seconds and HHMM refers to hours and minutes ahead (+) or behind (-) Universal Coordinated Time as described in ISO 8601. This is the time the service sent the material."
@@ -3015,7 +3015,7 @@ msgstr ""
 
 #: src/datasets.cpp:175
 msgid "Object Type"
-msgstr "Kiểu vật thể"
+msgstr ""
 
 #: src/datasets.cpp:176
 msgid "The Object Type is used to distinguish between different types of objects within the IIM. The first part is a number representing a language independent international reference to an Object Type followed by a colon separator. The second part, if used, is a text representation of the Object Type Number consisting of graphic characters plus spaces either in English or in the language of the service as indicated in tag <LanguageIdentifier>"
@@ -3031,7 +3031,7 @@ msgstr ""
 
 #: src/datasets.cpp:193
 msgid "Object Name"
-msgstr "Tên vật thể"
+msgstr ""
 
 #: src/datasets.cpp:194
 msgid "Used as a shorthand reference for the object. Changes to exist-ing data, such as updated stories or new crops on photos, should be identified in tag <EditStatus>."
@@ -3039,11 +3039,11 @@ msgstr ""
 
 #: src/datasets.cpp:198
 msgid "Document Title"
-msgstr "Tiêu đề văn bản"
+msgstr ""
 
 #: src/datasets.cpp:199 src/olympusmn.cpp:839
 msgid "Edit Status"
-msgstr "Tùy chỉnh trạng thái"
+msgstr ""
 
 #: src/datasets.cpp:200
 msgid "Status of the object data, according to the practice of the provider."
@@ -3067,7 +3067,7 @@ msgstr ""
 
 #: src/datasets.cpp:213 src/properties.cpp:189 src/properties.cpp:1616
 msgid "Subject"
-msgstr "Vật thể"
+msgstr ""
 
 #: src/datasets.cpp:214
 msgid "The Subject Reference is a structured definition of the subject matter."
@@ -3075,7 +3075,7 @@ msgstr ""
 
 #: src/datasets.cpp:216 src/datasets.cpp:221 src/properties.cpp:478
 msgid "Category"
-msgstr "Phân loại"
+msgstr ""
 
 #: src/datasets.cpp:217
 msgid "Identifies the subject of the object data in the opinion of the provider. A list of categories will be maintained by a regional registry, where available, otherwise by the provider."
@@ -3104,7 +3104,7 @@ msgstr ""
 #: src/datasets.cpp:233 src/datasets.cpp:239 src/properties.cpp:458
 #: src/properties.cpp:1298
 msgid "Keywords"
-msgstr "Từ khóa"
+msgstr ""
 
 #: src/datasets.cpp:234
 msgid "Used to indicate specific information retrieval words. It is expected that a provider of various types of data that are related in subject matter uses the same keyword, enabling the receiving system or subsystems to search across all types of data for related material."
@@ -3112,7 +3112,7 @@ msgstr ""
 
 #: src/datasets.cpp:240
 msgid "Location Code"
-msgstr "Mã vị trí"
+msgstr ""
 
 #: src/datasets.cpp:241
 msgid "Indicates the code of a country/geographical location referenced by the content of the object. Where ISO has established an appropriate country code under ISO 3166, that code will be used. When ISO 3166 does not adequately provide for identification of a location or a country, e.g. ships at sea, space, IPTC will assign an appropriate three-character code under the provisions of ISO 3166 to avoid conflicts."
@@ -3120,7 +3120,7 @@ msgstr ""
 
 #: src/datasets.cpp:248
 msgid "Location Name"
-msgstr "Tên vị trí"
+msgstr ""
 
 #: src/datasets.cpp:249
 msgid "Provides a full, publishable name of a country/geographical location referenced by the content of the object, according to guidelines of the provider."
@@ -3128,7 +3128,7 @@ msgstr ""
 
 #: src/datasets.cpp:253 src/properties.cpp:390
 msgid "Release Date"
-msgstr "Ngày phát hành"
+msgstr ""
 
 #: src/datasets.cpp:254
 msgid "Designates in the form CCYYMMDD the earliest date the provider intends the object to be used. Follows ISO 8601 standard."
@@ -3136,7 +3136,7 @@ msgstr ""
 
 #: src/datasets.cpp:257
 msgid "Release Time"
-msgstr "Thời gian phát hành"
+msgstr ""
 
 #: src/datasets.cpp:258
 msgid "Designates in the form HHMMSS:HHMM the earliest time the provider intends the object to be used. Follows ISO 8601 standard."
@@ -3144,7 +3144,7 @@ msgstr ""
 
 #: src/datasets.cpp:261
 msgid "Expiration Date"
-msgstr "Ngày hết hạn"
+msgstr ""
 
 #: src/datasets.cpp:262
 msgid "Designates in the form CCYYMMDD the latest date the provider or owner intends the object data to be used. Follows ISO 8601 standard."
@@ -3152,7 +3152,7 @@ msgstr ""
 
 #: src/datasets.cpp:265
 msgid "ExpirationTime"
-msgstr "Thời gian hết han"
+msgstr ""
 
 #: src/datasets.cpp:266
 msgid "Designates in the form HHMMSS:HHMM the latest time the provider or owner intends the object data to be used. Follows ISO 8601 standard."
@@ -3160,7 +3160,7 @@ msgstr ""
 
 #: src/datasets.cpp:269
 msgid "Special Instructions"
-msgstr "Hướng dẫn đặc biệt"
+msgstr ""
 
 #: src/datasets.cpp:270
 msgid "Other editorial instructions concerning the use of the object data, such as embargoes and warnings."
@@ -3168,7 +3168,7 @@ msgstr ""
 
 #: src/datasets.cpp:273 src/properties.cpp:479
 msgid "Instructions"
-msgstr "Hướng dẫn"
+msgstr ""
 
 #: src/datasets.cpp:274
 msgid "Action Advised"
@@ -3204,7 +3204,7 @@ msgstr ""
 
 #: src/datasets.cpp:289 src/datasets.cpp:294 src/properties.cpp:467
 msgid "Date Created"
-msgstr "Ngày tạo"
+msgstr ""
 
 #: src/datasets.cpp:290
 msgid "Represented in the form CCYYMMDD to designate the date the intellectual content of the object data was created rather than the date of the creation of the physical representation. Follows ISO 8601 standard."
@@ -3212,7 +3212,7 @@ msgstr ""
 
 #: src/datasets.cpp:295
 msgid "Time Created"
-msgstr "Thời gian tạo"
+msgstr ""
 
 #: src/datasets.cpp:296
 msgid "Represented in the form HHMMSS:HHMM to designate the time the intellectual content of the object data current source material was created rather than the creation of the physical representation. Follows ISO 8601 standard."
@@ -3239,7 +3239,7 @@ msgstr ""
 #: src/pentaxmn.cpp:578 src/pentaxmn.cpp:652 src/sigmamn.cpp:154
 #: src/sonymn.cpp:162
 msgid "Program"
-msgstr "Chương trình"
+msgstr ""
 
 #: src/datasets.cpp:311
 msgid "Identifies the type of program used to originate the object data."
@@ -3247,7 +3247,7 @@ msgstr ""
 
 #: src/datasets.cpp:313
 msgid "Program Version"
-msgstr "Phiên bản chương trình"
+msgstr ""
 
 #: src/datasets.cpp:314
 msgid "Used to identify the version of the program mentioned in tag <Program>."
@@ -3271,7 +3271,7 @@ msgstr ""
 
 #: src/datasets.cpp:323 src/properties.cpp:2386
 msgid "Author"
-msgstr "Tác giả"
+msgstr ""
 
 #: src/datasets.cpp:324
 msgid "By-line Title"
@@ -3284,7 +3284,7 @@ msgstr ""
 #: src/datasets.cpp:328 src/datasets.cpp:332 src/panasonicmn.cpp:507
 #: src/properties.cpp:474
 msgid "City"
-msgstr "Thành phố"
+msgstr ""
 
 #: src/datasets.cpp:329
 msgid "Identifies city of object data origin according to guidelines established by the provider."
@@ -3308,11 +3308,11 @@ msgstr ""
 
 #: src/datasets.cpp:341
 msgid "State/Province"
-msgstr "Bang/Tỉnh"
+msgstr ""
 
 #: src/datasets.cpp:342 src/properties.cpp:970 src/properties.cpp:2016
 msgid "Country Code"
-msgstr "Mã quốc gia"
+msgstr ""
 
 #: src/datasets.cpp:343
 msgid "Indicates the code of the country/primary location where the intellectual property of the object data was created, e.g. a photo was taken, an event occurred. Where ISO has established an appropriate country code under ISO 3166, that code will be used. When ISO 3166 does not adequately provide for identification of a location or a new country, e.g. ships at sea, space, IPTC will assign an appropriate three-character code under the provisions of ISO 3166 to avoid conflicts."
@@ -3320,7 +3320,7 @@ msgstr ""
 
 #: src/datasets.cpp:352
 msgid "Country Name"
-msgstr "Tên quốc gia"
+msgstr ""
 
 #: src/datasets.cpp:353
 msgid "Provides full, publishable, name of the country/primary location where the intellectual property of the object data was created, according to guidelines of the provider."
@@ -3329,7 +3329,7 @@ msgstr ""
 #: src/datasets.cpp:357 src/panasonicmn.cpp:505 src/properties.cpp:472
 #: src/properties.cpp:1383 src/properties.cpp:2013
 msgid "Country"
-msgstr "Quốc gia"
+msgstr ""
 
 #: src/datasets.cpp:358 src/datasets.cpp:362 src/properties.cpp:482
 msgid "Transmission Reference"
@@ -3341,7 +3341,7 @@ msgstr ""
 
 #: src/datasets.cpp:363 src/datasets.cpp:366 src/properties.cpp:471
 msgid "Headline"
-msgstr "Tiêu đề"
+msgstr ""
 
 #: src/datasets.cpp:364
 msgid "A publishable entry providing a synopsis of the contents of the object data."
@@ -3358,7 +3358,7 @@ msgstr ""
 #: src/datasets.cpp:371 src/datasets.cpp:375 src/properties.cpp:188
 #: src/properties.cpp:480 src/properties.cpp:1589
 msgid "Source"
-msgstr "Nguồn"
+msgstr ""
 
 #: src/datasets.cpp:372
 msgid "Identifies the original owner of the intellectual content of the object data. This could be an agency, a member of an agency or an individual."
@@ -3370,11 +3370,11 @@ msgstr ""
 
 #: src/datasets.cpp:379
 msgid "Copyright Notice"
-msgstr "Lưu ý bản quyền"
+msgstr ""
 
 #: src/datasets.cpp:380 src/properties.cpp:1245 src/properties.cpp:1254
 msgid "Contact"
-msgstr "Liên hệ"
+msgstr ""
 
 #: src/datasets.cpp:381
 msgid "Identifies the person or organisation which can provide further background information on the object data."
@@ -3390,11 +3390,11 @@ msgstr ""
 
 #: src/datasets.cpp:387 src/properties.cpp:173 src/properties.cpp:1289
 msgid "Description"
-msgstr "Miêu tả"
+msgstr ""
 
 #: src/datasets.cpp:388
 msgid "Writer"
-msgstr "Tác giả"
+msgstr ""
 
 #: src/datasets.cpp:389
 msgid "Identification of the name of the person involved in the writing, editing or correcting the object data or caption/abstract."
@@ -3423,7 +3423,7 @@ msgstr ""
 #: src/datasets.cpp:402 src/properties.cpp:179 src/properties.cpp:1480
 #: src/properties.cpp:1734
 msgid "Language"
-msgstr "Ngôn ngữ"
+msgstr ""
 
 #: src/datasets.cpp:403
 msgid "Describes the major national language of the object, according to the 2-letter codes of ISO 639:1988. Does not define or imply any coded character set, but is used for internal routing, e.g. to various editorial desks."
@@ -3471,7 +3471,7 @@ msgstr ""
 
 #: src/datasets.cpp:424
 msgid "Preview Format"
-msgstr "Định dạng xem trước"
+msgstr ""
 
 #: src/datasets.cpp:425
 msgid "A binary number representing the file format of the object data preview. The file format must be registered with IPTC or NAA organizations with a unique number assigned to it."
@@ -3495,7 +3495,7 @@ msgstr ""
 
 #: src/datasets.cpp:436 src/datasets.cpp:437
 msgid "(Invalid)"
-msgstr "(Không hợp lệ)"
+msgstr ""
 
 #: src/datasets.cpp:446 src/datasets.cpp:447 src/datasets.cpp:450
 msgid "Unknown dataset"
@@ -3507,7 +3507,7 @@ msgstr ""
 
 #: src/error.cpp:54
 msgid "Success"
-msgstr "Thành công"
+msgstr ""
 
 #: src/error.cpp:57
 msgid "This does not look like a %1 image"
@@ -3531,7 +3531,7 @@ msgstr ""
 
 #: src/error.cpp:62
 msgid "Value not set"
-msgstr "Chưa đặt giá trị"
+msgstr ""
 
 #: src/error.cpp:63
 msgid "%1: Failed to open the data source: %2"
@@ -3579,11 +3579,11 @@ msgstr ""
 
 #: src/error.cpp:74
 msgid "Failed to read input data"
-msgstr "Đọc thông tin đầu vào thất bại"
+msgstr ""
 
 #: src/error.cpp:75
 msgid "Failed to write image"
-msgstr "Ghi hình ảnh thất bại"
+msgstr ""
 
 #: src/error.cpp:76
 msgid "Input data does not contain a valid image"
@@ -3810,7 +3810,7 @@ msgstr ""
 
 #: src/exiv2.cpp:281
 msgid "   -h      Display this help and exit.\n"
-msgstr "   -h      HIển thị giúp đỡ và thoát.\n"
+msgstr ""
 
 #: src/exiv2.cpp:282
 msgid "   -V      Show the program version and exit.\n"
@@ -4280,19 +4280,19 @@ msgstr ""
 
 #: src/exiv2.cpp:1308
 msgid "Invalid command line:"
-msgstr "Dòng lệnh khong6 hợp lệ:"
+msgstr ""
 
 #: src/exiv2.cpp:1315
 msgid "Invalid command"
-msgstr "Lệnh không hợp lệ"
+msgstr ""
 
 #: src/exiv2.cpp:1347
 msgid "Invalid key"
-msgstr "Khóa không hợp lệ"
+msgstr ""
 
 #: src/exiv2.cpp:1367 src/exiv2.cpp:1379
 msgid "Invalid command line"
-msgstr "Dòng lệnh khong6 hợp lệ"
+msgstr ""
 
 #: src/fujimn.cpp:62
 msgid "Soft mode 1"
@@ -4312,15 +4312,15 @@ msgstr ""
 
 #: src/fujimn.cpp:74
 msgid "Fluorescent (daylight)"
-msgstr "Huỳnh quang (Ánh sáng ngày)"
+msgstr ""
 
 #: src/fujimn.cpp:75
 msgid "Fluorescent (warm white)"
-msgstr "Huỳnh quang (Trắng ấm)"
+msgstr ""
 
 #: src/fujimn.cpp:76
 msgid "Fluorescent (cool white)"
-msgstr "Huỳnh quang (Trắng lạnh)"
+msgstr ""
 
 #: src/fujimn.cpp:77 src/nikonmn.cpp:479 src/sonymn.cpp:230
 msgid "Incandescent"
@@ -4332,7 +4332,7 @@ msgstr ""
 
 #: src/fujimn.cpp:103 src/minoltamn.cpp:216
 msgid "Red-eye reduction"
-msgstr "Giảm mắt-đỏ"
+msgstr ""
 
 #: src/fujimn.cpp:105 src/fujimn.cpp:106
 msgid "Commander"
@@ -4340,7 +4340,7 @@ msgstr ""
 
 #: src/fujimn.cpp:121 src/tags.cpp:1557 src/tags.cpp:1558
 msgid "Night scene"
-msgstr "Cảnh ban đêm"
+msgstr ""
 
 #: src/fujimn.cpp:122 src/pentaxmn.cpp:615 src/pentaxmn.cpp:622
 #: src/sonymn.cpp:594
@@ -4349,32 +4349,32 @@ msgstr ""
 
 #: src/fujimn.cpp:123
 msgid "Natural light"
-msgstr "Ánh sáng tự nhiên"
+msgstr ""
 
 #: src/fujimn.cpp:124
 msgid "Anti-blur"
-msgstr "Chống-mờ"
+msgstr ""
 
 #: src/fujimn.cpp:126 src/olympusmn.cpp:114 src/pentaxmn.cpp:597
 msgid "Museum"
-msgstr "Bảo tàng"
+msgstr ""
 
 #: src/fujimn.cpp:127 src/panasonicmn.cpp:128
 msgid "Party"
-msgstr "Tiệc"
+msgstr ""
 
 #: src/fujimn.cpp:128
 msgid "Flower"
-msgstr "Hoa"
+msgstr ""
 
 #: src/fujimn.cpp:129 src/minoltamn.cpp:318 src/minoltamn.cpp:408
 #: src/minoltamn.cpp:2383 src/pentaxmn.cpp:592
 msgid "Text"
-msgstr "Văn bản"
+msgstr ""
 
 #: src/fujimn.cpp:130
 msgid "Natural light & flash"
-msgstr "Ánh sáng tự nhiên và đèn chớp"
+msgstr ""
 
 #: src/fujimn.cpp:135 src/olympusmn.cpp:485 src/sonymn.cpp:595
 msgid "Aperture-priority AE"
@@ -4394,12 +4394,12 @@ msgstr ""
 
 #: src/fujimn.cpp:151
 msgid "Black & white"
-msgstr "Đen và trắng"
+msgstr ""
 
 #: src/fujimn.cpp:157 src/minoltamn.cpp:923 src/minoltamn.cpp:937
 #: src/minoltamn.cpp:2284 src/panasonicmn.cpp:274
 msgid "Wide"
-msgstr "Rộng"
+msgstr ""
 
 #: src/fujimn.cpp:162
 msgid "F0/Standard (Provia)"
@@ -4447,25 +4447,25 @@ msgstr ""
 
 #: src/fujimn.cpp:177
 msgid "Auto (100-400%)"
-msgstr "Tự động (100-400%)"
+msgstr ""
 
 #: src/fujimn.cpp:178 src/minoltamn.cpp:80 src/minoltamn.cpp:248
 #: src/minoltamn.cpp:679 src/minoltamn.cpp:865 src/minoltamn.cpp:2404
 #: src/olympusmn.cpp:75 src/panasonicmn.cpp:59
 msgid "Raw"
-msgstr "Nguyên gốc"
+msgstr ""
 
 #: src/fujimn.cpp:179
 msgid "Standard (100%)"
-msgstr "Tiêu chuẩn (100%)"
+msgstr ""
 
 #: src/fujimn.cpp:180
 msgid "Wide mode 1 (230%)"
-msgstr "Chế độ góc rộng 1 (230%)"
+msgstr ""
 
 #: src/fujimn.cpp:181
 msgid "Wide mode 2 (400%)"
-msgstr "Chế độ góc rộng 2 (400%)"
+msgstr ""
 
 #: src/fujimn.cpp:182
 msgid "Film simulation mode"
@@ -4482,7 +4482,7 @@ msgstr ""
 #: src/nikonmn.cpp:1419 src/panasonicmn.cpp:740 src/pentaxmn.cpp:1423
 #: src/properties.cpp:555 src/properties.cpp:733
 msgid "Version"
-msgstr "Phiên bản"
+msgstr ""
 
 #: src/fujimn.cpp:188
 msgid "Fujifilm Makernote version"
@@ -4495,11 +4495,11 @@ msgstr ""
 #: src/fujimn.cpp:195 src/nikonmn.cpp:226 src/nikonmn.cpp:491
 #: src/nikonmn.cpp:560 src/olympusmn.cpp:200
 msgid "Image quality setting"
-msgstr "Tùy chỉnh chất lượng hình ảnh"
+msgstr ""
 
 #: src/fujimn.cpp:203 src/nikonmn.cpp:453
 msgid "Color"
-msgstr "Màu sắc"
+msgstr ""
 
 #: src/fujimn.cpp:204
 msgid "Chroma saturation setting"
@@ -4507,15 +4507,15 @@ msgstr ""
 
 #: src/fujimn.cpp:206
 msgid "Tone"
-msgstr "Tông"
+msgstr ""
 
 #: src/fujimn.cpp:210
 msgid "Flash firing mode setting"
-msgstr "Tùy chỉnh chế độ mở đèn chớp"
+msgstr ""
 
 #: src/fujimn.cpp:212
 msgid "Flash Strength"
-msgstr "Độ mạnh đèn chớp"
+msgstr ""
 
 #: src/fujimn.cpp:213
 msgid "Flash firing strength compensation setting"
@@ -4567,15 +4567,15 @@ msgstr ""
 
 #: src/fujimn.cpp:245
 msgid "Blur Warning"
-msgstr "Cảnh báo nhòe"
+msgstr ""
 
 #: src/fujimn.cpp:246
 msgid "Blur warning status"
-msgstr "Tình trạng cảnh báo nhòe"
+msgstr ""
 
 #: src/fujimn.cpp:248
 msgid "Focus Warning"
-msgstr "Cảnh báo lấy nét"
+msgstr ""
 
 #: src/fujimn.cpp:249
 msgid "Auto Focus warning status"
@@ -4583,7 +4583,7 @@ msgstr ""
 
 #: src/fujimn.cpp:251
 msgid "Exposure Warning"
-msgstr "Cảnh báo phơi sáng"
+msgstr ""
 
 #: src/fujimn.cpp:252
 msgid "Auto exposure warning status"
@@ -4599,11 +4599,11 @@ msgstr ""
 
 #: src/fujimn.cpp:257 src/panasonicmn.cpp:482
 msgid "Film Mode"
-msgstr "Chế độ Phim"
+msgstr ""
 
 #: src/fujimn.cpp:258 src/panasonicmn.cpp:482
 msgid "Film mode"
-msgstr "Chế độ phim"
+msgstr ""
 
 #: src/fujimn.cpp:260
 msgid "Dynamic Range Setting"
@@ -4623,19 +4623,19 @@ msgstr ""
 
 #: src/fujimn.cpp:266
 msgid "Minimum Focal Length"
-msgstr "Khoảng Tiêu cự Tối thiểu"
+msgstr ""
 
 #: src/fujimn.cpp:267
 msgid "Minimum focal length"
-msgstr "Khoảng tiêu cự tối thiểu"
+msgstr ""
 
 #: src/fujimn.cpp:269
 msgid "Maximum Focal Length"
-msgstr "Khoảng Tiêu cự Tối đa"
+msgstr ""
 
 #: src/fujimn.cpp:270
 msgid "Maximum focal length"
-msgstr "Khoảng tiêu cự tối thiểu"
+msgstr ""
 
 #: src/fujimn.cpp:272
 msgid "Maximum Aperture at Minimum Focal"
@@ -4655,27 +4655,27 @@ msgstr ""
 
 #: src/fujimn.cpp:278 src/properties.cpp:854 src/tags.cpp:1812
 msgid "File Source"
-msgstr "Tập tin Nguồn"
+msgstr ""
 
 #: src/fujimn.cpp:279
 msgid "File source"
-msgstr "Nguồn tập tin"
+msgstr ""
 
 #: src/fujimn.cpp:281
 msgid "Order Number"
-msgstr "Số Thứ tự"
+msgstr ""
 
 #: src/fujimn.cpp:282
 msgid "Order number"
-msgstr "Số thứ tự"
+msgstr ""
 
 #: src/fujimn.cpp:284
 msgid "Frame Number"
-msgstr "Số Khung hình"
+msgstr ""
 
 #: src/fujimn.cpp:285 src/pentaxmn.cpp:1535 src/pentaxmn.cpp:1536
 msgid "Frame number"
-msgstr "Số khung hình"
+msgstr ""
 
 #: src/fujimn.cpp:289
 msgid "Unknown FujiMakerNote tag"
@@ -4683,7 +4683,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:62
 msgid "Natural Color"
-msgstr "Màu sắc tự nhiên"
+msgstr ""
 
 #: src/minoltamn.cpp:64 src/minoltamn.cpp:2233
 msgid "Vivid Color"
@@ -4701,7 +4701,7 @@ msgstr ""
 #: src/olympusmn.cpp:872 src/panasonicmn.cpp:261 src/panasonicmn.cpp:371
 #: src/pentaxmn.cpp:981
 msgid "Natural"
-msgstr "Tự nhiên"
+msgstr ""
 
 #: src/minoltamn.cpp:70
 msgid "Natural sRGB"
@@ -4713,12 +4713,12 @@ msgstr ""
 
 #: src/minoltamn.cpp:73
 msgid "Evening"
-msgstr "Buổi chiều"
+msgstr ""
 
 #: src/minoltamn.cpp:75 src/minoltamn.cpp:958 src/minoltamn.cpp:2388
 #: src/sonymn.cpp:602
 msgid "Night Portrait"
-msgstr "Chân dung ban đêm"
+msgstr ""
 
 #: src/minoltamn.cpp:81 src/minoltamn.cpp:2405
 msgid "Super Fine"
@@ -4739,35 +4739,35 @@ msgstr ""
 
 #: src/minoltamn.cpp:99
 msgid "Camera Settings (Std Old)"
-msgstr "Tùy chỉnh máy ảnh (Std Old)"
+msgstr ""
 
 #: src/minoltamn.cpp:100
 msgid "Standard Camera settings (Old Camera models like D5, D7, S304, and S404)"
-msgstr "Tùy chỉnh các máy ảnh tiêu chuẩn (Máy ảnh cũ như D5, D7, S304, và S404)"
+msgstr ""
 
 #: src/minoltamn.cpp:102
 msgid "Camera Settings (Std New)"
-msgstr "Tùy chỉnh máy ảnh (Std New)"
+msgstr ""
 
 #: src/minoltamn.cpp:103
 msgid "Standard Camera settings (New Camera Models like D7u, D7i, and D7hi)"
-msgstr "Tùy chỉnh máy ảnh tiêu chuẩn (Kiểu máy ảnh mới như D7u, D7i, and D7hi)"
+msgstr ""
 
 #: src/minoltamn.cpp:105
 msgid "Camera Settings (7D)"
-msgstr "Tùy chỉnh máy ảnh (7D)"
+msgstr ""
 
 #: src/minoltamn.cpp:106
 msgid "Camera Settings (for Dynax 7D model)"
-msgstr "Tùy chỉnh máy ảnh (cho Dynax mẫu 7D)"
+msgstr ""
 
 #: src/minoltamn.cpp:108
 msgid "Image Stabilization Data"
-msgstr "Dữ liệu Ổn định Hình ảnh"
+msgstr ""
 
 #: src/minoltamn.cpp:109
 msgid "Image stabilization data"
-msgstr "Dữ liệu ổn định hình ảnh"
+msgstr ""
 
 #: src/minoltamn.cpp:113
 msgid "WB Info A100"
@@ -4803,7 +4803,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:127
 msgid "Size of the thumbnail"
-msgstr "Kích cỡ của hình thu nhỏ"
+msgstr ""
 
 #: src/minoltamn.cpp:129 src/minoltamn.cpp:130 src/nikonmn.cpp:606
 #: src/olympusmn.cpp:253 src/olympusmn.cpp:700 src/panasonicmn.cpp:534
@@ -4816,17 +4816,17 @@ msgstr ""
 #: src/properties.cpp:485 src/properties.cpp:1362 src/sonymn.cpp:444
 #: src/sonymn.cpp:445
 msgid "Color Mode"
-msgstr "Chế độ Màu"
+msgstr ""
 
 #: src/minoltamn.cpp:135 src/minoltamn.cpp:1417 src/nikonmn.cpp:223
 #: src/nikonmn.cpp:494 src/nikonmn.cpp:559 src/panasonicmn.cpp:468
 msgid "Color mode"
-msgstr "Chế độ màu"
+msgstr ""
 
 #: src/minoltamn.cpp:138 src/minoltamn.cpp:508 src/minoltamn.cpp:753
 #: src/minoltamn.cpp:1000 src/panasonicmn.cpp:441 src/sonymn.cpp:337
 msgid "Image Quality"
-msgstr "Chất lượng Hình ảnh"
+msgstr ""
 
 #: src/minoltamn.cpp:143 src/minoltamn.cpp:144
 msgid "0x0103"
@@ -4866,7 +4866,7 @@ msgstr ""
 #: src/minoltamn.cpp:1486 src/minoltamn.cpp:1588 src/pentaxmn.cpp:1593
 #: src/pentaxmn.cpp:1594
 msgid "Color temperature"
-msgstr "Nhiệt độ màu"
+msgstr ""
 
 #: src/minoltamn.cpp:165 src/sonymn.cpp:438
 msgid "Lens ID"
@@ -4936,12 +4936,12 @@ msgstr ""
 #: src/panasonicmn.cpp:116 src/sigmamn.cpp:155 src/sonymn.cpp:163
 #: src/tags.cpp:1457
 msgid "Aperture priority"
-msgstr "Ưu tiên khẩu độ"
+msgstr ""
 
 #: src/minoltamn.cpp:209 src/minoltamn.cpp:663 src/minoltamn.cpp:843
 #: src/sigmamn.cpp:156 src/sonymn.cpp:164 src/tags.cpp:1458
 msgid "Shutter priority"
-msgstr "Ưu tiên tốc độ"
+msgstr ""
 
 #: src/minoltamn.cpp:215 src/minoltamn.cpp:1132
 msgid "Fill flash"
@@ -4953,7 +4953,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:218 src/minoltamn.cpp:1131
 msgid "Wireless"
-msgstr "Không dây"
+msgstr ""
 
 #: src/minoltamn.cpp:230
 msgid "Fluorescent 2"
@@ -4961,7 +4961,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:237
 msgid "Full size"
-msgstr "Kích cỡ đầy đủ"
+msgstr ""
 
 #: src/minoltamn.cpp:249
 msgid "Super fine"
@@ -4974,7 +4974,7 @@ msgstr ""
 #: src/minoltamn.cpp:258 src/minoltamn.cpp:1109 src/minoltamn.cpp:1158
 #: src/sonymn.cpp:510
 msgid "Single Frame"
-msgstr "Khung hình đơn"
+msgstr ""
 
 #: src/minoltamn.cpp:260 src/minoltamn.cpp:1160 src/nikonmn.cpp:155
 msgid "Self-timer"
@@ -5050,15 +5050,15 @@ msgstr ""
 
 #: src/minoltamn.cpp:319 src/panasonicmn.cpp:114
 msgid "Night portrait"
-msgstr "Chân dung đêm"
+msgstr ""
 
 #: src/minoltamn.cpp:321
 msgid "Sports action"
-msgstr "Thể thao hành động"
+msgstr ""
 
 #: src/minoltamn.cpp:349
 msgid "Still image"
-msgstr "Ảnh tĩnh"
+msgstr ""
 
 #: src/minoltamn.cpp:350
 msgid "Time-lapse movie"
@@ -5074,11 +5074,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:361
 msgid "Natural color"
-msgstr "Màu tự nhiên"
+msgstr ""
 
 #: src/minoltamn.cpp:362 src/panasonicmn.cpp:73 src/panasonicmn.cpp:200
 msgid "Black and white"
-msgstr "Đen và trắng"
+msgstr ""
 
 #: src/minoltamn.cpp:363
 msgid "Vivid color"
@@ -5098,23 +5098,23 @@ msgstr ""
 
 #: src/minoltamn.cpp:373
 msgid "Left zone"
-msgstr "Vùng bên trái"
+msgstr ""
 
 #: src/minoltamn.cpp:374
 msgid "Right zone"
-msgstr "Vùng bên phải"
+msgstr ""
 
 #: src/minoltamn.cpp:379 src/olympusmn.cpp:1018
 msgid "Auto focus"
-msgstr "Lấy nét tự động"
+msgstr ""
 
 #: src/minoltamn.cpp:380
 msgid "Manual focus"
-msgstr "Lấy nét tay"
+msgstr ""
 
 #: src/minoltamn.cpp:385
 msgid "Wide focus (normal)"
-msgstr "lấy nét rộng (bình thường)"
+msgstr ""
 
 #: src/minoltamn.cpp:386
 msgid "Spot focus"
@@ -5123,11 +5123,11 @@ msgstr ""
 #: src/minoltamn.cpp:391 src/properties.cpp:537 src/sigmamn.cpp:86
 #: src/sigmamn.cpp:87
 msgid "Exposure"
-msgstr "Phơi sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:394
 msgid "Filter"
-msgstr "Lọc"
+msgstr ""
 
 #: src/minoltamn.cpp:399
 msgid "Not embedded"
@@ -5151,18 +5151,18 @@ msgstr ""
 
 #: src/minoltamn.cpp:416
 msgid "Manual flash control"
-msgstr "Điều khiển đèn chớp thủ công"
+msgstr ""
 
 #: src/minoltamn.cpp:496 src/minoltamn.cpp:747 src/minoltamn.cpp:994
 #: src/minoltamn.cpp:1362 src/olympusmn.cpp:675 src/properties.cpp:858
 #: src/sigmamn.cpp:74 src/sonymn.cpp:456 src/sonymn.cpp:457 src/tags.cpp:1833
 msgid "Exposure Mode"
-msgstr "Chế độ phơi sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:500 src/minoltamn.cpp:769 src/olympusmn.cpp:281
 #: src/olympusmn.cpp:686 src/pentaxmn.cpp:1454
 msgid "Flash mode"
-msgstr "Chế độ đèn chớp"
+msgstr ""
 
 #: src/minoltamn.cpp:512 src/minoltamn.cpp:1438 src/olympusmn.cpp:716
 #: src/pentaxmn.cpp:1549 src/pentaxmn.cpp:1550 src/sigmamn.cpp:60
@@ -5171,13 +5171,13 @@ msgstr ""
 
 #: src/minoltamn.cpp:518
 msgid "ISO Value"
-msgstr "Giá trị nhạy sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:520 src/minoltamn.cpp:803 src/minoltamn.cpp:1033
 #: src/minoltamn.cpp:1377 src/properties.cpp:825 src/properties.cpp:1430
 #: src/tags.cpp:792 src/tags.cpp:1595
 msgid "Exposure Time"
-msgstr "Thời gian phơi sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:523 src/minoltamn.cpp:800 src/minoltamn.cpp:1036
 #: src/minoltamn.cpp:1380 src/minoltamn.cpp:1381 src/tags.cpp:793
@@ -5196,7 +5196,7 @@ msgstr ""
 #: src/minoltamn.cpp:532 src/minoltamn.cpp:774 src/minoltamn.cpp:1054
 #: src/properties.cpp:1428
 msgid "Exposure Compensation"
-msgstr "Bù trừ phơi sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:535
 msgid "Bracket Step"
@@ -5226,12 +5226,12 @@ msgstr ""
 #: src/nikonmn.cpp:1398 src/nikonmn.cpp:1423 src/olympusmn.cpp:304
 #: src/olympusmn.cpp:1026
 msgid "Focus Distance"
-msgstr "Khoảng cách Lấy nét"
+msgstr ""
 
 #: src/minoltamn.cpp:548 src/nikonmn.cpp:1398 src/nikonmn.cpp:1423
 #: src/olympusmn.cpp:1026
 msgid "Focus distance"
-msgstr "Khoảng cách lấy net1"
+msgstr ""
 
 #: src/minoltamn.cpp:550 src/minoltamn.cpp:765 src/minoltamn.cpp:1012
 #: src/panasonicmn.cpp:538
@@ -5268,11 +5268,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:565
 msgid "Last Image Number"
-msgstr "Số hình ảnh Cuối cùng"
+msgstr ""
 
 #: src/minoltamn.cpp:566
 msgid "Last image number"
-msgstr "Số hình ảnh cuối cùng"
+msgstr ""
 
 #: src/minoltamn.cpp:568
 msgid "Color Balance Red"
@@ -5308,11 +5308,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:592 src/nikonmn.cpp:575
 msgid "ISO Settings"
-msgstr "Tùy chỉnh Độ nhạy sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:593 src/minoltamn.cpp:1408 src/nikonmn.cpp:575
 msgid "ISO setting"
-msgstr "Tùy chỉnh độ nhạy sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:595
 msgid "Minolta Model"
@@ -5332,31 +5332,31 @@ msgstr ""
 
 #: src/minoltamn.cpp:601
 msgid "Folder Name"
-msgstr "Tên Thư mục"
+msgstr ""
 
 #: src/minoltamn.cpp:602
 msgid "Folder name"
-msgstr "Tên thư mục"
+msgstr ""
 
 #: src/minoltamn.cpp:604 src/minoltamn.cpp:605
 msgid "ColorMode"
-msgstr "Chếđộmàusắc"
+msgstr ""
 
 #: src/minoltamn.cpp:607 src/minoltamn.cpp:1214 src/pentaxmn.cpp:571
 msgid "Color Filter"
-msgstr "Lọc Màu"
+msgstr ""
 
 #: src/minoltamn.cpp:608
 msgid "Color filter"
-msgstr "Lọc màu"
+msgstr ""
 
 #: src/minoltamn.cpp:610
 msgid "Black and White Filter"
-msgstr "Lọc Đen và Trắng"
+msgstr ""
 
 #: src/minoltamn.cpp:611
 msgid "Black and white filter"
-msgstr "Lọc đen và trắng"
+msgstr ""
 
 #: src/minoltamn.cpp:613 src/minoltamn.cpp:614 src/olympusmn.cpp:1032
 msgid "Internal Flash"
@@ -5366,7 +5366,7 @@ msgstr ""
 #: src/olympusmn.cpp:277 src/properties.cpp:523 src/properties.cpp:1351
 #: src/sonymn.cpp:678 src/sonymn.cpp:679 src/tags.cpp:1683
 msgid "Brightness"
-msgstr "Độ sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:619
 msgid "Spot Focus Point X"
@@ -5386,22 +5386,22 @@ msgstr ""
 
 #: src/minoltamn.cpp:625
 msgid "Wide Focus Zone"
-msgstr "Vùng Lấy nét Góc rộng"
+msgstr ""
 
 #: src/minoltamn.cpp:626
 msgid "Wide focus zone"
-msgstr "Vùng lấy góc nét rộng"
+msgstr ""
 
 #: src/minoltamn.cpp:629 src/minoltamn.cpp:760 src/minoltamn.cpp:1046
 #: src/minoltamn.cpp:1390 src/nikonmn.cpp:235 src/nikonmn.cpp:506
 #: src/nikonmn.cpp:563 src/olympusmn.cpp:302 src/olympusmn.cpp:680
 #: src/panasonicmn.cpp:445 src/pentaxmn.cpp:1457
 msgid "Focus mode"
-msgstr "Chế độ lấy nét"
+msgstr ""
 
 #: src/minoltamn.cpp:631 src/minoltamn.cpp:632 src/minoltamn.cpp:1010
 msgid "Focus area"
-msgstr "Vùng lấy nét"
+msgstr ""
 
 #: src/minoltamn.cpp:634
 msgid "DEC Switch Position"
@@ -5466,11 +5466,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:733 src/minoltamn.cpp:907
 msgid "sRGB (Natural)"
-msgstr "sRGB (Tự nhiên)"
+msgstr ""
 
 #: src/minoltamn.cpp:734 src/minoltamn.cpp:908
 msgid "sRGB (Natural+)"
-msgstr "sRGB (Tự nhiên+)"
+msgstr ""
 
 #: src/minoltamn.cpp:740 src/minoltamn.cpp:916 src/minoltamn.cpp:2367
 #: src/panasonicmn.cpp:244
@@ -5489,25 +5489,25 @@ msgstr ""
 
 #: src/minoltamn.cpp:762
 msgid "AF Points"
-msgstr "Điểm Lấy nét tự động"
+msgstr ""
 
 #: src/minoltamn.cpp:763
 msgid "AF points"
-msgstr "Điểm lấy nét tự động"
+msgstr ""
 
 #: src/minoltamn.cpp:777 src/minoltamn.cpp:1021 src/minoltamn.cpp:1419
 #: src/nikonmn.cpp:584 src/olympusmn.cpp:699 src/olympusmn.cpp:821
 #: src/olympusmn.cpp:836 src/olympusmn.cpp:907 src/properties.cpp:809
 #: src/sigmamn.cpp:83 src/tags.cpp:1737
 msgid "Color Space"
-msgstr "Không gian Màu"
+msgstr ""
 
 #: src/minoltamn.cpp:778 src/minoltamn.cpp:1022 src/minoltamn.cpp:1420
 #: src/nikonmn.cpp:584 src/olympusmn.cpp:699 src/olympusmn.cpp:836
 #: src/olympusmn.cpp:907 src/pentaxmn.cpp:1553 src/pentaxmn.cpp:1554
 #: src/sigmamn.cpp:84
 msgid "Color space"
-msgstr "Không gian màu"
+msgstr ""
 
 #: src/minoltamn.cpp:789 src/minoltamn.cpp:807 src/minoltamn.cpp:1039
 #: src/minoltamn.cpp:1057 src/minoltamn.cpp:1467
@@ -5528,19 +5528,19 @@ msgstr ""
 #: src/panasonicmn.cpp:466 src/sonymn.cpp:714 src/sonymn.cpp:715
 #: src/sonymn.cpp:787 src/sonymn.cpp:788
 msgid "Rotation"
-msgstr "Xoay"
+msgstr ""
 
 #: src/minoltamn.cpp:810 src/minoltamn.cpp:817 src/minoltamn.cpp:1075
 #: src/tags.cpp:845
 msgid "Image Number"
-msgstr "Số hình ảnh"
+msgstr ""
 
 #: src/minoltamn.cpp:814 src/minoltamn.cpp:1079 src/minoltamn.cpp:1504
 #: src/nikonmn.cpp:612 src/olympusmn.cpp:440 src/olympusmn.cpp:701
 #: src/olympusmn.cpp:838 src/olympusmn.cpp:908 src/olympusmn.cpp:993
 #: src/panasonicmn.cpp:463 src/pentaxmn.cpp:1582 src/pentaxmn.cpp:1583
 msgid "Noise reduction"
-msgstr "GIảm nhiễu"
+msgstr ""
 
 #: src/minoltamn.cpp:823
 msgid "Zone Matching On"
@@ -5613,11 +5613,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:938
 msgid "Selection"
-msgstr "Lựa chọn"
+msgstr ""
 
 #: src/minoltamn.cpp:953
 msgid "Natural+"
-msgstr "Tự nhiên+"
+msgstr ""
 
 #: src/minoltamn.cpp:955
 msgid "Wind Scene"
@@ -5629,15 +5629,15 @@ msgstr ""
 
 #: src/minoltamn.cpp:1006 src/nikonmn.cpp:1397 src/nikonmn.cpp:1422
 msgid "Focus Position"
-msgstr "Vị trí Lấy nét"
+msgstr ""
 
 #: src/minoltamn.cpp:1007 src/nikonmn.cpp:1397 src/nikonmn.cpp:1422
 msgid "Focus position"
-msgstr "Vị trí lấy nét"
+msgstr ""
 
 #: src/minoltamn.cpp:1009
 msgid "Focus Area"
-msgstr "Vùng lấy nét"
+msgstr ""
 
 #: src/minoltamn.cpp:1042
 msgid "Exposure Revision"
@@ -5653,7 +5653,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:1066 src/minoltamn.cpp:1067
 msgid "Picture Finish"
-msgstr "Bức ảnh hoàn tất"
+msgstr ""
 
 #: src/minoltamn.cpp:1069
 msgid "Exposure Manual Bias"
@@ -5666,11 +5666,11 @@ msgstr ""
 #: src/minoltamn.cpp:1072 src/panasonicmn.cpp:446 src/sonymn.cpp:462
 #: src/sonymn.cpp:463
 msgid "AF Mode"
-msgstr "Chế độ Lấy nét tự động"
+msgstr ""
 
 #: src/minoltamn.cpp:1073 src/panasonicmn.cpp:446
 msgid "AF mode"
-msgstr "Chế độ lấy nét tự động"
+msgstr ""
 
 #: src/minoltamn.cpp:1093
 msgid "Unknown Minolta Camera Settings 5D tag"
@@ -5734,7 +5734,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:1213 src/pentaxmn.cpp:1576 src/properties.cpp:550
 msgid "Temperature"
-msgstr "Nhiệt độ"
+msgstr ""
 
 #: src/minoltamn.cpp:1219
 msgid "Setup"
@@ -5754,11 +5754,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:1238
 msgid "Image and Information"
-msgstr "Hình ảnh và thông tin"
+msgstr ""
 
 #: src/minoltamn.cpp:1239
 msgid "Image Only"
-msgstr "Chỉ hình ảnh"
+msgstr ""
 
 #: src/minoltamn.cpp:1240
 msgid "Image and Histogram"
@@ -5778,7 +5778,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:1263
 msgid "Hold"
-msgstr "Giữ"
+msgstr ""
 
 #: src/minoltamn.cpp:1264
 msgid "Toggle"
@@ -5794,7 +5794,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:1271 src/olympusmn.cpp:268
 msgid "Shutter Speed"
-msgstr "Tốc độ chụp"
+msgstr ""
 
 #: src/minoltamn.cpp:1277
 msgid "Ambient and Flash"
@@ -5806,16 +5806,16 @@ msgstr ""
 
 #: src/minoltamn.cpp:1283
 msgid "0.3 seconds"
-msgstr "0.3 giây"
+msgstr ""
 
 #: src/minoltamn.cpp:1284
 msgid "0.6 seconds"
-msgstr "0.6 giây"
+msgstr ""
 
 #: src/minoltamn.cpp:1290 src/nikonmn.cpp:319 src/nikonmn.cpp:1024
 #: src/nikonmn.cpp:1470
 msgid "Automatic"
-msgstr "Tự động"
+msgstr ""
 
 #: src/minoltamn.cpp:1296 src/minoltamn.cpp:1302
 msgid "Auto-rotate"
@@ -5827,19 +5827,19 @@ msgstr ""
 
 #: src/minoltamn.cpp:1303
 msgid "Manual Rotate"
-msgstr "Xoay thủ công"
+msgstr ""
 
 #: src/minoltamn.cpp:1308
 msgid "Within Range"
-msgstr "Trong phạm vi"
+msgstr ""
 
 #: src/minoltamn.cpp:1309
 msgid "Under/Over Range"
-msgstr "Dưới/Quá phạm vi"
+msgstr ""
 
 #: src/minoltamn.cpp:1310
 msgid "Out of Range"
-msgstr "Ngoài phạm vi"
+msgstr ""
 
 #: src/minoltamn.cpp:1315
 msgid "Not Indicated"
@@ -5872,11 +5872,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:1348
 msgid "Built-in"
-msgstr "Lắp-trong"
+msgstr ""
 
 #: src/minoltamn.cpp:1354 src/pentaxmn.cpp:446 src/pentaxmn.cpp:461
 msgid "Very Low"
-msgstr "Rất thấp"
+msgstr ""
 
 #: src/minoltamn.cpp:1356
 msgid "Half Full"
@@ -5904,11 +5904,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:1371
 msgid "Manual Exposure Time"
-msgstr "Chỉnh thủ công Thời gian Phơi sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:1372
 msgid "Manual exposure time"
-msgstr "Chỉnh thủ công thời gian phơi sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:1374 src/minoltamn.cpp:1375
 msgid "Manual FNumber"
@@ -5949,7 +5949,7 @@ msgstr ""
 #: src/minoltamn.cpp:1407 src/properties.cpp:1477 src/sonymn.cpp:654
 #: src/sonymn.cpp:655 src/sonymn.cpp:760 src/sonymn.cpp:761
 msgid "ISO Setting"
-msgstr "Tùy chỉnh độ nhạy sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:1410 src/minoltamn.cpp:1411
 msgid "Zone Matching Mode"
@@ -6064,7 +6064,7 @@ msgstr ""
 #: src/minoltamn.cpp:1491 src/minoltamn.cpp:1492 src/sonymn.cpp:717
 #: src/sonymn.cpp:718 src/sonymn.cpp:790 src/sonymn.cpp:791
 msgid "Sony Image Size"
-msgstr "Kích cỡ hình Sony"
+msgstr ""
 
 #: src/minoltamn.cpp:1497
 msgid "Instant Playback Time"
@@ -6092,19 +6092,19 @@ msgstr ""
 
 #: src/minoltamn.cpp:1509
 msgid "Red Eye Reduction"
-msgstr "TIêu giảm Mắt Đỏ"
+msgstr ""
 
 #: src/minoltamn.cpp:1510
 msgid "Red eye reduction"
-msgstr "Tiêu giảm mắt đỏ"
+msgstr ""
 
 #: src/minoltamn.cpp:1512
 msgid "Flash Default"
-msgstr "Đèn chớp mặc định"
+msgstr ""
 
 #: src/minoltamn.cpp:1513
 msgid "Flash default"
-msgstr "Đèn chớp mặc định"
+msgstr ""
 
 #: src/minoltamn.cpp:1515
 msgid "Auto Bracket Order"
@@ -6148,7 +6148,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:1531
 msgid "AF assist"
-msgstr "Hỗ trợ lấy nét tự động"
+msgstr ""
 
 #: src/minoltamn.cpp:1533
 msgid "Card Shutter Lock"
@@ -6280,11 +6280,11 @@ msgstr ""
 
 #: src/minoltamn.cpp:1593 src/tags.cpp:769
 msgid "Battery Level"
-msgstr "Mức Pin"
+msgstr ""
 
 #: src/minoltamn.cpp:1594
 msgid "Battery level"
-msgstr "Mức pin"
+msgstr ""
 
 #: src/minoltamn.cpp:1598
 msgid "Unknown Sony Camera Settings A100 tag"
@@ -6292,27 +6292,27 @@ msgstr ""
 
 #: src/minoltamn.cpp:2242 src/sonymn.cpp:552
 msgid "Clear"
-msgstr "Rõ"
+msgstr ""
 
 #: src/minoltamn.cpp:2243 src/sonymn.cpp:553
 msgid "Deep"
-msgstr "Sâu"
+msgstr ""
 
 #: src/minoltamn.cpp:2244 src/sonymn.cpp:554
 msgid "Light"
-msgstr "Ánh sáng"
+msgstr ""
 
 #: src/minoltamn.cpp:2245
 msgid "Night View"
-msgstr "Nhìn Ban đêm"
+msgstr ""
 
 #: src/minoltamn.cpp:2246
 msgid "Autumn Leaves"
-msgstr "Lá Mùa thu"
+msgstr ""
 
 #: src/minoltamn.cpp:2285
 msgid "Local"
-msgstr "Địa phương"
+msgstr ""
 
 #: src/minoltamn.cpp:2300
 msgid "Top-Right"
@@ -6412,7 +6412,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:2462
 msgid "ISO Setting Used"
-msgstr "Các tùy chỉnh độ nhạy sáng đã sử dụng"
+msgstr ""
 
 #: src/minoltamn.cpp:2463 src/olympusmn.cpp:127 src/olympusmn.cpp:1128
 msgid "High Key"
@@ -6508,7 +6508,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:157
 msgid "Auto ISO"
-msgstr "Độ nhạy sáng tự động"
+msgstr ""
 
 #: src/nikonmn.cpp:158
 msgid "White-Balance Bracketing"
@@ -6572,7 +6572,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:195
 msgid "Small picture"
-msgstr "Hình ảnh nhỏ"
+msgstr ""
 
 #: src/nikonmn.cpp:196
 msgid "D-Lighting"
@@ -6580,7 +6580,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:197
 msgid "Red eye"
-msgstr "Mắt đỏ"
+msgstr ""
 
 #: src/nikonmn.cpp:198 src/nikonmn.cpp:712
 msgid "Cyanotype"
@@ -6592,7 +6592,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:200
 msgid "Warm tone"
-msgstr "Tông màu ấm"
+msgstr ""
 
 #: src/nikonmn.cpp:201
 msgid "Color custom"
@@ -6614,35 +6614,35 @@ msgstr ""
 #: src/olympusmn.cpp:271 src/panasonicmn.cpp:749 src/properties.cpp:922
 #: src/tags.cpp:1636
 msgid "ISO Speed"
-msgstr "Độ nhạy sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:231 src/nikonmn.cpp:562
 msgid "Sharpening"
-msgstr "Độ mịn"
+msgstr ""
 
 #: src/nikonmn.cpp:232 src/nikonmn.cpp:562
 msgid "Image sharpening setting"
-msgstr "Tùy chỉnh độ mịn của hình"
+msgstr ""
 
 #: src/nikonmn.cpp:234 src/nikonmn.cpp:563
 msgid "Focus"
-msgstr "Lấy nét"
+msgstr ""
 
 #: src/nikonmn.cpp:237 src/nikonmn.cpp:564
 msgid "Flash Setting"
-msgstr "Tùy chỉnh Đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:238 src/nikonmn.cpp:564
 msgid "Flash setting"
-msgstr "Tùy chỉnh đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:243 src/nikonmn.cpp:571
 msgid "ISO Selection"
-msgstr "Lựa chọn Độ nhạy sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:244 src/nikonmn.cpp:571
 msgid "ISO selection"
-msgstr "Lựa chọn độ nhạy"
+msgstr ""
 
 #: src/nikonmn.cpp:246 src/nikonmn.cpp:572 src/panasonicmn.cpp:451
 msgid "Data Dump"
@@ -6674,7 +6674,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:259 src/nikonmn.cpp:512 src/nikonmn.cpp:598
 msgid "Digital zoom setting"
-msgstr "Tùy chỉnh thu/phóng điện tử"
+msgstr ""
 
 #: src/nikonmn.cpp:261
 msgid "AF Focus Position"
@@ -6698,7 +6698,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:355 src/nikonmn.cpp:538 src/nikonmn.cpp:1574
 msgid "Not used"
-msgstr "chưa được sử dụng"
+msgstr ""
 
 #: src/nikonmn.cpp:396
 msgid "guess"
@@ -6730,19 +6730,19 @@ msgstr ""
 
 #: src/nikonmn.cpp:460
 msgid "Bright+"
-msgstr "Sáng+"
+msgstr ""
 
 #: src/nikonmn.cpp:461
 msgid "Bright-"
-msgstr "Sáng-"
+msgstr ""
 
 #: src/nikonmn.cpp:462
 msgid "Contrast+"
-msgstr "Tương phản+"
+msgstr ""
 
 #: src/nikonmn.cpp:463
 msgid "Contrast-"
-msgstr "Tương phản-"
+msgstr ""
 
 #: src/nikonmn.cpp:482
 msgid "Speedlight"
@@ -6754,7 +6754,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:565 src/olympusmn.cpp:283
 msgid "Flash Device"
-msgstr "Thiết bị đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:565 src/olympusmn.cpp:284
 msgid "Flash device"
@@ -6762,11 +6762,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:567 src/olympusmn.cpp:250 src/panasonicmn.cpp:453
 msgid "White Balance Bias"
-msgstr "Bù trừ Cân bằng sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:567 src/olympusmn.cpp:251
 msgid "White balance bias"
-msgstr "Bù trừ cân bằng sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:568 src/olympusmn.cpp:951
 msgid "WB RB Levels"
@@ -6930,11 +6930,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:601 src/panasonicmn.cpp:449
 msgid "Shooting Mode"
-msgstr "Chế độ Chụp"
+msgstr ""
 
 #: src/nikonmn.cpp:601 src/panasonicmn.cpp:449 src/pentaxmn.cpp:1426
 msgid "Shooting mode"
-msgstr "Chế độ chụp"
+msgstr ""
 
 #: src/nikonmn.cpp:602
 msgid "Auto Bracket Release"
@@ -6972,11 +6972,11 @@ msgstr ""
 #: src/nikonmn.cpp:607 src/olympusmn.cpp:1095 src/properties.cpp:839
 #: src/tags.cpp:836 src/tags.cpp:1702
 msgid "Light Source"
-msgstr "Nguồn Sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:607 src/olympusmn.cpp:1095
 msgid "Light source"
-msgstr "Nguồn sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:608
 msgid "Shot info"
@@ -7008,15 +7008,15 @@ msgstr ""
 
 #: src/nikonmn.cpp:614
 msgid "Color Balance"
-msgstr "Cân bằng Màu sắc"
+msgstr ""
 
 #: src/nikonmn.cpp:614
 msgid "Color balance"
-msgstr "Cần bằng màu sắc"
+msgstr ""
 
 #: src/nikonmn.cpp:615
 msgid "Lens Data"
-msgstr "Dữ liệu ống kính"
+msgstr ""
 
 #: src/nikonmn.cpp:615
 msgid "Lens data settings"
@@ -7032,11 +7032,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:617
 msgid "Sensor Pixel Size"
-msgstr "Kích cỡ Điểm ảnh Cảm biến"
+msgstr ""
 
 #: src/nikonmn.cpp:617
 msgid "Sensor pixel size"
-msgstr "Kích cỡ điểm ảnh cảm biến"
+msgstr ""
 
 #: src/nikonmn.cpp:619
 msgid "Scene Assist"
@@ -7064,19 +7064,19 @@ msgstr ""
 
 #: src/nikonmn.cpp:623
 msgid "Image Data Size"
-msgstr "Kích cỡ Dữ liệu Hình ảnh"
+msgstr ""
 
 #: src/nikonmn.cpp:623
 msgid "Image data size"
-msgstr "Kích cỡ dữ liệu hình ảnh"
+msgstr ""
 
 #: src/nikonmn.cpp:625
 msgid "Image Count"
-msgstr "Tổng số Hình ảnh"
+msgstr ""
 
 #: src/nikonmn.cpp:625
 msgid "Image count"
-msgstr "Tổng số hình ảnh"
+msgstr ""
 
 #: src/nikonmn.cpp:626 src/nikonmn.cpp:1279
 msgid "Deleted Image Count"
@@ -7097,7 +7097,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:628
 msgid "Flash info"
-msgstr "Thông tin đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:629
 msgid "Image Optimization"
@@ -7153,11 +7153,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:643
 msgid "Capture Data"
-msgstr "Dữ liệu thu được"
+msgstr ""
 
 #: src/nikonmn.cpp:643
 msgid "Capture data"
-msgstr "Dữ liệu thu được"
+msgstr ""
 
 #: src/nikonmn.cpp:644
 msgid "Capture Version"
@@ -7194,12 +7194,12 @@ msgstr ""
 #: src/nikonmn.cpp:661 src/olympusmn.cpp:66 src/panasonicmn.cpp:191
 #: src/panasonicmn.cpp:339 src/panasonicmn.cpp:435 src/pentaxmn.cpp:395
 msgid "No"
-msgstr "Không"
+msgstr ""
 
 #: src/nikonmn.cpp:662 src/olympusmn.cpp:67 src/panasonicmn.cpp:190
 #: src/panasonicmn.cpp:436 src/pentaxmn.cpp:396
 msgid "Yes"
-msgstr "Có"
+msgstr ""
 
 #: src/nikonmn.cpp:667
 msgid "Y/M/D"
@@ -7215,11 +7215,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:681 src/nikonmn.cpp:1280
 msgid "Vibration Reduction"
-msgstr "Giảm rung"
+msgstr ""
 
 #: src/nikonmn.cpp:681 src/nikonmn.cpp:1280
 msgid "Vibration reduction"
-msgstr "Giảm rung"
+msgstr ""
 
 #: src/nikonmn.cpp:683
 msgid "Unknown Nikon Vibration Reduction Tag"
@@ -7227,15 +7227,15 @@ msgstr ""
 
 #: src/nikonmn.cpp:693
 msgid "Default Settings"
-msgstr "Các cài đặt mặc định"
+msgstr ""
 
 #: src/nikonmn.cpp:694 src/nikonmn.cpp:729
 msgid "Quick Adjust"
-msgstr "Điều chỉnh nhanh"
+msgstr ""
 
 #: src/nikonmn.cpp:695
 msgid "Full Control"
-msgstr "Điều khiển hoàn toàn"
+msgstr ""
 
 #: src/nikonmn.cpp:716
 msgid "Blue-green"
@@ -7252,7 +7252,7 @@ msgstr ""
 #: src/nikonmn.cpp:726 src/properties.cpp:509 src/properties.cpp:1288
 #: src/properties.cpp:1515
 msgid "Name"
-msgstr "Tên"
+msgstr ""
 
 #: src/nikonmn.cpp:727
 msgid "Base"
@@ -7260,15 +7260,15 @@ msgstr ""
 
 #: src/nikonmn.cpp:728
 msgid "Adjust"
-msgstr "Điều chỉnh"
+msgstr ""
 
 #: src/nikonmn.cpp:729
 msgid "Quick adjust"
-msgstr "Điều chỉnh nhanh"
+msgstr ""
 
 #: src/nikonmn.cpp:735
 msgid "Filter effect"
-msgstr "Hiệu ứng kính lọc"
+msgstr ""
 
 #: src/nikonmn.cpp:737
 msgid "Toning Saturation"
@@ -7320,11 +7320,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:772
 msgid "Date Display Format"
-msgstr "Định dạng hiển thị ngày"
+msgstr ""
 
 #: src/nikonmn.cpp:772
 msgid "Date display format"
-msgstr "Định dạng hiển thị ngày"
+msgstr ""
 
 #: src/nikonmn.cpp:774
 msgid "Unknown Nikon World Time Tag"
@@ -7640,11 +7640,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:939
 msgid "Multi Exposure Mode"
-msgstr "Đa chế độ phơi sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:939
 msgid "Multi exposure mode"
-msgstr "Đa chế độ phơi sáng"
+msgstr ""
 
 #: src/nikonmn.cpp:940
 msgid "Multi Exposure Shots"
@@ -7685,7 +7685,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:1023
 msgid "Auto Aperture"
-msgstr "Khẩu độ tự động"
+msgstr ""
 
 #: src/nikonmn.cpp:1025
 msgid "GN (distance priority)"
@@ -7725,11 +7725,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:1054 src/nikonmn.cpp:1076 src/nikonmn.cpp:1096
 msgid "Flash Source"
-msgstr "Nguồn Đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:1054 src/nikonmn.cpp:1076 src/nikonmn.cpp:1096
 msgid "Flash source"
-msgstr "Nguồn đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:1055 src/nikonmn.cpp:1077
 msgid "0x0005"
@@ -7819,11 +7819,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:1130 src/sonymn.cpp:471 src/sonymn.cpp:472
 msgid "Flash Level"
-msgstr "Cường độ Đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:1130
 msgid "Flash level"
-msgstr "Cường độ đèn chớp"
+msgstr ""
 
 #: src/nikonmn.cpp:1132
 msgid "Unknown Nikon Shot Info D40 Tag"
@@ -7847,7 +7847,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:1265
 msgid "On (3)"
-msgstr "Mở (3)"
+msgstr ""
 
 #: src/nikonmn.cpp:1278
 msgid "Shutter Count 1"
@@ -7960,40 +7960,40 @@ msgstr ""
 #: src/nikonmn.cpp:1378 src/nikonmn.cpp:1402 src/nikonmn.cpp:1427
 #: src/olympusmn.cpp:769
 msgid "Min Focal Length"
-msgstr "Khoảng Tiêu cự Tối thiểu"
+msgstr ""
 
 #: src/nikonmn.cpp:1378 src/nikonmn.cpp:1402 src/nikonmn.cpp:1427
 #: src/olympusmn.cpp:769
 msgid "Min focal length"
-msgstr "Khoảng Tiêu cự tối thiểu"
+msgstr ""
 
 #: src/nikonmn.cpp:1379 src/nikonmn.cpp:1403 src/nikonmn.cpp:1428
 #: src/olympusmn.cpp:770
 msgid "Max Focal Length"
-msgstr "Khoảng Tiêu cự Tối đa"
+msgstr ""
 
 #: src/nikonmn.cpp:1379 src/nikonmn.cpp:1403 src/nikonmn.cpp:1428
 #: src/olympusmn.cpp:770
 msgid "Max focal length"
-msgstr "Khoảng Tiêu cự tối đa"
+msgstr ""
 
 #: src/nikonmn.cpp:1380 src/nikonmn.cpp:1404 src/nikonmn.cpp:1429
 #: src/olympusmn.cpp:767
 msgid "Max Aperture At Min Focal"
-msgstr "Khẩu độ Tối đa tại Tiêu cự Tối thiểu"
+msgstr ""
 
 #: src/nikonmn.cpp:1380 src/nikonmn.cpp:1404 src/olympusmn.cpp:767
 msgid "Max aperture at min focal"
-msgstr "Khẩu độ tối đa tại tiêu cự tối thiểu"
+msgstr ""
 
 #: src/nikonmn.cpp:1381 src/nikonmn.cpp:1405 src/nikonmn.cpp:1430
 #: src/olympusmn.cpp:768
 msgid "Max Aperture At Max Focal"
-msgstr "Khẩu độ Tối đa tại Tiêu cự Tối đa"
+msgstr ""
 
 #: src/nikonmn.cpp:1381 src/nikonmn.cpp:1405 src/olympusmn.cpp:768
 msgid "Max aperture at max focal"
-msgstr "Tiêu cự tối đa tại tiêu cự tối thiểu"
+msgstr ""
 
 #: src/nikonmn.cpp:1382 src/nikonmn.cpp:1406 src/nikonmn.cpp:1431
 msgid "MCU Version"
@@ -8049,7 +8049,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:1620
 msgid "Closest subject"
-msgstr "Vật thể gần nhất"
+msgstr ""
 
 #: src/nikonmn.cpp:1621
 msgid "Group dynamic-AF"
@@ -8057,7 +8057,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:1644 src/tags.cpp:247
 msgid "none"
-msgstr "không"
+msgstr ""
 
 #: src/nikonmn.cpp:1654
 msgid "used"
@@ -8070,19 +8070,19 @@ msgstr ""
 #: src/nikonmn.cpp:1695 src/nikonmn.cpp:1696 src/pentaxmn.cpp:659
 #: src/pentaxmn.cpp:664
 msgid "Single-frame"
-msgstr "Khung hình đơn"
+msgstr ""
 
 #: src/olympusmn.cpp:72
 msgid "Standard Quality (SQ)"
-msgstr "Chất lượng tiêu chuẩn (SQ)"
+msgstr ""
 
 #: src/olympusmn.cpp:73
 msgid "High Quality (HQ)"
-msgstr "Chất lượng cao (HQ)"
+msgstr ""
 
 #: src/olympusmn.cpp:74
 msgid "Super High Quality (SHQ)"
-msgstr "Chất lượng siêu cao (SHQ)"
+msgstr ""
 
 #: src/olympusmn.cpp:89
 msgid "On (preset)"
@@ -8090,32 +8090,32 @@ msgstr ""
 
 #: src/olympusmn.cpp:96 src/pentaxmn.cpp:586
 msgid "Sport"
-msgstr "Thể thao"
+msgstr ""
 
 #: src/olympusmn.cpp:98 src/olympusmn.cpp:105
 msgid "Landscape+Portrait"
-msgstr "Phong cảnh+Chân dung"
+msgstr ""
 
 #: src/olympusmn.cpp:101 src/panasonicmn.cpp:125
 msgid "Self Portrait"
-msgstr "Chân dung"
+msgstr ""
 
 #: src/olympusmn.cpp:103
 msgid "2 in 1"
-msgstr "2 trong 1"
+msgstr ""
 
 #: src/olympusmn.cpp:106
 msgid "Night+Portrait"
-msgstr "Đêm+Chân dung"
+msgstr ""
 
 #: src/olympusmn.cpp:112 src/panasonicmn.cpp:131 src/pentaxmn.cpp:598
 #: src/sonymn.cpp:176
 msgid "Food"
-msgstr "Thức ăn"
+msgstr ""
 
 #: src/olympusmn.cpp:113
 msgid "Documents"
-msgstr "Tài liệu"
+msgstr ""
 
 #: src/olympusmn.cpp:115
 msgid "Shoot & Select"
@@ -8123,7 +8123,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:116
 msgid "Beach & Snow"
-msgstr "Bãi biển và Tuyết"
+msgstr ""
 
 #: src/olympusmn.cpp:117
 msgid "Self Portrait+Timer"
@@ -8131,24 +8131,24 @@ msgstr ""
 
 #: src/olympusmn.cpp:118
 msgid "Candle"
-msgstr "Đèn cầy"
+msgstr ""
 
 #: src/olympusmn.cpp:119
 msgid "Available Light"
-msgstr "Ánh sáng có sẵn"
+msgstr ""
 
 #: src/olympusmn.cpp:120
 msgid "Behind Glass"
-msgstr "Đằng sau kính"
+msgstr ""
 
 #: src/olympusmn.cpp:121
 msgid "My Mode"
-msgstr "Chế độ của tôi"
+msgstr ""
 
 #: src/olympusmn.cpp:122 src/panasonicmn.cpp:142 src/pentaxmn.cpp:595
 #: src/sonymn.cpp:180
 msgid "Pet"
-msgstr "Thú cưng"
+msgstr ""
 
 #: src/olympusmn.cpp:123
 msgid "Underwater Wide1"
@@ -8180,7 +8180,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:134 src/properties.cpp:1302
 msgid "Children"
-msgstr "Trẻ em"
+msgstr ""
 
 #: src/olympusmn.cpp:136
 msgid "Nature Macro"
@@ -8192,11 +8192,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:138
 msgid "Shooting Guide"
-msgstr "Hướng dẫn chụp"
+msgstr ""
 
 #: src/olympusmn.cpp:146
 msgid "Internal + External"
-msgstr "Bên trong và bên ngoài"
+msgstr ""
 
 #: src/olympusmn.cpp:177
 msgid "Interlaced"
@@ -8208,11 +8208,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:189
 msgid "Thumbnail Image"
-msgstr "Hình ảnh thu nhỏ"
+msgstr ""
 
 #: src/olympusmn.cpp:190
 msgid "Thumbnail image"
-msgstr "Hình ảnh thu nhỏ"
+msgstr ""
 
 #: src/olympusmn.cpp:193 src/olympusmn.cpp:762 src/olympusmn.cpp:1046
 msgid "Body Firmware Version"
@@ -8224,23 +8224,23 @@ msgstr ""
 
 #: src/olympusmn.cpp:196
 msgid "Special Mode"
-msgstr "Chế độ đặc biệt"
+msgstr ""
 
 #: src/olympusmn.cpp:197
 msgid "Picture taking mode"
-msgstr "Chế độ chụp hình ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:205
 msgid "Black & White Mode"
-msgstr "Chế độ Đen và Trắng"
+msgstr ""
 
 #: src/olympusmn.cpp:206
 msgid "Black and white mode"
-msgstr "Chế độ đen và trắng"
+msgstr ""
 
 #: src/olympusmn.cpp:209
 msgid "Digital zoom ratio"
-msgstr "Tỉ lệ thu/phóng điện tử"
+msgstr ""
 
 #: src/olympusmn.cpp:211 src/olympusmn.cpp:761
 msgid "Focal Plane Diagonal"
@@ -8260,7 +8260,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:217 src/olympusmn.cpp:758
 msgid "Camera Type"
-msgstr "Kiểu Ca-me-ra"
+msgstr ""
 
 #: src/olympusmn.cpp:218 src/olympusmn.cpp:758
 msgid "Camera type"
@@ -8282,15 +8282,15 @@ msgstr ""
 #: src/properties.cpp:1585 src/sigmamn.cpp:119 src/sigmamn.cpp:120
 #: src/tags.cpp:548
 msgid "Software"
-msgstr "Phần mềm"
+msgstr ""
 
 #: src/olympusmn.cpp:235 src/panasonicmn.cpp:753 src/sonymn.cpp:377
 msgid "Preview Image"
-msgstr "Xem trước hình ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:236 src/panasonicmn.cpp:753
 msgid "Preview image"
-msgstr "Xem trước hình ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:238
 msgid "Pre Capture Frames"
@@ -8302,11 +8302,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:241
 msgid "White Board"
-msgstr "Bảng trắng"
+msgstr ""
 
 #: src/olympusmn.cpp:242
 msgid "White board"
-msgstr "Bảng trắng"
+msgstr ""
 
 #: src/olympusmn.cpp:244
 msgid "One Touch WB"
@@ -8347,7 +8347,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:269
 msgid "Shutter speed value"
-msgstr "Giá trị tốc độ chụp"
+msgstr ""
 
 #: src/olympusmn.cpp:272
 msgid "ISO speed value"
@@ -8355,11 +8355,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:275
 msgid "Aperture value"
-msgstr "Giá trị khẩu độ"
+msgstr ""
 
 #: src/olympusmn.cpp:278
 msgid "Brightness value"
-msgstr "Giá trị độ sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:286
 msgid "Bracket"
@@ -8367,15 +8367,15 @@ msgstr ""
 
 #: src/olympusmn.cpp:287
 msgid "Exposure compensation value"
-msgstr "Giá trị bù trừ phơi sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:289 src/olympusmn.cpp:1034
 msgid "Sensor Temperature"
-msgstr "Cảm biến Nhiệt độ"
+msgstr ""
 
 #: src/olympusmn.cpp:290 src/olympusmn.cpp:1034
 msgid "Sensor temperature"
-msgstr "Cảm biến nhiệt độ"
+msgstr ""
 
 #: src/olympusmn.cpp:292
 msgid "Lens Temperature"
@@ -8387,11 +8387,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:295
 msgid "Light Condition"
-msgstr "Điều kiện Ánh sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:296
 msgid "Light condition"
-msgstr "Điều kiện ánh sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:298
 msgid "Focus Range"
@@ -8403,7 +8403,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:307
 msgid "Zoom"
-msgstr "Thu/phóng"
+msgstr ""
 
 #: src/olympusmn.cpp:308 src/olympusmn.cpp:1022
 msgid "Zoom step count"
@@ -8419,27 +8419,27 @@ msgstr ""
 
 #: src/olympusmn.cpp:313 src/olympusmn.cpp:394
 msgid "Sharpness Factor"
-msgstr "Hệ số độ sắc nét"
+msgstr ""
 
 #: src/olympusmn.cpp:314 src/olympusmn.cpp:395
 msgid "Sharpness factor"
-msgstr "Hệ số độ sắc nét"
+msgstr ""
 
 #: src/olympusmn.cpp:316
 msgid "Flash Charge Level"
-msgstr "Mức độ nạp điện đèn nháy"
+msgstr ""
 
 #: src/olympusmn.cpp:317
 msgid "Flash charge level"
-msgstr "Mức độ nạp điện đèn nháy"
+msgstr ""
 
 #: src/olympusmn.cpp:319 src/olympusmn.cpp:981
 msgid "Color Matrix"
-msgstr "Ma trận màu"
+msgstr ""
 
 #: src/olympusmn.cpp:320 src/olympusmn.cpp:981
 msgid "Color matrix"
-msgstr "Ma trận màu"
+msgstr ""
 
 #: src/olympusmn.cpp:322
 msgid "BlackLevel"
@@ -8451,27 +8451,27 @@ msgstr ""
 
 #: src/olympusmn.cpp:332 src/pentaxmn.cpp:1490 src/pentaxmn.cpp:1491
 msgid "White balance mode"
-msgstr "Chế độ cân bằng trắng"
+msgstr ""
 
 #: src/olympusmn.cpp:337 src/panasonicmn.cpp:747
 msgid "Red Balance"
-msgstr "Cân bằng đỏ"
+msgstr ""
 
 #: src/olympusmn.cpp:338 src/pentaxmn.cpp:1496
 msgid "Red balance"
-msgstr "Cân bằng đỏ"
+msgstr ""
 
 #: src/olympusmn.cpp:340 src/panasonicmn.cpp:748
 msgid "Blue Balance"
-msgstr "Cân bằng Xanh"
+msgstr ""
 
 #: src/olympusmn.cpp:341 src/panasonicmn.cpp:748 src/pentaxmn.cpp:1493
 msgid "Blue balance"
-msgstr "Cân bằng xanh"
+msgstr ""
 
 #: src/olympusmn.cpp:343
 msgid "Color Matrix Number"
-msgstr "Số ma trận màu"
+msgstr ""
 
 #: src/olympusmn.cpp:344
 msgid "Color matrix number"
@@ -8488,15 +8488,15 @@ msgstr ""
 #: src/olympusmn.cpp:374 src/olympusmn.cpp:687 src/pentaxmn.cpp:1586
 #: src/pentaxmn.cpp:1587
 msgid "Flash exposure compensation"
-msgstr "Sự bù phơi sáng đèn nháy"
+msgstr ""
 
 #: src/olympusmn.cpp:382 src/olympusmn.cpp:1030
 msgid "External Flash Bounce"
-msgstr "Nảy đèn nháy bên ngoài"
+msgstr ""
 
 #: src/olympusmn.cpp:383 src/olympusmn.cpp:1030
 msgid "External flash bounce"
-msgstr "Nảy đèn nháy bên ngoài"
+msgstr ""
 
 #: src/olympusmn.cpp:385 src/olympusmn.cpp:1031
 msgid "External Flash Zoom"
@@ -8504,23 +8504,23 @@ msgstr ""
 
 #: src/olympusmn.cpp:386 src/olympusmn.cpp:1031
 msgid "External flash zoom"
-msgstr "Thu/phóng đèn nháy bên ngoài"
+msgstr ""
 
 #: src/olympusmn.cpp:388
 msgid "External Flash Mode"
-msgstr "Chế độ đèn nháy bên ngoài"
+msgstr ""
 
 #: src/olympusmn.cpp:389
 msgid "External flash mode"
-msgstr "Chế độ đèn nháy bên ngoài"
+msgstr ""
 
 #: src/olympusmn.cpp:397
 msgid "Color Control"
-msgstr "Điều khiển màu"
+msgstr ""
 
 #: src/olympusmn.cpp:398
 msgid "Color control"
-msgstr "Điều khiển màu"
+msgstr ""
 
 #: src/olympusmn.cpp:400
 msgid "ValidBits"
@@ -8540,27 +8540,27 @@ msgstr ""
 
 #: src/olympusmn.cpp:424
 msgid "Compression Ratio"
-msgstr "Tỷ lệ nén"
+msgstr ""
 
 #: src/olympusmn.cpp:425
 msgid "Compression ratio"
-msgstr "Tỷ lệ nén"
+msgstr ""
 
 #: src/olympusmn.cpp:428
 msgid "Preview image embedded"
-msgstr "Xem trước ảnh nhúng"
+msgstr ""
 
 #: src/olympusmn.cpp:431
 msgid "Offset of the preview image"
-msgstr "Bù trừ hình ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:434
 msgid "Size of the preview image"
-msgstr "Kích cỡ hình ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:436
 msgid "CCD Scan Mode"
-msgstr "Chế độ quét CCD"
+msgstr ""
 
 #: src/olympusmn.cpp:437
 msgid "CCD scan mode"
@@ -8568,71 +8568,71 @@ msgstr ""
 
 #: src/olympusmn.cpp:442
 msgid "Infinity Lens Step"
-msgstr "Bước ống kính vô hạn"
+msgstr ""
 
 #: src/olympusmn.cpp:443
 msgid "Infinity lens step"
-msgstr "Bước ống kính vô hạn"
+msgstr ""
 
 #: src/olympusmn.cpp:445
 msgid "Near Lens Step"
-msgstr "Bước ống kính ở gần"
+msgstr ""
 
 #: src/olympusmn.cpp:446
 msgid "Near lens step"
-msgstr "Bước ống kính ở gần"
+msgstr ""
 
 #: src/olympusmn.cpp:448
 msgid "Equipment Info"
-msgstr "Thông tin thiết bị"
+msgstr ""
 
 #: src/olympusmn.cpp:449
 msgid "Camera equipment sub-IFD"
-msgstr "Sub-IFD thiết bị máy ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:452
 msgid "Camera Settings sub-IFD"
-msgstr "Sub-IFD thiết lập máy ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:454
 msgid "Raw Development"
-msgstr "Sự phát triển thô"
+msgstr ""
 
 #: src/olympusmn.cpp:455
 msgid "Raw development sub-IFD"
-msgstr "Sub-IFD phát triển thô"
+msgstr ""
 
 #: src/olympusmn.cpp:457
 msgid "Raw Development 2"
-msgstr "Sự phát triển thô 2"
+msgstr ""
 
 #: src/olympusmn.cpp:458
 msgid "Raw development 2 sub-IFD"
-msgstr "Sub-IFD sự phát triển thô 2"
+msgstr ""
 
 #: src/olympusmn.cpp:461
 msgid "Image processing sub-IFD"
-msgstr "Sub-IFD sự xử lý ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:463
 msgid "Focus Info"
-msgstr "Thông tin tiêu cự"
+msgstr ""
 
 #: src/olympusmn.cpp:464
 msgid "Focus sub-IFD"
-msgstr "Sub-IFD tiêu cự"
+msgstr ""
 
 #: src/olympusmn.cpp:466
 msgid "Raw Info"
-msgstr "Thông tin thô"
+msgstr ""
 
 #: src/olympusmn.cpp:467
 msgid "Raw sub-IFD"
-msgstr "Sub-IFD thô"
+msgstr ""
 
 #: src/olympusmn.cpp:471
 msgid "Unknown OlympusMakerNote tag"
-msgstr "Thẻ OlympusMakerNote lạ"
+msgstr ""
 
 #: src/olympusmn.cpp:487
 msgid "Program-shift"
@@ -8676,11 +8676,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:524
 msgid "Not Ready"
-msgstr "Chưa sẵn sàng"
+msgstr ""
 
 #: src/olympusmn.cpp:525
 msgid "Ready"
-msgstr "Sẵn sàng"
+msgstr ""
 
 #: src/olympusmn.cpp:532
 msgid "Fill-in"
@@ -8688,7 +8688,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:534
 msgid "Slow-sync"
-msgstr "Đồng bộ chậm"
+msgstr ""
 
 #: src/olympusmn.cpp:535
 msgid "Forced On"
@@ -8732,19 +8732,19 @@ msgstr ""
 
 #: src/olympusmn.cpp:550
 msgid "Channel 1, High"
-msgstr "Kênh 1, Cao"
+msgstr ""
 
 #: src/olympusmn.cpp:551
 msgid "Channel 2, High"
-msgstr "Kênh 2, Cao"
+msgstr ""
 
 #: src/olympusmn.cpp:552
 msgid "Channel 3, High"
-msgstr "Kênh 3, Cao"
+msgstr ""
 
 #: src/olympusmn.cpp:553
 msgid "Channel 4, High"
-msgstr "Kênh 4, Cao"
+msgstr ""
 
 #: src/olympusmn.cpp:567
 msgid "Auto (Keep Warm Color Off"
@@ -8752,15 +8752,15 @@ msgstr ""
 
 #: src/olympusmn.cpp:568
 msgid "7500K (Fine Weather with Shade)"
-msgstr "7500k (Thời tiết đẹp với bóng râm)"
+msgstr ""
 
 #: src/olympusmn.cpp:569
 msgid "6000K (Cloudy)"
-msgstr "6000K (Trời mây)"
+msgstr ""
 
 #: src/olympusmn.cpp:570
 msgid "5300K (Fine Weather)"
-msgstr "5300K (Thời tiết tốt)"
+msgstr ""
 
 #: src/olympusmn.cpp:571
 msgid "3000K (Tungsten light)"
@@ -8780,15 +8780,15 @@ msgstr ""
 
 #: src/olympusmn.cpp:575
 msgid "6600K (Daylight fluorescent)"
-msgstr "6600K (Ánh sáng huỳnh quang ban ngày)"
+msgstr ""
 
 #: src/olympusmn.cpp:576
 msgid "4500K (Neutral white fluorescent)"
-msgstr "4500K (Ánh sáng huỳnh quang trắng tự nhiên)"
+msgstr ""
 
 #: src/olympusmn.cpp:577
 msgid "4000K (Cool white fluorescent)"
-msgstr "4000K (Ánh sáng trắng lạnh)"
+msgstr ""
 
 #: src/olympusmn.cpp:578 src/sonymn.cpp:225
 msgid "White Fluorescent"
@@ -8812,31 +8812,31 @@ msgstr ""
 
 #: src/olympusmn.cpp:585
 msgid "Custom WB 1"
-msgstr "Tùy chỉnh cân bằng sáng 1"
+msgstr ""
 
 #: src/olympusmn.cpp:586
 msgid "Custom WB 2"
-msgstr "Tùy chỉnh cân bằng sáng 2"
+msgstr ""
 
 #: src/olympusmn.cpp:587
 msgid "Custom WB 3"
-msgstr "Tùy chỉnh cân bằng sáng 3"
+msgstr ""
 
 #: src/olympusmn.cpp:588
 msgid "Custom WB 4"
-msgstr "Tùy chỉnh cân bằng sáng 4"
+msgstr ""
 
 #: src/olympusmn.cpp:594
 msgid "CM1 (Red Enhance)"
-msgstr "CM1 (Tăng đỏ)"
+msgstr ""
 
 #: src/olympusmn.cpp:595
 msgid "CM2 (Green Enhance)"
-msgstr "CM2 (Tăng xanh lá)"
+msgstr ""
 
 #: src/olympusmn.cpp:596
 msgid "CM3 (Blue Enhance)"
-msgstr "CM3 (Tăng xanh dương)"
+msgstr ""
 
 #: src/olympusmn.cpp:597
 msgid "CM4 (Skin Tones)"
@@ -8848,7 +8848,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:610 src/olympusmn.cpp:713
 msgid "Noise Filter"
-msgstr "Bộ lọc nhiễu"
+msgstr ""
 
 #: src/olympusmn.cpp:611
 msgid "Noise Filter (ISO Boost)"
@@ -8896,7 +8896,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:630 src/olympusmn.cpp:874
 msgid "Monotone"
-msgstr "Đơn sắc"
+msgstr ""
 
 #: src/olympusmn.cpp:656
 msgid "SQ"
@@ -8912,83 +8912,83 @@ msgstr ""
 
 #: src/olympusmn.cpp:665 src/panasonicmn.cpp:92
 msgid "On, Mode 1"
-msgstr "Mở, Chế độ 1"
+msgstr ""
 
 #: src/olympusmn.cpp:666 src/panasonicmn.cpp:94
 msgid "On, Mode 2"
-msgstr "Mở, Chế độ 2"
+msgstr ""
 
 #: src/olympusmn.cpp:667 src/panasonicmn.cpp:96
 msgid "On, Mode 3"
-msgstr "Mở, Chế độ 3"
+msgstr ""
 
 #: src/olympusmn.cpp:671
 msgid "Camera Settings Version"
-msgstr "Phiên bản thiết lập máy ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:671
 msgid "Camera settings version"
-msgstr "Phiên bản thiết lập máy ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:672
 msgid "PreviewImage Valid"
-msgstr "Kiểm tra ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:672
 msgid "Preview image valid"
-msgstr "Kiểm tra ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:673
 msgid "PreviewImage Start"
-msgstr "Bắt đầu ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:673
 msgid "Preview image start"
-msgstr "Bắt đầu ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:674
 msgid "PreviewImage Length"
-msgstr "Độ dài ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:674
 msgid "Preview image length"
-msgstr "Độ dài ảnh xem trước"
+msgstr ""
 
 #: src/olympusmn.cpp:676
 msgid "Auto exposure lock"
-msgstr "Khoá tự động phơi sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:678
 msgid "Exposure Shift"
-msgstr "Dịch chuyển phơi sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:678
 msgid "Exposure shift"
-msgstr "Dịch chuyển phơi sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:681
 msgid "Focus Process"
-msgstr "Tiến trình lấy nét"
+msgstr ""
 
 #: src/olympusmn.cpp:681
 msgid "Focus process"
-msgstr "Quá trình lấy nétTiến trình lấy nét"
+msgstr ""
 
 #: src/olympusmn.cpp:682
 msgid "AF Search"
-msgstr "Tìm kiếm lấy nét tự động"
+msgstr ""
 
 #: src/olympusmn.cpp:682
 msgid "AF search"
-msgstr "Tìm kiếm lấy nét tự động"
+msgstr ""
 
 #: src/olympusmn.cpp:683
 msgid "AF Areas"
-msgstr "Vùng lấy nét tự động"
+msgstr ""
 
 #: src/olympusmn.cpp:683
 msgid "AF areas"
-msgstr "Vùng lấy nét từ động"
+msgstr ""
 
 #: src/olympusmn.cpp:684
 msgid "AFPointSelected"
@@ -9004,27 +9004,27 @@ msgstr ""
 
 #: src/olympusmn.cpp:688
 msgid "Flash Remote Control"
-msgstr "Điều khiển từ xa đèn chớp"
+msgstr ""
 
 #: src/olympusmn.cpp:688
 msgid "Flash remote control"
-msgstr "Điều khiển từ xa đèn chớp"
+msgstr ""
 
 #: src/olympusmn.cpp:689
 msgid "Flash Control Mode"
-msgstr "Chế độ điều khiển đèn chớp"
+msgstr ""
 
 #: src/olympusmn.cpp:689
 msgid "Flash control mode"
-msgstr "Chế độ điều khiển đèn chớp"
+msgstr ""
 
 #: src/olympusmn.cpp:690
 msgid "Flash Intensity"
-msgstr "Cường độ đèn chớp"
+msgstr ""
 
 #: src/olympusmn.cpp:690
 msgid "Flash intensity"
-msgstr "Cường độ đèn chớp"
+msgstr ""
 
 #: src/olympusmn.cpp:691
 msgid "Manual Flash Strength"
@@ -9036,11 +9036,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:692 src/sonymn.cpp:492
 msgid "White Balance 2"
-msgstr "Cân bằng Trắng 2"
+msgstr ""
 
 #: src/olympusmn.cpp:692 src/sonymn.cpp:493
 msgid "White balance 2"
-msgstr "Cân bằng trắng 2"
+msgstr ""
 
 #: src/olympusmn.cpp:693
 msgid "White Balance Temperature"
@@ -9052,27 +9052,27 @@ msgstr ""
 
 #: src/olympusmn.cpp:695
 msgid "Custom Saturation"
-msgstr "Độ bão hòa tùy chỉnh"
+msgstr ""
 
 #: src/olympusmn.cpp:695
 msgid "Custom saturation"
-msgstr "Độ bão hòa tùy chỉnh"
+msgstr ""
 
 #: src/olympusmn.cpp:696
 msgid "Modified Saturation"
-msgstr "Độ bão hòa đã thay đổi"
+msgstr ""
 
 #: src/olympusmn.cpp:696
 msgid "Modified saturation"
-msgstr "Độ bão hòa đã thay đổi"
+msgstr ""
 
 #: src/olympusmn.cpp:697 src/olympusmn.cpp:1099
 msgid "Contrast Setting"
-msgstr "Thiết lập độ tương phản"
+msgstr ""
 
 #: src/olympusmn.cpp:698 src/olympusmn.cpp:1100
 msgid "Sharpness Setting"
-msgstr "Thiết lập độ sắc nét"
+msgstr ""
 
 #: src/olympusmn.cpp:702 src/olympusmn.cpp:994
 msgid "Distortion Correction"
@@ -9105,47 +9105,47 @@ msgstr ""
 #: src/olympusmn.cpp:706 src/olympusmn.cpp:910 src/pentaxmn.cpp:1546
 #: src/pentaxmn.cpp:1547
 msgid "Picture mode"
-msgstr "Chế độ ảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:707
 msgid "Picture Mode Saturation"
-msgstr "Chế độ ảnh bão hòa"
+msgstr ""
 
 #: src/olympusmn.cpp:707 src/olympusmn.cpp:911
 msgid "Picture mode saturation"
-msgstr "Chế độ ảnh bão hòa"
+msgstr ""
 
 #: src/olympusmn.cpp:708
 msgid "Picture Mode Hue"
-msgstr "Chế độ ảnh màu sắc"
+msgstr ""
 
 #: src/olympusmn.cpp:708
 msgid "Picture mode hue"
-msgstr "Chế độ ảnh màu sắc"
+msgstr ""
 
 #: src/olympusmn.cpp:709
 msgid "Picture Mode Contrast"
-msgstr "Chế độ ảnh tương phản"
+msgstr ""
 
 #: src/olympusmn.cpp:709 src/olympusmn.cpp:912
 msgid "Picture mode contrast"
-msgstr "Chế độ ảnh tương phản"
+msgstr ""
 
 #: src/olympusmn.cpp:710
 msgid "Picture Mode Sharpness"
-msgstr "Chế độ ảnh sắc nét"
+msgstr ""
 
 #: src/olympusmn.cpp:710 src/olympusmn.cpp:913
 msgid "Picture mode sharpness"
-msgstr "Chế độ ảnh sắc nét"
+msgstr ""
 
 #: src/olympusmn.cpp:711
 msgid "Picture Mode BW Filter"
-msgstr "Chế độ ảnh bộ lọc cân bằng trắng"
+msgstr ""
 
 #: src/olympusmn.cpp:711
 msgid "Picture mode BW filter"
-msgstr "Chế độ ảnh bộ lọc cân bằng trắng"
+msgstr ""
 
 #: src/olympusmn.cpp:712
 msgid "Picture Mode Tone"
@@ -9157,7 +9157,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:713
 msgid "Noise filter"
-msgstr "Lọc nhiễu"
+msgstr ""
 
 #: src/olympusmn.cpp:714
 msgid "Art Filter"
@@ -9177,19 +9177,19 @@ msgstr ""
 
 #: src/olympusmn.cpp:717
 msgid "Panorama Mode"
-msgstr "Chế độ toàn cảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:717
 msgid "Panorama mode"
-msgstr "Chế độ toàn cảnh"
+msgstr ""
 
 #: src/olympusmn.cpp:718
 msgid "Image Quality 2"
-msgstr "Chất lượng hình ảnh 2"
+msgstr ""
 
 #: src/olympusmn.cpp:718
 msgid "Image quality 2"
-msgstr "Chất lượng hình ảnh 2"
+msgstr ""
 
 #: src/olympusmn.cpp:720 src/panasonicmn.cpp:514
 msgid "Manometer Pressure"
@@ -9274,11 +9274,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:771
 msgid "Max Aperture At Current Focal"
-msgstr "Khẩu độ Tối đa Tại Tiêu cự Hiện tại"
+msgstr ""
 
 #: src/olympusmn.cpp:771
 msgid "Max aperture at current focal"
-msgstr "Khẩu độ tối đa tại tiêu cự hiện tại"
+msgstr ""
 
 #: src/olympusmn.cpp:772
 msgid "Lens Properties"
@@ -9350,7 +9350,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:800 src/olympusmn.cpp:865
 msgid "High Speed"
-msgstr "Tốc độ cao"
+msgstr ""
 
 #: src/olympusmn.cpp:801 src/olympusmn.cpp:822 src/olympusmn.cpp:866
 msgid "High Function"
@@ -9366,15 +9366,15 @@ msgstr ""
 
 #: src/olympusmn.cpp:808
 msgid "Original"
-msgstr "Nguyên gốc"
+msgstr ""
 
 #: src/olympusmn.cpp:809
 msgid "Edited (Landscape)"
-msgstr "Đã chỉnh sửa (Phong cảnh)"
+msgstr ""
 
 #: src/olympusmn.cpp:810 src/olympusmn.cpp:811
 msgid "Edited (Portrait)"
-msgstr "Đã chỉnh sửa (Chân dung)"
+msgstr ""
 
 #: src/olympusmn.cpp:816
 msgid "WB Color Temp"
@@ -9395,19 +9395,19 @@ msgstr ""
 #: src/olympusmn.cpp:828 src/olympusmn.cpp:898 src/properties.cpp:835
 #: src/tags.cpp:832
 msgid "Exposure Bias Value"
-msgstr "Giá trị Bù trừ Phơi sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:828 src/olympusmn.cpp:898
 msgid "Exposure bias value"
-msgstr "Giá trị bù trừ phơi sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:829 src/olympusmn.cpp:900
 msgid "White Balance Value"
-msgstr "Giá trị Cân bằng Sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:829 src/olympusmn.cpp:900
 msgid "White balance value"
-msgstr "Giá trị cân bằng sáng"
+msgstr ""
 
 #: src/olympusmn.cpp:830 src/olympusmn.cpp:901
 msgid "WB Fine Adjustment"
@@ -9443,11 +9443,11 @@ msgstr ""
 
 #: src/olympusmn.cpp:834 src/olympusmn.cpp:903
 msgid "Contrast Value"
-msgstr "Giá trị Tương phản"
+msgstr ""
 
 #: src/olympusmn.cpp:834 src/olympusmn.cpp:903
 msgid "Contrast value"
-msgstr "Giá trị tương phản"
+msgstr ""
 
 #: src/olympusmn.cpp:835 src/olympusmn.cpp:904
 msgid "Sharpness Value"
@@ -9459,7 +9459,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:837 src/olympusmn.cpp:909
 msgid "Engine"
-msgstr "Động cơ"
+msgstr ""
 
 #: src/olympusmn.cpp:839
 msgid "Edit status"
@@ -9467,7 +9467,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:840
 msgid "Settings"
-msgstr "Tùy chỉnh"
+msgstr ""
 
 #: src/olympusmn.cpp:842
 msgid "Unknown OlympusRd tag"
@@ -10255,7 +10255,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:1170
 msgid "Fast"
-msgstr "Nhanh"
+msgstr ""
 
 #: src/olympusmn.cpp:1235
 msgid "3000 Kelvin"
@@ -10335,7 +10335,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:1538
 msgid "Fish Eye"
-msgstr "Mắt cá"
+msgstr ""
 
 #: src/olympusmn.cpp:1539
 msgid "Drawing"
@@ -10888,23 +10888,23 @@ msgstr ""
 
 #: src/panasonicmn.cpp:294
 msgid "Standard (color)"
-msgstr "Tiêu chuẩn (màu sắc)"
+msgstr ""
 
 #: src/panasonicmn.cpp:295
 msgid "Dynamic (color)"
-msgstr "Sặc sỡ (màu sắc)"
+msgstr ""
 
 #: src/panasonicmn.cpp:296
 msgid "Nature (color)"
-msgstr "Tự nhiên (màu sắc)"
+msgstr ""
 
 #: src/panasonicmn.cpp:297
 msgid "Smooth (color)"
-msgstr "Mịn (màu sắc)"
+msgstr ""
 
 #: src/panasonicmn.cpp:298
 msgid "Standard (B&W)"
-msgstr "Tiêu chuẩn (B&W)"
+msgstr ""
 
 #: src/panasonicmn.cpp:299
 msgid "Dynamic (B&W)"
@@ -11052,7 +11052,7 @@ msgstr ""
 
 #: src/panasonicmn.cpp:453
 msgid "White balance adjustment"
-msgstr "Điều chỉnh cân bằng trắng"
+msgstr ""
 
 #: src/panasonicmn.cpp:454
 msgid "FlashBias"
@@ -11064,11 +11064,11 @@ msgstr ""
 
 #: src/panasonicmn.cpp:458
 msgid "Color Effect"
-msgstr "Hiệu ứng Màu sắc"
+msgstr ""
 
 #: src/panasonicmn.cpp:458
 msgid "Color effect"
-msgstr "Hiệu ứng màu sắc"
+msgstr ""
 
 #: src/panasonicmn.cpp:459
 msgid "Time in 1/100 s from when the camera was powered on to when the image is written to memory card"
@@ -11084,7 +11084,7 @@ msgstr ""
 
 #: src/panasonicmn.cpp:463
 msgid "NoiseReduction"
-msgstr "Giảmnhiễu"
+msgstr ""
 
 #: src/panasonicmn.cpp:464
 msgid "Self Timer"
@@ -11228,7 +11228,7 @@ msgstr ""
 
 #: src/panasonicmn.cpp:502 src/properties.cpp:191 src/properties.cpp:1632
 msgid "Title"
-msgstr "Tựa đề"
+msgstr ""
 
 #: src/panasonicmn.cpp:503
 msgid "Baby Name"
@@ -11241,11 +11241,11 @@ msgstr ""
 #: src/panasonicmn.cpp:504 src/pentaxmn.cpp:1514 src/pentaxmn.cpp:1515
 #: src/properties.cpp:965 src/properties.cpp:1741
 msgid "Location"
-msgstr "Vị trí"
+msgstr ""
 
 #: src/panasonicmn.cpp:506 src/properties.cpp:473
 msgid "State"
-msgstr "Bang"
+msgstr ""
 
 #: src/panasonicmn.cpp:508
 msgid "Landmark"
@@ -11493,31 +11493,31 @@ msgstr ""
 
 #: src/panasonicmn.cpp:743
 msgid "Sensor Top Border"
-msgstr "Đường viền Trên của Cảm biến"
+msgstr ""
 
 #: src/panasonicmn.cpp:743
 msgid "Sensor top border"
-msgstr "Đường viền trên của cảm biến"
+msgstr ""
 
 #: src/panasonicmn.cpp:744
 msgid "Sensor Left Border"
-msgstr "Đường viến Trái của Cảm biến"
+msgstr ""
 
 #: src/panasonicmn.cpp:744
 msgid "Sensor left border"
-msgstr "Đường viền trái của cảm biến"
+msgstr ""
 
 #: src/panasonicmn.cpp:747
 msgid "Red balance (found in Digilux 2 RAW images)"
-msgstr "Cân bằng đỏ (tìm thấy trong hình ảnh gốc của Digilux 2)"
+msgstr ""
 
 #: src/panasonicmn.cpp:754 src/tags.cpp:472
 msgid "Manufacturer"
-msgstr "Nhà sản xuất"
+msgstr ""
 
 #: src/panasonicmn.cpp:754
 msgid "The manufacturer of the recording equipment"
-msgstr "Nhà sản xuất của các thiết bị thu"
+msgstr ""
 
 #: src/panasonicmn.cpp:755 src/properties.cpp:795 src/tags.cpp:478
 msgid "Model"
@@ -11590,15 +11590,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:198 src/properties.cpp:374
 msgid "Good"
-msgstr "Tốt"
+msgstr ""
 
 #: src/pentaxmn.cpp:199
 msgid "Better"
-msgstr "Tốt h"
+msgstr ""
 
 #: src/pentaxmn.cpp:200
 msgid "Best"
-msgstr "Tốt nh"
+msgstr ""
 
 #: src/pentaxmn.cpp:203
 msgid "Premium"
@@ -11606,15 +11606,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:215
 msgid "2560x1920 or 2304x1728"
-msgstr "2560x1920 hoặc 2304x1728"
+msgstr ""
 
 #: src/pentaxmn.cpp:221
 msgid "2304x1728 or 2592x1944"
-msgstr "2304x1728 hoặc 2592x1944"
+msgstr ""
 
 #: src/pentaxmn.cpp:223
 msgid "2816x2212 or 2816x2112"
-msgstr "2816x2212 hoặc 2816x2112"
+msgstr ""
 
 #: src/pentaxmn.cpp:246
 msgid "Auto, Did not fire"
@@ -11646,7 +11646,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:254
 msgid "On, Red-eye reduction"
-msgstr "Mở, tiêu giảm mắt-đỏ"
+msgstr ""
 
 #: src/pentaxmn.cpp:255
 msgid "On, Wireless (Master)"
@@ -11662,7 +11662,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:258
 msgid "On, Slow-sync"
-msgstr "Mở, Đồng bộ-chậm, Tiêu giảm mắt-đỏ"
+msgstr ""
 
 #: src/pentaxmn.cpp:259
 msgid "On, Slow-sync, Red-eye reduction"
@@ -11698,7 +11698,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:285
 msgid "Face Recognition AF"
-msgstr "Tự động lấy nét và tự động nhận diện khuôn mặt"
+msgstr ""
 
 #: src/pentaxmn.cpp:286
 msgid "AF Select"
@@ -11710,15 +11710,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:306
 msgid "Top-center"
-msgstr "Trên-trung tâm"
+msgstr ""
 
 #: src/pentaxmn.cpp:312
 msgid "Bottom-center"
-msgstr "Dưới-trung tâm"
+msgstr ""
 
 #: src/pentaxmn.cpp:401
 msgid "Multi Segment"
-msgstr "Đa phân vùng"
+msgstr ""
 
 #: src/pentaxmn.cpp:402
 msgid "Center Weighted"
@@ -11742,19 +11742,19 @@ msgstr ""
 
 #: src/pentaxmn.cpp:422
 msgid "User Selected"
-msgstr "Lựa chọn người dùng"
+msgstr ""
 
 #: src/pentaxmn.cpp:427
 msgid "Auto (Daylight)"
-msgstr "Tự động (Ánh sáng ngày)"
+msgstr ""
 
 #: src/pentaxmn.cpp:428
 msgid "Auto (Shade)"
-msgstr "Tự động (Bóng râm)"
+msgstr ""
 
 #: src/pentaxmn.cpp:429
 msgid "Auto (Flash)"
-msgstr "Tự động (Đèn chớp)"
+msgstr ""
 
 #: src/pentaxmn.cpp:430
 msgid "Auto (Tungsten)"
@@ -11774,7 +11774,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:434
 msgid "Auto (Cloudy)"
-msgstr "Tự động (Trời mây)"
+msgstr ""
 
 #: src/pentaxmn.cpp:436
 msgid "Preset (Fireworks?)"
@@ -12038,11 +12038,11 @@ msgstr ""
 
 #: src/pentaxmn.cpp:579 src/pentaxmn.cpp:623
 msgid "Hi-speed Program"
-msgstr "Tự động tốc độ cao"
+msgstr ""
 
 #: src/pentaxmn.cpp:580 src/pentaxmn.cpp:624
 msgid "DOF Program"
-msgstr "Tự động về trường sâu của ảnh"
+msgstr ""
 
 #: src/pentaxmn.cpp:581 src/pentaxmn.cpp:625
 msgid "MTF Program"
@@ -12054,7 +12054,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:588
 msgid "No Flash"
-msgstr "Không đèn chớp"
+msgstr ""
 
 #: src/pentaxmn.cpp:591
 msgid "Surf & Snow"
@@ -12122,7 +12122,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:618 src/pentaxmn.cpp:629
 msgid "Aperture Priority"
-msgstr "Ưu tiên khẩu độ"
+msgstr ""
 
 #: src/pentaxmn.cpp:626
 msgid "Shallow DOF"
@@ -12150,7 +12150,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:638
 msgid "Shutter Priority"
-msgstr "Ưu tiên tốc độ chụp"
+msgstr ""
 
 #: src/pentaxmn.cpp:639
 msgid "Shutter & Aperture Priority AE"
@@ -12210,7 +12210,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:661
 msgid "Continuous (Hi)"
-msgstr "Liên tục (Hi)"
+msgstr ""
 
 #: src/pentaxmn.cpp:662 src/sonymn.cpp:283
 msgid "Burst"
@@ -12235,11 +12235,11 @@ msgstr ""
 
 #: src/pentaxmn.cpp:669
 msgid "Remote Control (3 sec)"
-msgstr "Điều khiển từ xa"
+msgstr ""
 
 #: src/pentaxmn.cpp:670
 msgid "Remote Control"
-msgstr "Điều khiển Từ xa"
+msgstr ""
 
 #: src/pentaxmn.cpp:671
 msgid "Remote Continuous Shooting"
@@ -12263,7 +12263,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:689
 msgid "M-42 or No Lens"
-msgstr "M-42 hoặc Không có ống kính"
+msgstr ""
 
 #: src/pentaxmn.cpp:690
 msgid "K or M Lens"
@@ -12275,7 +12275,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:982
 msgid "Bright"
-msgstr "Sang1"
+msgstr ""
 
 #: src/pentaxmn.cpp:988
 msgid "Reversal film"
@@ -12291,15 +12291,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1002
 msgid "Weakest"
-msgstr "Yếu nhất"
+msgstr ""
 
 #: src/pentaxmn.cpp:1003
 msgid "Weak"
-msgstr "Yếu"
+msgstr ""
 
 #: src/pentaxmn.cpp:1004
 msgid "Strong"
-msgstr "Mạnh"
+msgstr ""
 
 #: src/pentaxmn.cpp:1124
 msgid "No extended bracketing"
@@ -12315,7 +12315,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1145
 msgid "Unknown "
-msgstr "Không biết "
+msgstr ""
 
 #: src/pentaxmn.cpp:1424
 msgid "Pentax Makernote version"
@@ -12323,15 +12323,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1427
 msgid "Camera shooting mode"
-msgstr "Chế độ chụp của máy ảnh"
+msgstr ""
 
 #: src/pentaxmn.cpp:1429 src/pentaxmn.cpp:1430
 msgid "Resolution of a preview image"
-msgstr "Phân giải của ảnh xem trước"
+msgstr ""
 
 #: src/pentaxmn.cpp:1432
 msgid "Length of a preview image"
-msgstr "Độ dài của ảnh xem trước"
+msgstr ""
 
 #: src/pentaxmn.cpp:1433
 msgid "Size of an IFD containing a preview image"
@@ -12347,31 +12347,31 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1441 src/pentaxmn.cpp:1442 src/properties.cpp:172
 msgid "Date"
-msgstr "Ngày"
+msgstr ""
 
 #: src/pentaxmn.cpp:1444 src/pentaxmn.cpp:1445
 msgid "Time"
-msgstr "Thời gian"
+msgstr ""
 
 #: src/pentaxmn.cpp:1448
 msgid "Image quality settings"
-msgstr "Tùy chỉnh chất lượng hình ảnh"
+msgstr ""
 
 #: src/pentaxmn.cpp:1451
 msgid "Image size settings"
-msgstr "Tùy chỉnh kích cỡ hình ảnh"
+msgstr ""
 
 #: src/pentaxmn.cpp:1455
 msgid "Flash mode settings"
-msgstr "Tùy chỉnh chế độ đèn chớp"
+msgstr ""
 
 #: src/pentaxmn.cpp:1458
 msgid "Focus mode settings"
-msgstr "Tùy chỉnh chế độ lấy nét"
+msgstr ""
 
 #: src/pentaxmn.cpp:1461
 msgid "Selected AF point"
-msgstr "Lực chọn điểm lấy nét tự động"
+msgstr ""
 
 #: src/pentaxmn.cpp:1463 src/pentaxmn.cpp:1464
 msgid "AF point in focus"
@@ -12383,15 +12383,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1473
 msgid "ISO sensitivity"
-msgstr "Độ nhạy sáng"
+msgstr ""
 
 #: src/pentaxmn.cpp:1474
 msgid "ISO sensitivity settings"
-msgstr "Tùy chỉnh độ nhạy sáng"
+msgstr ""
 
 #: src/pentaxmn.cpp:1481 src/pentaxmn.cpp:1482
 msgid "MeteringMode"
-msgstr "Chếđộđođạc"
+msgstr ""
 
 #: src/pentaxmn.cpp:1484 src/pentaxmn.cpp:1485
 msgid "AutoBracketing"
@@ -12399,15 +12399,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1494
 msgid "Blue color balance"
-msgstr "Cân bằng màu xanh dương"
+msgstr ""
 
 #: src/pentaxmn.cpp:1497
 msgid "Red color balance"
-msgstr "Cân bằng màu đỏ"
+msgstr ""
 
 #: src/pentaxmn.cpp:1499 src/pentaxmn.cpp:1500
 msgid "FocalLength"
-msgstr "DảiTiêucự"
+msgstr ""
 
 #: src/pentaxmn.cpp:1517
 msgid "Hometown"
@@ -12439,7 +12439,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1539
 msgid "Light value"
-msgstr "Gia1 trị sáng"
+msgstr ""
 
 #: src/pentaxmn.cpp:1540
 msgid "Camera calculated light value, includes exposure compensation"
@@ -12451,19 +12451,19 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1559 src/pentaxmn.cpp:1560
 msgid "Raw image size"
-msgstr "Kích cỡ hình ảnh gốc"
+msgstr ""
 
 #: src/pentaxmn.cpp:1563 src/pentaxmn.cpp:1564
 msgid "Preview image borders"
-msgstr "Khung viền của hình ảnh xem trước"
+msgstr ""
 
 #: src/pentaxmn.cpp:1569 src/pentaxmn.cpp:1570
 msgid "Sensitivity adjust"
-msgstr "Điều chỉnh độ nhạy"
+msgstr ""
 
 #: src/pentaxmn.cpp:1572 src/pentaxmn.cpp:1573
 msgid "Digital filter"
-msgstr "Lọc điện tử"
+msgstr ""
 
 #: src/pentaxmn.cpp:1577
 msgid "Camera temperature"
@@ -12475,7 +12475,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1597
 msgid "Shake reduction"
-msgstr "Giảm rung"
+msgstr ""
 
 #: src/pentaxmn.cpp:1598
 msgid "Shake reduction information"
@@ -12487,7 +12487,7 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1606 src/pentaxmn.cpp:1607
 msgid "High ISO noise reduction"
-msgstr "Giảm nhiễu do độ nhạy sáng cao"
+msgstr ""
 
 #: src/pentaxmn.cpp:1609 src/pentaxmn.cpp:1610
 msgid "AF Adjustment"
@@ -12495,15 +12495,15 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1613 src/pentaxmn.cpp:1614
 msgid "Black point"
-msgstr "Điểm đen"
+msgstr ""
 
 #: src/pentaxmn.cpp:1616 src/pentaxmn.cpp:1617
 msgid "White point"
-msgstr "Điểm trắng"
+msgstr ""
 
 #: src/pentaxmn.cpp:1620 src/pentaxmn.cpp:1621
 msgid "ShotInfo"
-msgstr "Thôngtinảnhchụp"
+msgstr ""
 
 #: src/pentaxmn.cpp:1623 src/pentaxmn.cpp:1624
 msgid "AEInfo"
@@ -12511,11 +12511,11 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1626 src/pentaxmn.cpp:1627
 msgid "LensInfo"
-msgstr "Thôngtinốngkính"
+msgstr ""
 
 #: src/pentaxmn.cpp:1629 src/pentaxmn.cpp:1630
 msgid "FlashInfo"
-msgstr "Thôngtinđènchớp"
+msgstr ""
 
 #: src/pentaxmn.cpp:1632 src/pentaxmn.cpp:1633
 msgid "AEMeteringSegments"
@@ -12563,11 +12563,11 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1666 src/pentaxmn.cpp:1667
 msgid "CameraInfo"
-msgstr "Thôngtinmáyảnh"
+msgstr ""
 
 #: src/pentaxmn.cpp:1669 src/pentaxmn.cpp:1670
 msgid "BatteryInfo"
-msgstr "Thôngtinpin"
+msgstr ""
 
 #: src/pentaxmn.cpp:1672 src/pentaxmn.cpp:1673
 msgid "AFInfo"
@@ -12747,7 +12747,7 @@ msgstr ""
 
 #: src/properties.cpp:159
 msgid "Version structure"
-msgstr "Phiên bản cấu trúc"
+msgstr ""
 
 #: src/properties.cpp:160
 msgid "Basic Job/Workflow structure"
@@ -12763,7 +12763,7 @@ msgstr ""
 
 #: src/properties.cpp:168
 msgid "Contributor"
-msgstr "Người cộng tác"
+msgstr ""
 
 #: src/properties.cpp:168
 msgid "Contributors to the resource (other than the authors)."
@@ -12779,7 +12779,7 @@ msgstr ""
 
 #: src/properties.cpp:171
 msgid "Creator"
-msgstr "Người tạo"
+msgstr ""
 
 #: src/properties.cpp:171
 msgid "The authors of the resource (listed in order of precedence, if significant)."
@@ -12795,7 +12795,7 @@ msgstr ""
 
 #: src/properties.cpp:175 src/properties.cpp:1443
 msgid "Format"
-msgstr "Định dạng"
+msgstr ""
 
 #: src/properties.cpp:175
 msgid "The file format used when saving the resource. Tools and applications should set this property to the save format of the data. It may include appropriate qualifiers."
@@ -12815,7 +12815,7 @@ msgstr ""
 
 #: src/properties.cpp:180
 msgid "Publisher"
-msgstr "Nhà xuất bản"
+msgstr ""
 
 #: src/properties.cpp:180
 msgid "An entity responsible for making the resource available. Examples of a Publisher include a person, an organization, or a service. Typically, the name of a Publisher should be used to indicate the entity."
@@ -12823,7 +12823,7 @@ msgstr ""
 
 #: src/properties.cpp:183
 msgid "Relation"
-msgstr "Mối liên hệ"
+msgstr ""
 
 #: src/properties.cpp:183
 msgid "Relationships to other documents. Recommended best practice is to identify the related resource by means of a string conforming to a formal identification system."
@@ -12831,7 +12831,7 @@ msgstr ""
 
 #: src/properties.cpp:185
 msgid "Rights"
-msgstr "Quyền lợi"
+msgstr ""
 
 #: src/properties.cpp:185
 msgid "Informal rights statement, selected by language. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights."
@@ -12852,7 +12852,7 @@ msgstr ""
 #: src/properties.cpp:193 src/properties.cpp:510 src/properties.cpp:1287
 #: src/properties.cpp:1732
 msgid "Type"
-msgstr "Kiểu"
+msgstr ""
 
 #: src/properties.cpp:193
 msgid "A document type; for example, novel, poem, or working paper."
@@ -12884,7 +12884,7 @@ msgstr ""
 
 #: src/properties.cpp:202 src/tags.cpp:847
 msgid "Image History"
-msgstr "Lịch sử hình ảnh"
+msgstr ""
 
 #: src/properties.cpp:202
 msgid "An XML based content to list all action processed on this image with image editor (as crop, rotate, color corrections, adjustments, etc.)."
@@ -12972,7 +12972,7 @@ msgstr ""
 
 #: src/properties.cpp:229
 msgid "Create Date"
-msgstr "Ngày tạo"
+msgstr ""
 
 #: src/properties.cpp:229
 msgid "The date and time the resource was originally created."
@@ -12992,7 +12992,7 @@ msgstr ""
 
 #: src/properties.cpp:238
 msgid "Label"
-msgstr "Nhãn"
+msgstr ""
 
 #: src/properties.cpp:238
 msgid "A word or short phrase that identifies a document as a member of a user-defined collection. Used to organize documents in a file browser."
@@ -13008,7 +13008,7 @@ msgstr ""
 
 #: src/properties.cpp:242
 msgid "Modify Date"
-msgstr "Ngày điều chỉnh"
+msgstr ""
 
 #: src/properties.cpp:242
 msgid "The date and time the resource was last modified. Note: The value of this property is not necessarily the same as the file's system modification date because it is set before the file is saved."
@@ -13024,7 +13024,7 @@ msgstr ""
 
 #: src/properties.cpp:246 src/properties.cpp:1571 src/properties.cpp:2387
 msgid "Rating"
-msgstr "Đánh giá"
+msgstr ""
 
 #: src/properties.cpp:246
 msgid "A number that indicates a document's status relative to other documents, used to organize documents in a file browser. Values are user-defined within an application-defined range."
@@ -13040,7 +13040,7 @@ msgstr ""
 
 #: src/properties.cpp:256
 msgid "Certificate"
-msgstr "Chứng chỉ"
+msgstr ""
 
 #: src/properties.cpp:256
 msgid "Online rights management certificate."
@@ -13048,7 +13048,7 @@ msgstr ""
 
 #: src/properties.cpp:257
 msgid "Marked"
-msgstr "Đánh dấu"
+msgstr ""
 
 #: src/properties.cpp:257
 msgid "Indicates that this is a rights-managed resource."
@@ -13056,7 +13056,7 @@ msgstr ""
 
 #: src/properties.cpp:258
 msgid "Owner"
-msgstr "Chủ sở hữu"
+msgstr ""
 
 #: src/properties.cpp:258
 msgid "An unordered array specifying the legal owner(s) of a resource."
@@ -13096,7 +13096,7 @@ msgstr ""
 
 #: src/properties.cpp:273 src/properties.cpp:488
 msgid "History"
-msgstr "Lịch sử"
+msgstr ""
 
 #: src/properties.cpp:273
 msgid "An ordered array of high-level user actions that resulted in this resource. It is intended to give human readers a general indication of the steps taken to make the changes from the previous version to this one. The list should be at an abstract level; it is not intended to be an exhaustive keystroke or other detailed history."
@@ -13128,7 +13128,7 @@ msgstr ""
 
 #: src/properties.cpp:283
 msgid "Manager"
-msgstr "Người quản lý"
+msgstr ""
 
 #: src/properties.cpp:283
 msgid "The name of the asset management system that manages this resource. Along with xmpMM: ManagerVariant, it tells applications which asset management system to contact concerning this document."
@@ -13200,7 +13200,7 @@ msgstr ""
 
 #: src/properties.cpp:313
 msgid "Versions"
-msgstr "Phiên bản"
+msgstr ""
 
 #: src/properties.cpp:313
 msgid "The version history associated with this resource. Entry [1] is the oldest known version for this document, entry [last()] is the most recent version. Typically, a media management system would fill in the version information in the metadata on check-in. It is not guaranteed that a complete history  versions from the first to this one will be present in the xmpMM:Versions property. Interior version information can be compressed or eliminated and the version history can be truncated at some point."
@@ -13240,27 +13240,27 @@ msgstr ""
 
 #: src/properties.cpp:337
 msgid "Maximum Page Size"
-msgstr "Kích cỡ Trang Lớn nhất"
+msgstr ""
 
 #: src/properties.cpp:337
 msgid "The size of the largest page in the document (including any in contained documents)."
-msgstr "Kích cỡ của trang lớn nhất trong văn bản (bao gồm bất cứ những gì chứa trong văn bản)"
+msgstr ""
 
 #: src/properties.cpp:338
 msgid "Number of Pages"
-msgstr "Số trang"
+msgstr ""
 
 #: src/properties.cpp:338
 msgid "The number of pages in the document (including any in contained documents)."
-msgstr "Số lượng các trang trong văn bản (bao gồm bất cứ những gì chứa trong văn bản)"
+msgstr ""
 
 #: src/properties.cpp:339
 msgid "Fonts"
-msgstr "Phông chữ"
+msgstr ""
 
 #: src/properties.cpp:339
 msgid "An unordered array of fonts that are used in the document (including any in contained documents)."
-msgstr "Một mảng không thứ tự các phông chữ được sử dụng trong tài liệu (bao gồm tất cả chứa trong tài liệu)."
+msgstr ""
 
 #: src/properties.cpp:340
 msgid "Colorants"
@@ -13288,7 +13288,7 @@ msgstr ""
 
 #: src/properties.cpp:348 src/properties.cpp:1337
 msgid "Album"
-msgstr "Anbom"
+msgstr ""
 
 #: src/properties.cpp:348 src/properties.cpp:1337
 msgid "The name of the album."
@@ -13313,7 +13313,7 @@ msgstr ""
 #: src/properties.cpp:352 src/properties.cpp:798 src/properties.cpp:1341
 #: src/tags.cpp:559
 msgid "Artist"
-msgstr "Nghệ sĩ"
+msgstr ""
 
 #: src/properties.cpp:352 src/properties.cpp:1341
 msgid "The name of the artist or artists."
@@ -13329,7 +13329,7 @@ msgstr ""
 
 #: src/properties.cpp:354 src/properties.cpp:1683
 msgid "Audio Channel Type"
-msgstr "Kiểu kênh âm thanh"
+msgstr ""
 
 #: src/properties.cpp:354
 msgid "The audio channel type. One of: Mono, Stereo, 5.1, 7.1, 16 Channel, Other."
@@ -13337,23 +13337,23 @@ msgstr ""
 
 #: src/properties.cpp:355 src/properties.cpp:1690
 msgid "Audio Compressor"
-msgstr "Bộ nén âm thanh"
+msgstr ""
 
 #: src/properties.cpp:355 src/properties.cpp:1690
 msgid "The audio compression used. For example, MP3."
-msgstr "Bộ nén âm thanh được sử dụng. Ví dụ, MP3."
+msgstr ""
 
 #: src/properties.cpp:356 src/properties.cpp:1708
 msgid "Audio Sample Rate"
-msgstr "Tỉ lệ mẫu âm thanh"
+msgstr ""
 
 #: src/properties.cpp:356
 msgid "The audio sample rate. Can be any value, but commonly 32000, 44100, or 48000."
-msgstr "Tỉ lệ mẫu âm thanh. Có thể là giá trị bất kì, thường là 32000, 44100, hay 48000."
+msgstr ""
 
 #: src/properties.cpp:357 src/properties.cpp:1709
 msgid "Audio Sample Type"
-msgstr "Kiểu mẫu âm thanh"
+msgstr ""
 
 #: src/properties.cpp:357
 msgid "The audio sample type. One of: 8Int, 16Int, 24Int, 32Int, 32Float, Compressed, Packed, Other."
@@ -13417,7 +13417,7 @@ msgstr ""
 
 #: src/properties.cpp:365 src/properties.cpp:1369
 msgid "Composer"
-msgstr "Tác giả"
+msgstr ""
 
 #: src/properties.cpp:365
 msgid "The composer's name."
@@ -13453,19 +13453,19 @@ msgstr ""
 
 #: src/properties.cpp:370 src/properties.cpp:1407
 msgid "Duration"
-msgstr "Thời lượng"
+msgstr ""
 
 #: src/properties.cpp:370
 msgid "The duration of the media file."
-msgstr "Độ dài của tập tin phương tiện"
+msgstr ""
 
 #: src/properties.cpp:371 src/properties.cpp:1426
 msgid "Engineer"
-msgstr "Kĩ sư"
+msgstr ""
 
 #: src/properties.cpp:371
 msgid "The engineer's name."
-msgstr "Tên kĩ sư"
+msgstr ""
 
 #: src/properties.cpp:372 src/properties.cpp:1432
 msgid "File Data Rate"
@@ -13489,15 +13489,15 @@ msgstr ""
 
 #: src/properties.cpp:375
 msgid "Instrument"
-msgstr "Dụng c"
+msgstr ""
 
 #: src/properties.cpp:375
 msgid "The musical instrument."
-msgstr "Nhạc c"
+msgstr ""
 
 #: src/properties.cpp:376
 msgid "Intro Time"
-msgstr "Thời gian mở"
+msgstr ""
 
 #: src/properties.cpp:376
 msgid "The duration of lead time for queuing music."
@@ -13505,7 +13505,7 @@ msgstr ""
 
 #: src/properties.cpp:377
 msgid "Key"
-msgstr "Khóa"
+msgstr ""
 
 #: src/properties.cpp:377
 msgid "The audio's musical key. One of: C, C#, D, D#, E, F, F#, G, G#, A, A#, B."
@@ -13513,15 +13513,15 @@ msgstr ""
 
 #: src/properties.cpp:378
 msgid "Log Comment"
-msgstr "Nhật kí bình luận"
+msgstr ""
 
 #: src/properties.cpp:378
 msgid "User's log comments."
-msgstr "Nhật kí bình luận của người dùng"
+msgstr ""
 
 #: src/properties.cpp:379
 msgid "Loop"
-msgstr "Vòng lặp"
+msgstr ""
 
 #: src/properties.cpp:379
 msgid "When true, the clip can be looped seamlessly."
@@ -13569,11 +13569,11 @@ msgstr ""
 
 #: src/properties.cpp:385 src/properties.cpp:1568
 msgid "Project Reference"
-msgstr "Liên kết dự án"
+msgstr ""
 
 #: src/properties.cpp:385 src/properties.cpp:1568
 msgid "A reference to the project that created this file."
-msgstr "Một liên kết đến dự án đã tạo tập tin này"
+msgstr ""
 
 #: src/properties.cpp:386
 msgid "Pull Down"
@@ -13629,11 +13629,11 @@ msgstr ""
 
 #: src/properties.cpp:394
 msgid "Shot Date"
-msgstr "Ngày quay"
+msgstr ""
 
 #: src/properties.cpp:394
 msgid "The date and time when the video was shot."
-msgstr "Ngày và giờ phim được quay"
+msgstr ""
 
 #: src/properties.cpp:395
 msgid "Shot Day"
@@ -13645,15 +13645,15 @@ msgstr ""
 
 #: src/properties.cpp:396
 msgid "Shot Location"
-msgstr "Địa điểm quay"
+msgstr ""
 
 #: src/properties.cpp:396
 msgid "The name of the location where the video was shot. For example: \"Oktoberfest, Munich Germany\" For more accurate positioning, use the EXIF GPS values."
-msgstr "Tên của địa điểm nơi phim được quay. Ví dụ:\"Oktoberfest, Munich Germany\" Đ63 có được vị trí chính xác hơn, sử dụng các giá trị EXIF GPS"
+msgstr ""
 
 #: src/properties.cpp:398
 msgid "Shot Name"
-msgstr "Tên phim"
+msgstr ""
 
 #: src/properties.cpp:398
 msgid "The name of the shot or take."
@@ -13717,7 +13717,7 @@ msgstr ""
 
 #: src/properties.cpp:409
 msgid "Tempo"
-msgstr "Nhịp điệu"
+msgstr ""
 
 #: src/properties.cpp:409
 msgid "The audio's tempo."
@@ -13781,43 +13781,43 @@ msgstr ""
 
 #: src/properties.cpp:418 src/properties.cpp:1364
 msgid "Video Color Space"
-msgstr "Không gian màu phim"
+msgstr ""
 
 #: src/properties.cpp:418 src/properties.cpp:1364
 msgid "The color space. One of: sRGB (used by Photoshop), CCIR-601 (used for NTSC), CCIR-709 (used for HD)."
-msgstr "Không gian màu phim. Một trong: sRGB (dùng bởi Photoshop), CCIR-601 (dùng cho NTSC), CCIR-709 (dùng cho HD)."
+msgstr ""
 
 #: src/properties.cpp:420
 msgid "Video Compressor"
-msgstr "Bộ nén ảnh"
+msgstr ""
 
 #: src/properties.cpp:420
 msgid "Video compression used. For example, jpeg."
-msgstr "Bộ nén ảnh được dùng. Ví dụ, jped."
+msgstr ""
 
 #: src/properties.cpp:421
 msgid "Video Field Order"
-msgstr "Thứ tự trường ảnh"
+msgstr ""
 
 #: src/properties.cpp:421
 msgid "The field order for video. One of: Upper, Lower, Progressive."
-msgstr "Thứ tự trường ảnh. Ví dụ: Trên, dưới, tịnh tiến"
+msgstr ""
 
 #: src/properties.cpp:422 src/properties.cpp:1446
 msgid "Video Frame Rate"
-msgstr "Tỉ lệ khung hình phim"
+msgstr ""
 
 #: src/properties.cpp:422
 msgid "The video frame rate. One of: 24, NTSC, PAL."
-msgstr "Tỉ lệ khung hình phim. Một trng: 24, NTSC, PAL."
+msgstr ""
 
 #: src/properties.cpp:423 src/properties.cpp:1447
 msgid "Video Frame Size"
-msgstr "Kích cỡ khung hình phim"
+msgstr ""
 
 #: src/properties.cpp:423 src/properties.cpp:1447
 msgid "The frame size. For example: w:720, h: 480, unit:pixels"
-msgstr "Kích cỡ khung hình. Ví dụ: w:720, h: 480, unit:pixels"
+msgstr ""
 
 #: src/properties.cpp:424
 msgid "Video Modified Date"
@@ -13885,15 +13885,15 @@ msgstr ""
 
 #: src/properties.cpp:439
 msgid "Flash Manufacturer"
-msgstr "Nhà sản xuất đèn chớp"
+msgstr ""
 
 #: src/properties.cpp:439
 msgid "Flash Manufacturer."
-msgstr "Nhà sản xuất đèn chớp."
+msgstr ""
 
 #: src/properties.cpp:440
 msgid "Flash Model."
-msgstr "Mẫu đèn chớp"
+msgstr ""
 
 #: src/properties.cpp:441
 msgid "Last Keyword IPTC"
@@ -13913,15 +13913,15 @@ msgstr ""
 
 #: src/properties.cpp:443
 msgid "Lens Manufacturer"
-msgstr "Nhà sản xuất ống k"
+msgstr ""
 
 #: src/properties.cpp:443
 msgid "Lens Manufacturer."
-msgstr "Nhà sản xuất ống kính."
+msgstr ""
 
 #: src/properties.cpp:444 src/properties.cpp:1482
 msgid "Lens Model."
-msgstr "Kiểu ống kính."
+msgstr ""
 
 #: src/properties.cpp:445
 msgid "Rating Percent"
@@ -13949,19 +13949,19 @@ msgstr ""
 
 #: src/properties.cpp:458
 msgid "Keywords."
-msgstr "Từ khóa."
+msgstr ""
 
 #: src/properties.cpp:459
 msgid "PDF Version"
-msgstr "Phiên bản PDF"
+msgstr ""
 
 #: src/properties.cpp:459
 msgid "The PDF file version (for example: 1.0, 1.3, and so on)."
-msgstr "Tập tin phiên bản PDF (ví dụ: 1.0, 1.3, và tiếp tục)."
+msgstr ""
 
 #: src/properties.cpp:460 src/properties.cpp:1561
 msgid "Producer"
-msgstr "Nhà sản xuất"
+msgstr ""
 
 #: src/properties.cpp:460
 msgid "The name of the tool that created the PDF document."
@@ -13981,7 +13981,7 @@ msgstr ""
 
 #: src/properties.cpp:471
 msgid "Headline."
-msgstr "Tiêu đề."
+msgstr ""
 
 #: src/properties.cpp:472
 msgid "Country/primary location."
@@ -13989,11 +13989,11 @@ msgstr ""
 
 #: src/properties.cpp:473
 msgid "Province/state."
-msgstr "Tỉnh/Bang"
+msgstr ""
 
 #: src/properties.cpp:474
 msgid "City."
-msgstr "Thành phố."
+msgstr ""
 
 #: src/properties.cpp:475
 msgid "Credit."
@@ -14013,7 +14013,7 @@ msgstr ""
 
 #: src/properties.cpp:477
 msgid "Writer/editor."
-msgstr "Tác giả/biên tập viên"
+msgstr ""
 
 #: src/properties.cpp:478
 msgid "Category. Limited to 3 7-bit ASCII characters."
@@ -14021,11 +14021,11 @@ msgstr ""
 
 #: src/properties.cpp:479
 msgid "Special instructions."
-msgstr "Chỉ dẫn đặc biệt"
+msgstr ""
 
 #: src/properties.cpp:480 src/properties.cpp:1589
 msgid "Source."
-msgstr "Nguồn."
+msgstr ""
 
 #: src/properties.cpp:481
 msgid "Supplemental category."
@@ -14161,7 +14161,7 @@ msgstr ""
 
 #: src/properties.cpp:518
 msgid "Auto Contrast"
-msgstr "Tương phản tự động"
+msgstr ""
 
 #: src/properties.cpp:518
 msgid "When true, \"Contrast\" is automatically adjusted."
@@ -14169,7 +14169,7 @@ msgstr ""
 
 #: src/properties.cpp:519
 msgid "Auto Exposure"
-msgstr "Phơi sáng tự động"
+msgstr ""
 
 #: src/properties.cpp:519
 msgid "When true, \"Exposure\" is automatically adjusted."
@@ -14177,11 +14177,11 @@ msgstr ""
 
 #: src/properties.cpp:520
 msgid "Auto Shadows"
-msgstr "Đổ bóng tự động"
+msgstr ""
 
 #: src/properties.cpp:520
 msgid "When true,\"Shadows\" is automatically adjusted."
-msgstr "Khi đúng, \"Bóng\" sẽ được từ động điều chỉnh"
+msgstr ""
 
 #: src/properties.cpp:521
 msgid "Blue Hue"
@@ -14229,7 +14229,7 @@ msgstr ""
 
 #: src/properties.cpp:527 src/properties.cpp:1363
 msgid "Color Noise Reduction"
-msgstr "Tiêu giảm độ nhiễu màu sác"
+msgstr ""
 
 #: src/properties.cpp:527 src/properties.cpp:1363
 msgid "\"Color Noise Reduction\" setting. Range 0 to +100."
@@ -14237,7 +14237,7 @@ msgstr ""
 
 #: src/properties.cpp:528
 msgid "\"Contrast\" setting. Range -50 to +100."
-msgstr "Tùy chỉnh \"Độ tương phản\". Khoảng từ -50 tới +100."
+msgstr ""
 
 #: src/properties.cpp:529
 msgid "When \"Has Crop\" is true, top of crop rectangle"
@@ -14333,11 +14333,11 @@ msgstr ""
 
 #: src/properties.cpp:543
 msgid "Raw File Name"
-msgstr "Tên tập tin gốc"
+msgstr ""
 
 #: src/properties.cpp:543
 msgid "File name of raw file (not a complete path)."
-msgstr "Tên tập tin của tập tin gốc (không phải đường dẫn hoàn toàn)"
+msgstr ""
 
 #: src/properties.cpp:544
 msgid "Red Hue"
@@ -14377,11 +14377,11 @@ msgstr ""
 
 #: src/properties.cpp:549 src/properties.cpp:1584
 msgid "\"Sharpness\" setting. Range 0 to +100."
-msgstr "Tùy chỉnh \"Độ mịn\". Khoảng từ 0 tới +100."
+msgstr ""
 
 #: src/properties.cpp:550
 msgid "\"Temperature\" setting. Range 2000 to 50000."
-msgstr "Tùy chỉnh \"nhiệt độ\". Khoảng từ 2000 tới 50000."
+msgstr ""
 
 #: src/properties.cpp:551
 msgid "Tint"
@@ -15236,7 +15236,7 @@ msgstr ""
 
 #: src/properties.cpp:758 src/properties.cpp:1471 src/tags.cpp:427
 msgid "Image Length"
-msgstr "Chiều dài hình ảnh"
+msgstr ""
 
 #: src/properties.cpp:758
 msgid "TIFF tag 257, 0x101. Image height in pixels."
@@ -15304,7 +15304,7 @@ msgstr ""
 
 #: src/properties.cpp:777 src/properties.cpp:1673
 msgid "X Resolution"
-msgstr "Độ phân giải X"
+msgstr ""
 
 #: src/properties.cpp:777
 msgid "TIFF tag 282, 0x11A. Horizontal resolution in pixels per unit."
@@ -15312,7 +15312,7 @@ msgstr ""
 
 #: src/properties.cpp:778 src/properties.cpp:1675
 msgid "Y Resolution"
-msgstr "Độ phân giải Y"
+msgstr ""
 
 #: src/properties.cpp:778
 msgid "TIFF tag 283, 0x11B. Vertical resolution in pixels per unit."
@@ -15336,7 +15336,7 @@ msgstr ""
 
 #: src/properties.cpp:783 src/tags.cpp:575
 msgid "White Point"
-msgstr "Điểm trắng"
+msgstr ""
 
 #: src/properties.cpp:783
 msgid "TIFF tag 318, 0x13E. Chromaticity of white point."
@@ -15364,7 +15364,7 @@ msgstr ""
 
 #: src/properties.cpp:787 src/properties.cpp:2385 src/tags.cpp:555
 msgid "Date and Time"
-msgstr "Ngày và Giờ"
+msgstr ""
 
 #: src/properties.cpp:787
 msgid "TIFF tag 306, 0x132 (primary) and EXIF tag 37520, 0x9290 (subseconds). Date and time of image creation (no time zone in EXIF), stored in ISO 8601 format, not the original EXIF format. This property includes the value for the EXIF SubSecTime attribute. NOTE: This property is stored in XMP as xmp:ModifyDate."
@@ -15372,7 +15372,7 @@ msgstr ""
 
 #: src/properties.cpp:793 src/tags.cpp:465
 msgid "Image Description"
-msgstr "Miêu tả hình ảnh"
+msgstr ""
 
 #: src/properties.cpp:793
 msgid "TIFF tag 270, 0x10E. Description of the image. Note: This property is stored in XMP as dc:description."
@@ -15456,7 +15456,7 @@ msgstr ""
 
 #: src/properties.cpp:816 src/tags.cpp:1720
 msgid "User Comment"
-msgstr "Chú thích của người dùng"
+msgstr ""
 
 #: src/properties.cpp:816
 msgid "EXIF tag 37510, 0x9286. Comments from user."
@@ -15464,7 +15464,7 @@ msgstr ""
 
 #: src/properties.cpp:817 src/tags.cpp:1762
 msgid "Related Sound File"
-msgstr "Tập tin âm thanh có liên quan"
+msgstr ""
 
 #: src/properties.cpp:817
 msgid "EXIF tag 40964, 0xA004. An \"8.3\" file name for the related sound file."
@@ -15472,7 +15472,7 @@ msgstr ""
 
 #: src/properties.cpp:818 src/properties.cpp:1393
 msgid "Date and Time Original"
-msgstr "Ngày và giờ ban đầu"
+msgstr ""
 
 #: src/properties.cpp:818
 msgid "EXIF tags 36867, 0x9003 (primary) and 37521, 0x9291 (subseconds). Date and time when original image was generated, in ISO 8601 format. Includes the EXIF SubSecTimeOriginal data."
@@ -15492,7 +15492,7 @@ msgstr ""
 
 #: src/properties.cpp:826 src/properties.cpp:1440
 msgid "F Number"
-msgstr "Số F"
+msgstr ""
 
 #: src/properties.cpp:826
 msgid "EXIF tag 33437, 0x829D. F number."
@@ -15536,7 +15536,7 @@ msgstr ""
 
 #: src/properties.cpp:834 src/tags.cpp:831
 msgid "Brightness Value"
-msgstr "Giá trị sáng"
+msgstr ""
 
 #: src/properties.cpp:834
 msgid "EXIF tag 37379, 0x9203. Brightness, unit is APEX."
@@ -15548,7 +15548,7 @@ msgstr ""
 
 #: src/properties.cpp:836 src/properties.cpp:1494
 msgid "Maximum Aperture Value"
-msgstr "Giá trị khẩu độ tối đa"
+msgstr ""
 
 #: src/properties.cpp:836
 msgid "EXIF tag 37381, 0x9205. Smallest F number of lens, in APEX."
@@ -15584,7 +15584,7 @@ msgstr ""
 
 #: src/properties.cpp:843 src/tags.cpp:839 src/tags.cpp:1777
 msgid "Flash Energy"
-msgstr "Năng lượng đèn chớp"
+msgstr ""
 
 #: src/properties.cpp:843
 msgid "EXIF tag 41483, 0xA20B. Strobe energy during image capture."
@@ -15760,7 +15760,7 @@ msgstr ""
 
 #: src/properties.cpp:875 src/properties.cpp:1456 src/tags.cpp:1991
 msgid "GPS Latitude"
-msgstr "GPS Vĩ độ"
+msgstr ""
 
 #: src/properties.cpp:875
 msgid "GPS tag 2, 0x02 (position) and 1, 0x01 (North/South). Indicates latitude."
@@ -15768,7 +15768,7 @@ msgstr ""
 
 #: src/properties.cpp:876 src/properties.cpp:1457 src/tags.cpp:2003
 msgid "GPS Longitude"
-msgstr "GPS Kinh độ"
+msgstr ""
 
 #: src/properties.cpp:876
 msgid "GPS tag 4, 0x04 (position) and 3, 0x03 (East/West). Indicates longitude."
@@ -15784,7 +15784,7 @@ msgstr ""
 
 #: src/properties.cpp:878 src/properties.cpp:1450 src/tags.cpp:2019
 msgid "GPS Altitude"
-msgstr "GPS Cao đô"
+msgstr ""
 
 #: src/properties.cpp:878 src/properties.cpp:1450
 msgid "GPS tag 6, 0x06. Indicates altitude in meters."
@@ -15801,7 +15801,7 @@ msgstr ""
 
 #: src/properties.cpp:885 src/properties.cpp:1459 src/tags.cpp:2028
 msgid "GPS Satellites"
-msgstr "Vệ tinh GPS"
+msgstr ""
 
 #: src/properties.cpp:885
 msgid "GPS tag 8, 0x08. Satellite information, format is unspecified."
@@ -15809,7 +15809,7 @@ msgstr ""
 
 #: src/properties.cpp:886 src/tags.cpp:2035
 msgid "GPS Status"
-msgstr "Tình trạng GPS"
+msgstr ""
 
 #: src/properties.cpp:886
 msgid "GPS tag 9, 0x09. Status of GPS receiver at image creation time."
@@ -15817,7 +15817,7 @@ msgstr ""
 
 #: src/properties.cpp:887 src/tags.cpp:2040
 msgid "GPS Measure Mode"
-msgstr "GPS Chế độ Đo lường"
+msgstr ""
 
 #: src/properties.cpp:887
 msgid "GPS tag 10, 0x0A. GPS measurement mode, Text type."
@@ -15841,7 +15841,7 @@ msgstr ""
 
 #: src/properties.cpp:890 src/tags.cpp:2052
 msgid "GPS Speed"
-msgstr "GPS Tốc độ"
+msgstr ""
 
 #: src/properties.cpp:890
 msgid "GPS tag 13, 0x0D. Speed of GPS receiver movement."
@@ -16246,7 +16246,7 @@ msgstr ""
 #: src/properties.cpp:987 src/properties.cpp:1243 src/properties.cpp:1252
 #: src/properties.cpp:1916
 msgid "Event"
-msgstr "Sự kiện"
+msgstr ""
 
 #: src/properties.cpp:987
 msgid "Names or describes the specific event at which the photo was taken."
@@ -16318,11 +16318,11 @@ msgstr ""
 
 #: src/properties.cpp:996
 msgid "Location-City"
-msgstr "Vị trí-Thành phố"
+msgstr ""
 
 #: src/properties.cpp:996
 msgid "Name of the city of a location."
-msgstr "Tên của thành phố tại vị trí đó."
+msgstr ""
 
 #: src/properties.cpp:997
 msgid "Location-Country ISO-Code"
@@ -16334,7 +16334,7 @@ msgstr ""
 
 #: src/properties.cpp:998
 msgid "Location-Country Name"
-msgstr "Địa điểm-Tên Quốc gia"
+msgstr ""
 
 #: src/properties.cpp:998
 msgid "The name of a country of a location."
@@ -16774,11 +16774,11 @@ msgstr ""
 
 #: src/properties.cpp:1066
 msgid "Terms and Conditions Text"
-msgstr "Văn bản điều khoản và điều kiện"
+msgstr ""
 
 #: src/properties.cpp:1066
 msgid "Terms and Conditions applying to the license."
-msgstr "Điều khoản và điều kiện áp dụng vào giấy phép"
+msgstr ""
 
 #: src/properties.cpp:1067
 msgid "Terms and Conditions URL"
@@ -16790,7 +16790,7 @@ msgstr ""
 
 #: src/properties.cpp:1068
 msgid "Other License Conditions"
-msgstr "Các điều khoản về giấy phép khác"
+msgstr ""
 
 #: src/properties.cpp:1068
 msgid "Additional license conditions."
@@ -17039,15 +17039,15 @@ msgstr ""
 
 #: src/properties.cpp:1102
 msgid "Custom 4"
-msgstr "Tùy chỉnh 4"
+msgstr ""
 
 #: src/properties.cpp:1103
 msgid "Custom 5"
-msgstr "Tùy chỉnh 5"
+msgstr ""
 
 #: src/properties.cpp:1104
 msgid "Custom 6"
-msgstr "Tùy chỉnh 6"
+msgstr ""
 
 #: src/properties.cpp:1104 src/properties.cpp:1105 src/properties.cpp:1106
 #: src/properties.cpp:1107 src/properties.cpp:1108
@@ -17056,19 +17056,19 @@ msgstr ""
 
 #: src/properties.cpp:1105
 msgid "Custom 7"
-msgstr "Tùy chỉnh 7"
+msgstr ""
 
 #: src/properties.cpp:1106
 msgid "Custom 8"
-msgstr "Tùy chỉnh 8"
+msgstr ""
 
 #: src/properties.cpp:1107
 msgid "Custom 9"
-msgstr "Tùy chỉnh 9"
+msgstr ""
 
 #: src/properties.cpp:1108
 msgid "Custom 10"
-msgstr "Tùy chỉnh 10"
+msgstr ""
 
 #: src/properties.cpp:1115
 msgid "Adult Content Warning Required"
@@ -18503,7 +18503,7 @@ msgstr ""
 
 #: src/properties.cpp:1480
 msgid "Language."
-msgstr "Ngôn ngữ."
+msgstr ""
 
 #: src/properties.cpp:1481
 msgid "Length"
@@ -18515,7 +18515,7 @@ msgstr ""
 
 #: src/properties.cpp:1483
 msgid "Lens Type."
-msgstr "Kiểu Ống kính."
+msgstr ""
 
 #: src/properties.cpp:1484
 msgid "Lightness"
@@ -18663,7 +18663,7 @@ msgstr ""
 
 #: src/properties.cpp:1503
 msgid "Medium."
-msgstr "Trung bình."
+msgstr ""
 
 #: src/properties.cpp:1504
 msgid "Metadata"
@@ -18683,7 +18683,7 @@ msgstr ""
 
 #: src/properties.cpp:1506
 msgid "Metering mode."
-msgstr "Chế độ đo đạc."
+msgstr ""
 
 #: src/properties.cpp:1507
 msgid "Micro Seconds Per Frame"
@@ -19375,7 +19375,7 @@ msgstr ""
 
 #: src/properties.cpp:1616
 msgid "Subject."
-msgstr "Vật thể."
+msgstr ""
 
 #: src/properties.cpp:1617
 msgid "TapeName."
@@ -19771,7 +19771,7 @@ msgstr ""
 
 #: src/properties.cpp:1683
 msgid "The audio channel type. One of: Mono, Stereo, 5.1, 7.1."
-msgstr "Kiểu kênh âm thanh. Một trong số: Mono, Streo, 5.1,7.1."
+msgstr ""
 
 #: src/properties.cpp:1684
 msgid "Audio Codec"
@@ -19871,11 +19871,11 @@ msgstr ""
 
 #: src/properties.cpp:1708
 msgid "The audio sample rate. Can be any value, but commonly 32000, 41100, or 48000."
-msgstr "Tỉ lệ mẫu âm thanh. Có thể là giá trị bất kì, thường là 32000, 41100, hay 48000."
+msgstr ""
 
 #: src/properties.cpp:1709
 msgid "The audio sample type. One of: 8Int, 16Int, 32Int, 32Float."
-msgstr "Kiểu mẫu âm thanh. Một trong: 8Int, 16Int, 32Int, 32Float."
+msgstr ""
 
 #: src/properties.cpp:1710
 msgid "Sound Scheme Title"
@@ -21993,7 +21993,7 @@ msgstr ""
 
 #: src/sonymn.cpp:705 src/sonymn.cpp:706
 msgid "Image Style"
-msgstr "Kiểu ảnh"
+msgstr ""
 
 #: src/sonymn.cpp:731
 msgid "Unknown Sony1 Camera Settings tag"
@@ -22009,7 +22009,7 @@ msgstr ""
 
 #: src/tags.cpp:191
 msgid "Image data structure"
-msgstr "Cấu trúc dữ liệu ảnh"
+msgstr ""
 
 #: src/tags.cpp:192
 msgid "Recording offset"
@@ -22021,35 +22021,35 @@ msgstr ""
 
 #: src/tags.cpp:194
 msgid "Other data"
-msgstr "Dữ liệu khác"
+msgstr ""
 
 #: src/tags.cpp:195
 msgid "Exif data structure"
-msgstr "Cấu trúc dữ liệu Exif"
+msgstr ""
 
 #: src/tags.cpp:197
 msgid "Image configuration"
-msgstr "Cấu hình ảnh"
+msgstr ""
 
 #: src/tags.cpp:198
 msgid "User information"
-msgstr "Thông tin người dùng"
+msgstr ""
 
 #: src/tags.cpp:199
 msgid "Related file"
-msgstr "Tập tin liên quan"
+msgstr ""
 
 #: src/tags.cpp:200
 msgid "Date and time"
-msgstr "Ngày và giờ"
+msgstr ""
 
 #: src/tags.cpp:201
 msgid "Picture taking conditions"
-msgstr "Điều kiện chụp ảnh"
+msgstr ""
 
 #: src/tags.cpp:202
 msgid "GPS information"
-msgstr "Thông tin GPS"
+msgstr ""
 
 #: src/tags.cpp:203
 msgid "Interoperability information"
@@ -22061,79 +22061,79 @@ msgstr ""
 
 #: src/tags.cpp:205
 msgid "Vendor specific information"
-msgstr "Thông tin cụ thể nhà cung cấp"
+msgstr ""
 
 #: src/tags.cpp:206
 msgid "Adobe DNG tags"
-msgstr "Thẻ Adobe DNG"
+msgstr ""
 
 #: src/tags.cpp:207
 msgid "Panasonic RAW tags"
-msgstr "Thẻ Panasonic RAW"
+msgstr ""
 
 #: src/tags.cpp:208
 msgid "TIFF/EP tags"
-msgstr "Thẻ TIFF/EP"
+msgstr ""
 
 #: src/tags.cpp:209
 msgid "TIFF PageMaker 6.0 tags"
-msgstr "Thẻ TIFF PageMaker 6.0"
+msgstr ""
 
 #: src/tags.cpp:210
 msgid "Adobe OPI tags"
-msgstr "Thẻ Adobe OPI"
+msgstr ""
 
 #: src/tags.cpp:211
 msgid "Last section"
-msgstr "Phần cuối"
+msgstr ""
 
 #: src/tags.cpp:227
 msgid "Primary image"
-msgstr "Ảnh chính"
+msgstr ""
 
 #: src/tags.cpp:228
 msgid "Thumbnail/Preview image"
-msgstr "Ảnh nhỏ/xem trước"
+msgstr ""
 
 #: src/tags.cpp:229
 msgid "Primary image, Multi page file"
-msgstr "Ảnh chính, tập tin nhiều trang"
+msgstr ""
 
 #: src/tags.cpp:230
 msgid "Thumbnail/Preview image, Multi page file"
-msgstr "Ảnh nhỏ/xem trước, tập tin nhiều trang"
+msgstr ""
 
 #: src/tags.cpp:231
 msgid "Primary image, Transparency mask"
-msgstr "Ảnh chính, mặt nạ trong suốt"
+msgstr ""
 
 #: src/tags.cpp:232
 msgid "Thumbnail/Preview image, Transparency mask"
-msgstr "Ảnh nhỏ/xem trước, mặt nạ trong suốt"
+msgstr ""
 
 #: src/tags.cpp:233
 msgid "Primary image, Multi page file, Transparency mask"
-msgstr "Ảnh chính, tập tin nhiều trang, mặt nạ trong suốt"
+msgstr ""
 
 #: src/tags.cpp:234 src/tags.cpp:235
 msgid "Thumbnail/Preview image, Multi page file, Transparency mask"
-msgstr "Ảnh nhỏ/xem trước, tập tin nhiều trang, mặt nạ trong suốt"
+msgstr ""
 
 #: src/tags.cpp:240
 msgid "Full-resolution image data"
-msgstr "Dữ liệu ảnh độ phân giải đầy đủ"
+msgstr ""
 
 #: src/tags.cpp:241
 msgid "Reduced-resolution image data"
-msgstr "Dữ liệu ảnh độ phân giải đã được giảm xuống"
+msgstr ""
 
 #: src/tags.cpp:242
 msgid "A single page of a multi-page image"
-msgstr "Một trang đơn của bức ảnh nhiều trang"
+msgstr ""
 
 #: src/tags.cpp:248
 msgid "inch"
-msgstr "insơ"
+msgstr ""
 
 #: src/tags.cpp:255
 msgid "CCITT RLE"
@@ -22141,11 +22141,11 @@ msgstr ""
 
 #: src/tags.cpp:256
 msgid "T4/Group 3 Fax"
-msgstr "Fax T4/Group 3"
+msgstr ""
 
 #: src/tags.cpp:257
 msgid "T6/Group 4 Fax"
-msgstr "Fax T6/Group 4"
+msgstr ""
 
 #: src/tags.cpp:258
 msgid "LZW"
@@ -22153,7 +22153,7 @@ msgstr ""
 
 #: src/tags.cpp:259
 msgid "JPEG (old-style)"
-msgstr "JPEG (kiểu cũ)"
+msgstr ""
 
 #: src/tags.cpp:260
 msgid "JPEG"
@@ -22169,7 +22169,7 @@ msgstr ""
 
 #: src/tags.cpp:263
 msgid "JBIG Color"
-msgstr "JBIG Màu"
+msgstr ""
 
 #: src/tags.cpp:264
 msgid "Next 2-bits RLE"
@@ -22177,15 +22177,15 @@ msgstr ""
 
 #: src/tags.cpp:265
 msgid "Epson ERF Compressed"
-msgstr "Epson ERF đã nén"
+msgstr ""
 
 #: src/tags.cpp:266
 msgid "Samsung SRW Compressed"
-msgstr "Samsung SRW đã nén"
+msgstr ""
 
 #: src/tags.cpp:267
 msgid "CCITT RLE 1-word"
-msgstr "CCITT RLE 1 từ"
+msgstr ""
 
 #: src/tags.cpp:268
 msgid "PackBits (Macintosh RLE)"
@@ -22225,7 +22225,7 @@ msgstr ""
 
 #: src/tags.cpp:277
 msgid "Kodak DCS Encoding"
-msgstr "Kodak DCS mã hoá"
+msgstr ""
 
 #: src/tags.cpp:278
 msgid "ISO JBIG"
@@ -22245,15 +22245,15 @@ msgstr ""
 
 #: src/tags.cpp:282
 msgid "Nikon NEF Compressed"
-msgstr "Nikon NEF đã nén"
+msgstr ""
 
 #: src/tags.cpp:283
 msgid "Kodak DCR Compressed"
-msgstr "Kodak DCR đã nén"
+msgstr ""
 
 #: src/tags.cpp:284
 msgid "Pentax PEF Compressed"
-msgstr "Pentax PEF đã nén"
+msgstr ""
 
 #: src/tags.cpp:289
 msgid "White Is Zero"
@@ -22269,11 +22269,11 @@ msgstr ""
 
 #: src/tags.cpp:292
 msgid "RGB Palette"
-msgstr "Bảng màu RGB"
+msgstr ""
 
 #: src/tags.cpp:293
 msgid "Transparency Mask"
-msgstr "Mặt nạ trong suốt"
+msgstr ""
 
 #: src/tags.cpp:294 src/tags.cpp:333
 msgid "CMYK"
@@ -22297,7 +22297,7 @@ msgstr ""
 
 #: src/tags.cpp:299
 msgid "Color Filter Array"
-msgstr "Mảng lọc màu"
+msgstr ""
 
 #: src/tags.cpp:300
 msgid "Pixar LogL"
@@ -22321,39 +22321,39 @@ msgstr ""
 
 #: src/tags.cpp:309
 msgid "Randomized process"
-msgstr "Tiến trình ngẫu nhiên"
+msgstr ""
 
 #: src/tags.cpp:314
 msgid "top, left"
-msgstr "trên, trái"
+msgstr ""
 
 #: src/tags.cpp:315
 msgid "top, right"
-msgstr "trên, phải"
+msgstr ""
 
 #: src/tags.cpp:316
 msgid "bottom, right"
-msgstr "dưới, phải"
+msgstr ""
 
 #: src/tags.cpp:317
 msgid "bottom, left"
-msgstr "dưới, trái"
+msgstr ""
 
 #: src/tags.cpp:318
 msgid "left, top"
-msgstr "trái, trên"
+msgstr ""
 
 #: src/tags.cpp:319
 msgid "right, top"
-msgstr "phải, trên"
+msgstr ""
 
 #: src/tags.cpp:320
 msgid "right, bottom"
-msgstr "phải, dưới"
+msgstr ""
 
 #: src/tags.cpp:321 src/tags.cpp:322
 msgid "left, bottom"
-msgstr "trái, dưới"
+msgstr ""
 
 #: src/tags.cpp:327
 msgid "No prediction scheme used"
@@ -22365,23 +22365,23 @@ msgstr ""
 
 #: src/tags.cpp:334
 msgid "not CMYK"
-msgstr "không phải CMYK"
+msgstr ""
 
 #: src/tags.cpp:339
 msgid "Unsigned integer data"
-msgstr "dữ liệu số nguyên không dấu"
+msgstr ""
 
 #: src/tags.cpp:340
 msgid "Two's complement signed integer data"
-msgstr "Dữ liệu số nguyên có dấu bù 2"
+msgstr ""
 
 #: src/tags.cpp:341
 msgid "IEEE floating point data"
-msgstr "dữ liệu dấu chấm động IEEE"
+msgstr ""
 
 #: src/tags.cpp:342 src/tags.cpp:343
 msgid "Undefined data format"
-msgstr "định dạng dữ liệu không xác định"
+msgstr ""
 
 #: src/tags.cpp:348
 msgid "Not indexed"
@@ -22421,7 +22421,7 @@ msgstr ""
 
 #: src/tags.cpp:365
 msgid "Centered"
-msgstr "Canh giữa"
+msgstr ""
 
 #: src/tags.cpp:366
 msgid "Co-sited"
@@ -22429,7 +22429,7 @@ msgstr ""
 
 #: src/tags.cpp:371
 msgid "No flash"
-msgstr "Không đèn chớp"
+msgstr ""
 
 #: src/tags.cpp:373
 msgid "Fired, return light not detected"
@@ -22465,39 +22465,39 @@ msgstr ""
 
 #: src/tags.cpp:381
 msgid "No, auto"
-msgstr "Không, tự động"
+msgstr ""
 
 #: src/tags.cpp:382
 msgid "Yes, auto"
-msgstr "Có, tự động"
+msgstr ""
 
 #: src/tags.cpp:383
 msgid "Yes, auto, return light not detected"
-msgstr "Có, tự động, ánh sáng trở về được phát hiện"
+msgstr ""
 
 #: src/tags.cpp:384
 msgid "Yes, auto, return light detected"
-msgstr "Có, tự động, ánh sáng trở về được phát hiện"
+msgstr ""
 
 #: src/tags.cpp:385
 msgid "No flash function"
-msgstr "Không có chức năng đèn chớp"
+msgstr ""
 
 #: src/tags.cpp:386
 msgid "No, no flash function"
-msgstr "không, không có chức năng đèn chớp"
+msgstr ""
 
 #: src/tags.cpp:387
 msgid "Yes, red-eye reduction"
-msgstr "Có, giảm mắt đỏ"
+msgstr ""
 
 #: src/tags.cpp:388
 msgid "Yes, red-eye reduction, return light not detected"
-msgstr "Có, giảm mắt đỏ, ánh sáng trở về không được phát hiện"
+msgstr ""
 
 #: src/tags.cpp:389
 msgid "Yes, red-eye reduction, return light detected"
-msgstr "Có, giảm mắt đỏ, ánh sáng trở về được phát hiện"
+msgstr ""
 
 #: src/tags.cpp:390
 msgid "Yes, compulsory, red-eye reduction"
@@ -22513,91 +22513,91 @@ msgstr ""
 
 #: src/tags.cpp:393
 msgid "No, red-eye reduction"
-msgstr "Không, giảm mắt đỏ"
+msgstr ""
 
 #: src/tags.cpp:394
 msgid "No, auto, red-eye reduction"
-msgstr "Không, tự động, giảm mắt đỏ"
+msgstr ""
 
 #: src/tags.cpp:395
 msgid "Yes, auto, red-eye reduction"
-msgstr "Có, tự động, giảm mắt đỏ"
+msgstr ""
 
 #: src/tags.cpp:396
 msgid "Yes, auto, red-eye reduction, return light not detected"
-msgstr "Có, tự động, giảm mắt đỏ, ánh sáng trở về không được phát hiện"
+msgstr ""
 
 #: src/tags.cpp:397
 msgid "Yes, auto, red-eye reduction, return light detected"
-msgstr "Có, tự động, giảm mắt đỏ, ánh sáng trở về được phát hiện"
+msgstr ""
 
 #: src/tags.cpp:402
 msgid "Rectangular (or square) layout"
-msgstr "Bố trí hình chữ nhật (hoặc vuông)"
+msgstr ""
 
 #: src/tags.cpp:403
 msgid "Staggered layout A: even columns are offset down by 1/2 row"
-msgstr "Bố trí so le A: cột chẵn được dời xuống dưới 1/2 dòng"
+msgstr ""
 
 #: src/tags.cpp:404
 msgid "Staggered layout B: even columns are offset up by 1/2 row"
-msgstr "Bố trí so le B: cột chẵn được dời lên trên 1/2 dòng"
+msgstr ""
 
 #: src/tags.cpp:405
 msgid "Staggered layout C: even rows are offset right by 1/2 column"
-msgstr "Bố trí so le C: dòng chẵn được dời sang phải 1/2 cột"
+msgstr ""
 
 #: src/tags.cpp:406
 msgid "Staggered layout D: even rows are offset left by 1/2 column"
-msgstr "Bố trí so le D: dòng chẵn được dời sang trái 1/2 cột"
+msgstr ""
 
 #: src/tags.cpp:411
 msgid "Processing Software"
-msgstr "Phần mềm xử lý"
+msgstr ""
 
 #: src/tags.cpp:412
 msgid "The name and version of the software used to post-process the picture."
-msgstr "Tên và phiên bản phần mềm đã dùng để xử lý hậu kỳ ảnh"
+msgstr ""
 
 #: src/tags.cpp:415
 msgid "New Subfile Type"
-msgstr "Kiểu tập tin con mới"
+msgstr ""
 
 #: src/tags.cpp:416
 msgid "A general indication of the kind of data contained in this subfile."
-msgstr "Sự chỉ chung về kiểu dữ liệu được chứa trong tập tin phụ này."
+msgstr ""
 
 #: src/tags.cpp:418
 msgid "Subfile Type"
-msgstr "Kiểu tập tin phụ"
+msgstr ""
 
 #: src/tags.cpp:419
 msgid "A general indication of the kind of data contained in this subfile. This field is deprecated. The NewSubfileType field should be used instead."
-msgstr "Sự chỉ chung về kiểu dữ liệu được chứa trong tập tin phụ này. Trường này thì bị phản đối. Trường NewSubfileType nên được dùng để thay thế."
+msgstr ""
 
 #: src/tags.cpp:423
 msgid "The number of columns of image data, equal to the number of pixels per row. In JPEG compressed data a JPEG marker is used instead of this tag."
-msgstr "Số cột dữ liệu ảnh, bằng số điểm ảnh trong mỗi hàng. Trong dữ liệu đã nén JPEG, một dấu hiệu JPEG được dùng thay vào thẻ này."
+msgstr ""
 
 #: src/tags.cpp:428
 msgid "The number of rows of image data. In JPEG compressed data a JPEG marker is used instead of this tag."
-msgstr "Số hàng dữ liệu ảnh. Trong dữ liệu đã nén JPEG, một dấu hiệu JPEG được dùng thay vào thẻ này."
+msgstr ""
 
 #: src/tags.cpp:431
 msgid "Bits per Sample"
-msgstr "Bit trên mẫu"
+msgstr ""
 
 #: src/tags.cpp:432
 msgid "The number of bits per image component. In this standard each component of the image is 8 bits, so the value for this tag is 8. See also <SamplesPerPixel>. In JPEG compressed data a JPEG marker is used instead of this tag."
-msgstr "Số bit trong mỗi thành phần ảnh. Đối với tiêu chuẩn này, mỗi thành phần của ảnh chiếm 8 bit, thì giá trị của thẻ này là 8. Xem thêm <SamplesPerPixel> (mẫu trên điểm ảnh). Trong dữ liệu đã nén JPEG, một dấu hiệu JPEG được dùng thay vào thẻ này."
+msgstr ""
 
 #: src/tags.cpp:438
 msgid "The compression scheme used for the image data. When a primary image is JPEG compressed, this designation is not necessary and is omitted. When thumbnails use JPEG compression, this tag value is set to 6."
-msgstr "Lược đồ nén được dùng cho dữ liệu ảnh. Khi một ảnh chính được nén dạng JPEG, sự chỉ định này không cần thiết và bị bỏ đi. Khi hình thu nhỏ dùng JPEG nén, giá trị thẻ này được đặt là 6."
+msgstr ""
 
 #: src/tags.cpp:444
 msgid "The pixel composition. In JPEG compressed data a JPEG marker is used instead of this tag."
-msgstr "Sự hợp thành điểm ảnh. Trong dữ liệu đã nén JPEG, một dấu hiệu JPEG được dùng thay vào thẻ này."
+msgstr ""
 
 #: src/tags.cpp:447
 msgid "Thresholding"
@@ -22625,79 +22625,79 @@ msgstr ""
 
 #: src/tags.cpp:459
 msgid "Fill Order"
-msgstr "Thứ tự tô đầy"
+msgstr ""
 
 #: src/tags.cpp:460
 msgid "The logical order of bits within a byte"
-msgstr "Thứ tự luận lý của bit trong một byte"
+msgstr ""
 
 #: src/tags.cpp:462
 msgid "Document Name"
-msgstr "Tên tài liệu"
+msgstr ""
 
 #: src/tags.cpp:463
 msgid "The name of the document from which this image was scanned"
-msgstr "Tên của tài liệu mà bức ảnh này được quét"
+msgstr ""
 
 #: src/tags.cpp:466
 msgid "A character string giving the title of the image. It may be a comment such as \"1988 company picnic\" or the like. Two-bytes character codes cannot be used. When a 2-bytes code is necessary, the Exif Private tag <UserComment> is to be used."
-msgstr "Chuỗi kí tự chỉ tên ảnh. Nó có thể là chú thích như \"Đi chơi với bạn bè\". Không thể sử dụng mã ký tự byte đôi. Khi mã byte đôi cần thiết, hãy dùng thẻ Exif riêng <UserComment>."
+msgstr ""
 
 #: src/tags.cpp:473
 msgid "The manufacturer of the recording equipment. This is the manufacturer of the DSC, scanner, video digitizer or other equipment that generated the image. When the field is left blank, it is treated as unknown."
-msgstr "Hãng chế tạo thiết bị thu. Nó là hãng chế tạo DSC, máy quét, bộ số tự hóa ảnh động hay thiết bị khác đã tạo ra ảnh. Khi trường trống, nó được xem là không biết."
+msgstr ""
 
 #: src/tags.cpp:479
 msgid "The model name or model number of the equipment. This is the model name or number of the DSC, scanner, video digitizer or other equipment that generated the image. When the field is left blank, it is treated as unknown."
-msgstr "Tên hay số mô hình của thiết bị. Giá trị này là tên hay số mô hình của DSC, máy quét, bộ số tự hóa ảnh động hay thiết bị khác đã tạo ra ảnh. Khi trường trống, nó được xem là không biết."
+msgstr ""
 
 #: src/tags.cpp:485
 msgid "For each strip, the byte offset of that strip. It is recommended that this be selected so the number of strip bytes does not exceed 64 Kbytes. With JPEG compressed data this designation is not needed and is omitted. See also <RowsPerStrip> and <StripByteCounts>."
-msgstr "Cho mỗi mảnh, hiệu số byte của mảnh đó. Khuyên chọn nó để bảo đảm số byte mảnh không phải hơn 64 Kb. Đối với dữ liệu đã nén JPEG, chỉ định này không cần thiết và bị bỏ đi. Xem thêm <RowsPerStrip> và <StripByteCounts>."
+msgstr ""
 
 #: src/tags.cpp:492
 msgid "The image orientation viewed in terms of rows and columns."
-msgstr "Hướng của ảnh, được xem theo hàng và cột."
+msgstr ""
 
 #: src/tags.cpp:494
 msgid "Samples per Pixel"
-msgstr "Mẫu trên mỗi điểm ảnh"
+msgstr ""
 
 #: src/tags.cpp:495
 msgid "The number of components per pixel. Since this standard applies to RGB and YCbCr images, the value set for this tag is 3. In JPEG compressed data a JPEG marker is used instead of this tag."
-msgstr "Số thành phần trên mỗi điểm ảnh. Vì tiêu chuẩn này áp dụng vào ảnh kiểu RGB và YCbCr, giá trị được đặt cho thẻ này là 3. Trong dữ liệu đã nén JPEG, một dấu hiệu JPEG được dùng thay vào thẻ này."
+msgstr ""
 
 #: src/tags.cpp:499
 msgid "Rows per Strip"
-msgstr "Hàng trên mảnh"
+msgstr ""
 
 #: src/tags.cpp:500
 msgid "The number of rows per strip. This is the number of rows in the image of one strip when an image is divided into strips. With JPEG compressed data this designation is not needed and is omitted. See also <StripOffsets> and <StripByteCounts>."
-msgstr "Số hàng trên mỗi mảnh, số hàng trong ảnh của một mãnh khi ảnh chia cho nhiều mảnh. Đối với dữ liệu đã nén JPEG, không cần sự định này và nó bị bỏ đi. Xem them <StripOffsets> và <StripByteCounts>."
+msgstr ""
 
 #: src/tags.cpp:505
 msgid "Strip Byte Count"
-msgstr "Số byte mảnh"
+msgstr ""
 
 #: src/tags.cpp:506
 msgid "The total number of bytes in each strip. With JPEG compressed data this designation is not needed and is omitted."
-msgstr "Tổng số byte trên mỗi mảnh. Trong dữ liệu đã nén JPEG không cần sự định này và nó bị bỏ đi."
+msgstr ""
 
 #: src/tags.cpp:509
 msgid "X-Resolution"
-msgstr "Độ phân giải X"
+msgstr ""
 
 #: src/tags.cpp:510
 msgid "The number of pixels per <ResolutionUnit> in the <ImageWidth> direction. When the image resolution is unknown, 72 [dpi] is designated."
-msgstr "Số điểm ảnh trên mỗi đơn vị phân giải <ResolutionUnit> về chiều rộng<ImageWidth>. Khi không biết độ phân giải của ảnh, được chỉ định là 72 [dpi]."
+msgstr ""
 
 #: src/tags.cpp:513
 msgid "Y-Resolution"
-msgstr "Độ phân giải Y"
+msgstr ""
 
 #: src/tags.cpp:514
 msgid "The number of pixels per <ResolutionUnit> in the <ImageLength> direction. The same value as <XResolution> is designated."
-msgstr "Số điểm ảnh trên mỗi đơn vị phân giải <ResolutionUnit> về chiều cao<ImageLength>. Khi không biết độ phân giải của ảnh, được chỉ định là 72 [dpi]."
+msgstr ""
 
 #: src/tags.cpp:518
 msgid "Indicates whether pixel components are recorded in a chunky or planar format. In JPEG compressed files a JPEG marker is used instead of this tag. If this field does not exist, the TIFF default of 1 (chunky) is assumed."
@@ -22721,23 +22721,23 @@ msgstr ""
 
 #: src/tags.cpp:529
 msgid "T4 Options"
-msgstr "Tuỳ chọn T4"
+msgstr ""
 
 #: src/tags.cpp:530
 msgid "T.4-encoding options."
-msgstr "Tuỳ chọn mã hoá T.4."
+msgstr ""
 
 #: src/tags.cpp:532
 msgid "T6 Options"
-msgstr "Tuỳ chọn T6"
+msgstr ""
 
 #: src/tags.cpp:533
 msgid "T.6-encoding options."
-msgstr "Tuỳ chọn mã hoá T.6."
+msgstr ""
 
 #: src/tags.cpp:536
 msgid "The unit for measuring <XResolution> and <YResolution>. The same unit is used for both <XResolution> and <YResolution>. If the image resolution is unknown, 2 (inches) is designated."
-msgstr "Đơn vị đo độ phân giải X <XResolution> và độ phân giải Y <YResolution> (cùng một đơn vị cho cả hai giá trị). Nếu không biết độ phân giải của ảnh, được chỉ định là 2 (insơ)."
+msgstr ""
 
 #: src/tags.cpp:540
 msgid "Page Number"
@@ -22749,7 +22749,7 @@ msgstr ""
 
 #: src/tags.cpp:544
 msgid "A transfer function for the image, described in tabular style. Normally this tag is not necessary, since color space is specified in the color space information tag (<ColorSpace>)."
-msgstr "Hàm truyền cho ảnh, được diễn tả trong kiểu dáng bảng. Bình thường, không cần thẻ này, vì vùng màu được ghi rõ trong thẻ thông tin vùng màu (<ColorSpace>)."
+msgstr ""
 
 #: src/tags.cpp:549
 msgid "This tag records the name and version of the software or firmware of the camera or image input device used to generate the image. The detailed format is not specified, but it is recommended that the example shown below be followed. When the field is left blank, it is treated as unknown."
@@ -22757,11 +22757,11 @@ msgstr ""
 
 #: src/tags.cpp:556
 msgid "The date and time of image creation. In Exif standard, it is the date and time the file was changed."
-msgstr "Ngày và giờ tạo ra ảnh. Trong chuẩn Exif, đó là ngày và giờ tập tin đã bị thay đổi."
+msgstr ""
 
 #: src/tags.cpp:560
 msgid "This tag records the name of the camera owner, photographer or image creator. The detailed format is not specified, but it is recommended that the information be written as in the example below for ease of Interoperability. When the field is left blank, it is treated as unknown. Ex.) \"Camera owner, John Smith; Photographer, Michael Brown; Image creator, Ken James\""
-msgstr "Thẻ này ghi tên của người chủ sở hữu máy ảnh, nhà nhiếp ảnh hoặc người tạo ảnh. Định dạng chi tiết không được chỉ rõ, nhưng có lời khuyên rằng thông tin được viết theo ví dụ bên dưới để dễ dàng cho khả năng cộng tác. Khi trường trống, nó được xem như không biết. Ví dụ.) \"Người chủ máy ảnh, Vi Khoa; Nhà nhiếp ảnh, Phạm Khắc; người tạo ảnh, Phạm Vũ Nguyên"
+msgstr ""
 
 #: src/tags.cpp:567
 msgid "Host Computer"
@@ -22781,11 +22781,11 @@ msgstr ""
 
 #: src/tags.cpp:576
 msgid "The chromaticity of the white point of the image. Normally this tag is not necessary, since color space is specified in the colorspace information tag (<ColorSpace>)."
-msgstr "Sắc độ của điểm trắng của ảnh. Bình thường, không cần thẻ này, vì vùng màu được ghi rõ trong thẻ thông tin vùng màu (<ColorSpace>)."
+msgstr ""
 
 #: src/tags.cpp:581
 msgid "The chromaticity of the three primary colors of the image. Normally this tag is not necessary, since colorspace is specified in the colorspace information tag (<ColorSpace>)."
-msgstr "Sắc độ của ba màu chính của ảnh. Bình thường, không cần thẻ này, vì vùng màu được ghi rõ trong thẻ thông tin vùng màu (<ColorSpace>)."
+msgstr ""
 
 #: src/tags.cpp:585
 msgid "Color Map"
@@ -23210,11 +23210,11 @@ msgstr ""
 
 #: src/tags.cpp:829
 msgid "Shutter speed."
-msgstr "Tốc độ chụp"
+msgstr ""
 
 #: src/tags.cpp:830
 msgid "The lens aperture."
-msgstr "Khẩu độ ống kính"
+msgstr ""
 
 #: src/tags.cpp:831
 msgid "The value of brightness."
@@ -23222,11 +23222,11 @@ msgstr ""
 
 #: src/tags.cpp:832
 msgid "The exposure bias."
-msgstr "Độ bù trừ phơi sáng"
+msgstr ""
 
 #: src/tags.cpp:833 src/tags.cpp:1691
 msgid "Max Aperture Value"
-msgstr "Giá trị khẩu độ tối đa"
+msgstr ""
 
 #: src/tags.cpp:833
 msgid "The smallest F number of the lens."
@@ -23262,7 +23262,7 @@ msgstr ""
 
 #: src/tags.cpp:841
 msgid "Noise"
-msgstr "Nhiễu"
+msgstr ""
 
 #: src/tags.cpp:841
 msgid "Noise measurement values."
@@ -23318,7 +23318,7 @@ msgstr ""
 
 #: src/tags.cpp:855
 msgid "Windows Title"
-msgstr "Tiêu đề cửa sổ"
+msgstr ""
 
 #: src/tags.cpp:856
 msgid "Title tag used by Windows, encoded in UCS2"
@@ -23594,7 +23594,7 @@ msgstr ""
 
 #: src/tags.cpp:1085
 msgid "Lens Info"
-msgstr "Thông tin ống kính"
+msgstr ""
 
 #: src/tags.cpp:1086
 msgid "Contains information about the lens that captured the image. If the minimum f-stops are unknown, they should be encoded as 0/0."
@@ -24031,7 +24031,7 @@ msgstr ""
 
 #: src/tags.cpp:1461
 msgid "Portrait mode"
-msgstr "Chế độ chân dung"
+msgstr ""
 
 #: src/tags.cpp:1462
 msgid "Landscape mode"
@@ -24747,19 +24747,19 @@ msgstr ""
 
 #: src/tags.cpp:2152
 msgid "Related Image File Format"
-msgstr "Định dạng tập tin ảnh liên quan"
+msgstr ""
 
 #: src/tags.cpp:2153
 msgid "File format of image file"
-msgstr "Định dạng tập tin của tập tin ảnh"
+msgstr ""
 
 #: src/tags.cpp:2155
 msgid "Related Image Width"
-msgstr "Chiều rộng ảnh liên quan"
+msgstr ""
 
 #: src/tags.cpp:2158
 msgid "Related Image Length"
-msgstr "Chiều dài ảnh liên quan"
+msgstr ""
 
 #: src/tags.cpp:2162 src/tags.cpp:2163
 msgid "Unknown Exif Interoperability tag"
@@ -24927,7 +24927,7 @@ msgstr ""
 
 #: src/tags.cpp:2247
 msgid "Byte Order"
-msgstr "Thứ tự byte"
+msgstr ""
 
 #: src/tags.cpp:2248
 msgid "Byte order used to encode MakerNote tags, 'MM' (big-endian) or 'II' (little-endian)."
