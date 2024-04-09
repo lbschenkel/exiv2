@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2024-02-24 20:04\n"
+"PO-Revision-Date: 2024-04-09 07:27\n"
 "Last-Translator: \n"
 "Language-Team: Georgian\n"
 "Language: ka_GE\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: src/actions.cpp:1444 src/actions.cpp:1685 src/actions.cpp:1820
 #: src/actions.cpp:1883 src/actions.cpp:2101
 msgid "Failed to open the file\n"
-msgstr "ფაილის გახსნა ჩავარდა\n"
+msgstr ""
 
 #: src/actions.cpp:294
 msgid "File name"
@@ -34,20 +34,20 @@ msgstr "ფაილის სახელი"
 
 #: src/actions.cpp:300
 msgid "File size"
-msgstr "ფაილის ზომა"
+msgstr ""
 
 #: src/actions.cpp:301 src/actions.cpp:461 src/actions.cpp:1138
 msgid "Bytes"
-msgstr "ბაიტი"
+msgstr ""
 
 #: src/actions.cpp:305
 msgid "MIME type"
-msgstr "MIME ტიპი"
+msgstr ""
 
 #: src/actions.cpp:309 src/canonmn.cpp:1217 src/minoltamn.cpp:506
 #: src/minoltamn.cpp:751 src/minoltamn.cpp:998 src/pentaxmn.cpp:1450
 msgid "Image size"
-msgstr "გამოსახულებების ზომა"
+msgstr ""
 
 #: src/actions.cpp:314 src/actions.cpp:576 src/actions.cpp:856
 #: src/actions.cpp:1121 src/actions.cpp:1697 src/actions.cpp:1832
@@ -57,31 +57,31 @@ msgstr ""
 
 #: src/actions.cpp:319
 msgid "Camera make"
-msgstr "კამერის მწარმოებელი"
+msgstr ""
 
 #: src/actions.cpp:322
 msgid "Camera model"
-msgstr "კამერის მოდელი"
+msgstr ""
 
 #: src/actions.cpp:325
 msgid "Image timestamp"
-msgstr "გამოსახულების დროის შტამპი"
+msgstr ""
 
 #: src/actions.cpp:329 src/minoltamn.cpp:811 src/minoltamn.cpp:818
 #: src/minoltamn.cpp:1076
 msgid "Image number"
-msgstr "გამოსახულების ნომერი"
+msgstr ""
 
 #: src/actions.cpp:334 src/minoltamn.cpp:521 src/minoltamn.cpp:804
 #: src/minoltamn.cpp:1034 src/minoltamn.cpp:1378 src/pentaxmn.cpp:1467
 #: src/pentaxmn.cpp:1468
 msgid "Exposure time"
-msgstr "ექსპოზიციის დრო"
+msgstr ""
 
 #: src/actions.cpp:346 src/canonmn.cpp:1336 src/minoltamn.cpp:1272
 #: src/tags.cpp:1680
 msgid "Aperture"
-msgstr "დიაფრაგმა"
+msgstr ""
 
 #: src/actions.cpp:357
 msgid "Exposure bias"
@@ -101,7 +101,7 @@ msgstr ""
 #: src/actions.cpp:368 src/canonmn.cpp:418 src/minoltamn.cpp:545
 #: src/nikonmn.cpp:1399 src/nikonmn.cpp:1424
 msgid "Focal length"
-msgstr "ფოკუსური მანძილი"
+msgstr ""
 
 #: src/actions.cpp:373
 msgid "35 mm equivalent"
@@ -109,37 +109,37 @@ msgstr ""
 
 #: src/actions.cpp:385 src/canonmn.cpp:1334
 msgid "Subject distance"
-msgstr "დაშორება ობიექტამდე"
+msgstr ""
 
 #: src/actions.cpp:399
 msgid "ISO speed"
-msgstr "ISO სიჩქარე"
+msgstr ""
 
 #: src/actions.cpp:402 src/minoltamn.cpp:497 src/minoltamn.cpp:748
 #: src/minoltamn.cpp:995 src/minoltamn.cpp:1363 src/olympusmn.cpp:675
 #: src/sigmamn.cpp:75
 msgid "Exposure mode"
-msgstr "ექსპოზიცის რეჟიმი"
+msgstr ""
 
 #: src/actions.cpp:405 src/minoltamn.cpp:515 src/minoltamn.cpp:1016
 #: src/minoltamn.cpp:1405 src/olympusmn.cpp:677 src/sigmamn.cpp:78
 msgid "Metering mode"
-msgstr "გაზომვის რეჟიმი"
+msgstr ""
 
 #: src/actions.cpp:408 src/canonmn.cpp:1208 src/minoltamn.cpp:527
 #: src/olympusmn.cpp:203 src/olympusmn.cpp:679 src/panasonicmn.cpp:448
 msgid "Macro mode"
-msgstr "მაკროს რეჟიმი"
+msgstr ""
 
 #: src/actions.cpp:411 src/minoltamn.cpp:139 src/minoltamn.cpp:509
 #: src/minoltamn.cpp:754 src/minoltamn.cpp:1001 src/pentaxmn.cpp:1447
 #: src/sonymn.cpp:338
 msgid "Image quality"
-msgstr "გამოსახულების ხარისხი"
+msgstr ""
 
 #: src/actions.cpp:415
 msgid "Exif Resolution"
-msgstr "Exif გაფართოება"
+msgstr ""
 
 #: src/actions.cpp:445 src/canonmn.cpp:1584 src/minoltamn.cpp:184
 #: src/minoltamn.cpp:503 src/minoltamn.cpp:757 src/minoltamn.cpp:1004
@@ -293,7 +293,7 @@ msgstr ""
 
 #: src/actions.cpp:1516
 msgid "Add"
-msgstr "დამატება"
+msgstr ""
 
 #: src/actions.cpp:1538 src/actions.cpp:1612
 msgid "Warning"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: src/actions.cpp:1624
 msgid "Del"
-msgstr "წაშლა"
+msgstr ""
 
 #: src/actions.cpp:1656
 msgid "Reg "
@@ -357,11 +357,11 @@ msgstr ""
 
 #: src/actions.cpp:1774
 msgid "day"
-msgstr "დღე"
+msgstr ""
 
 #: src/actions.cpp:1780
 msgid "s"
-msgstr "ს"
+msgstr ""
 
 #: src/actions.cpp:1796
 msgid "Can't adjust timestamp by"
@@ -475,7 +475,7 @@ msgstr ""
 #: src/sonymn.cpp:214 src/sonymn.cpp:259 src/sonymn.cpp:266 src/sonymn.cpp:297
 #: src/sonymn.cpp:568
 msgid "Off"
-msgstr "გამორთ"
+msgstr ""
 
 #: src/canonmn.cpp:60 src/canonmn.cpp:462 src/canonmn.cpp:481
 #: src/canonmn.cpp:1160 src/canonmn.cpp:1475 src/fujimn.cpp:57
@@ -5521,7 +5521,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:795
 msgid "Hue"
-msgstr "ტონი"
+msgstr ""
 
 #: src/minoltamn.cpp:797 src/minoltamn.cpp:798 src/minoltamn.cpp:1051
 #: src/minoltamn.cpp:1052 src/minoltamn.cpp:1581 src/minoltamn.cpp:1582
@@ -7199,7 +7199,7 @@ msgstr ""
 #: src/nikonmn.cpp:662 src/olympusmn.cpp:67 src/panasonicmn.cpp:190
 #: src/panasonicmn.cpp:436 src/pentaxmn.cpp:396
 msgid "Yes"
-msgstr "დიახ"
+msgstr ""
 
 #: src/nikonmn.cpp:667
 msgid "Y/M/D"
@@ -8148,7 +8148,7 @@ msgstr ""
 #: src/olympusmn.cpp:122 src/panasonicmn.cpp:142 src/pentaxmn.cpp:595
 #: src/sonymn.cpp:180
 msgid "Pet"
-msgstr "შინაური ცხოველი"
+msgstr ""
 
 #: src/olympusmn.cpp:123
 msgid "Underwater Wide1"
@@ -8640,7 +8640,7 @@ msgstr ""
 
 #: src/olympusmn.cpp:494
 msgid "ESP"
-msgstr "ESP"
+msgstr ""
 
 #: src/olympusmn.cpp:495
 msgid "Pattern+AF"
@@ -15180,11 +15180,11 @@ msgstr ""
 
 #: src/properties.cpp:736
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #: src/properties.cpp:737
 msgid "Y"
-msgstr "Y"
+msgstr ""
 
 #: src/properties.cpp:738
 msgid "Alpha"
