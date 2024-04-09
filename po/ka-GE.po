@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: exiv2\n"
 "Report-Msgid-Bugs-To: ahuggel@gmx.net\n"
 "POT-Creation-Date: 2017-03-21 21:42+0100\n"
-"PO-Revision-Date: 2024-04-09 09:02\n"
+"PO-Revision-Date: 2024-04-09 10:47\n"
 "Last-Translator: \n"
 "Language-Team: Georgian\n"
 "Language: ka_GE\n"
@@ -1180,11 +1180,11 @@ msgstr "აკვარიუმი"
 
 #: src/canonmn.cpp:575
 msgid "ISO 3200"
-msgstr ""
+msgstr "ISO 3200"
 
 #: src/canonmn.cpp:576
 msgid "ISO 6400"
-msgstr ""
+msgstr "ISO 6400"
 
 #: src/canonmn.cpp:577
 msgid "Creative Light Effect"
@@ -4697,7 +4697,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:66 src/minoltamn.cpp:2239
 msgid "AdobeRGB"
-msgstr ""
+msgstr "AdobeRGB"
 
 #: src/minoltamn.cpp:68 src/minoltamn.cpp:952 src/olympusmn.cpp:618
 #: src/olympusmn.cpp:872 src/panasonicmn.cpp:261 src/panasonicmn.cpp:371
@@ -5447,7 +5447,7 @@ msgstr ""
 
 #: src/minoltamn.cpp:682 src/minoltamn.cpp:868
 msgid "Raw+Jpeg"
-msgstr ""
+msgstr "Raw+Jpeg"
 
 #: src/minoltamn.cpp:694 src/minoltamn.cpp:881 src/panasonicmn.cpp:76
 #: src/pentaxmn.cpp:420
@@ -6362,7 +6362,7 @@ msgstr "CRAW"
 
 #: src/minoltamn.cpp:2353
 msgid "RAW+JPEG"
-msgstr ""
+msgstr "RAW+JPEG"
 
 #: src/minoltamn.cpp:2354
 msgid "CRAW+JPEG"
@@ -7205,15 +7205,15 @@ msgstr "დიახ"
 
 #: src/nikonmn.cpp:667
 msgid "Y/M/D"
-msgstr ""
+msgstr "წ/თ/დ"
 
 #: src/nikonmn.cpp:668
 msgid "M/D/Y"
-msgstr ""
+msgstr "თ/დ/წ"
 
 #: src/nikonmn.cpp:669
 msgid "D/M/Y"
-msgstr ""
+msgstr "დ/თ/წ"
 
 #: src/nikonmn.cpp:681 src/nikonmn.cpp:1280
 msgid "Vibration Reduction"
@@ -7438,7 +7438,7 @@ msgstr ""
 
 #: src/nikonmn.cpp:815
 msgid "ISO 2"
-msgstr ""
+msgstr "ISO 2"
 
 #: src/nikonmn.cpp:816
 msgid "ISO Expansion 2"
@@ -7715,11 +7715,11 @@ msgstr ""
 
 #: src/nikonmn.cpp:1043
 msgid "TN-A1"
-msgstr ""
+msgstr "TN-A1"
 
 #: src/nikonmn.cpp:1044
 msgid "TN-A2"
-msgstr ""
+msgstr "TN-A2"
 
 #: src/nikonmn.cpp:1048
 msgid "Amber"
@@ -12309,11 +12309,11 @@ msgstr ""
 
 #: src/pentaxmn.cpp:1130
 msgid "WB-BA"
-msgstr ""
+msgstr "WB-BA"
 
 #: src/pentaxmn.cpp:1133
 msgid "WB-GM"
-msgstr ""
+msgstr "WB-GM"
 
 #: src/pentaxmn.cpp:1145
 msgid "Unknown "
@@ -14027,7 +14027,7 @@ msgstr ""
 
 #: src/properties.cpp:480 src/properties.cpp:1589
 msgid "Source."
-msgstr ""
+msgstr "წყარო."
 
 #: src/properties.cpp:481
 msgid "Supplemental category."
@@ -15226,7 +15226,7 @@ msgstr "გადაწევა Y-ით"
 
 #: src/properties.cpp:749
 msgid "Opacity"
-msgstr ""
+msgstr "გაუმჭვირვალობა"
 
 #: src/properties.cpp:751
 msgid "Seed"
@@ -15827,7 +15827,7 @@ msgstr ""
 
 #: src/properties.cpp:888
 msgid "GPS DOP"
-msgstr ""
+msgstr "GPS DOP"
 
 #: src/properties.cpp:888
 msgid "GPS tag 11, 0x0B. Degree of precision for GPS data."
@@ -18201,7 +18201,7 @@ msgstr ""
 
 #: src/properties.cpp:1424
 msgid "Encoder"
-msgstr ""
+msgstr "ენკოდერი"
 
 #: src/properties.cpp:1424
 msgid "Information about the Encoder."
@@ -18665,7 +18665,7 @@ msgstr ""
 
 #: src/properties.cpp:1503
 msgid "Medium."
-msgstr ""
+msgstr "საშუალო."
 
 #: src/properties.cpp:1504
 msgid "Metadata"
@@ -22283,7 +22283,7 @@ msgstr "CMYK"
 
 #: src/tags.cpp:295
 msgid "YCbCr"
-msgstr ""
+msgstr "YCbCr"
 
 #: src/tags.cpp:296
 msgid "CIELab"
@@ -22407,7 +22407,7 @@ msgstr ""
 
 #: src/tags.cpp:357
 msgid "A+B-C"
-msgstr ""
+msgstr "A+B-C"
 
 #: src/tags.cpp:358
 msgid "A+((B-C)/2)"
@@ -22419,7 +22419,7 @@ msgstr ""
 
 #: src/tags.cpp:360
 msgid "(A+B)/2"
-msgstr ""
+msgstr "(A+B)/2"
 
 #: src/tags.cpp:365
 msgid "Centered"
